@@ -15,7 +15,7 @@ Built and run on a single RTX 3080 Ti (12 GB), Ubuntu 24.04, Python 3.12, torch 
 
 ---
 
-## ⚠️ This is a clone of a real person's voice
+##  This is a clone of a real person's voice
 
 The model reproduces the voice of a specific, identifiable individual. Everything below assumes
 that is understood:
@@ -266,7 +266,7 @@ checkpoint), per-run log archives (`logs/run*/`), the venv, and caches.
 The final model weights were deployed in HuggingFace Spaces. The implementation can be found in deployment [here](https://huggingface.co/spaces/Rezuwan/Aktar_Khan_TTS)
 
 
-![Model deployment on huggingface spaces screenshot](https://raw.githubusercontent.com/zero-shot-voice-tts/upload/main/checkpoints/hf_space.PNG) 
+![Model deployment on huggingface spaces screenshot](https://raw.githubusercontent.com/zero-shot-voice-tts/main/checkpoints/hf_space.PNG) 
 
 
 
