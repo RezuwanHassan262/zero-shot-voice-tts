@@ -260,6 +260,17 @@ housekeeping:
 Also excluded: generated audio and evaluation sweeps (`output/`, tens of GB, regenerable from the
 checkpoint), per-run log archives (`logs/run*/`), the venv, and caches.
 
+
+## Model Deployment
+
+The final model weights were deployed in HuggingFace Spaces. The implementation can be found in deployment [here](https://huggingface.co/spaces/Rezuwan/Aktar_Khan_TTS)
+
+
+![Model deployment on huggingface spaces screenshot](https://raw.githubusercontent.com/zero-shot-voice-tts/upload/main/checkpoints/hf_space.PNG) 
+
+
+
+
 ## License
 
 The base model [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) is released under **CC-BY-NC-4.0**
