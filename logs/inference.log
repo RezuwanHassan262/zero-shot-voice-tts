@@ -1,0 +1,572 @@
+2026-09-19 18:11:01,334 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-19 18:12:25,206 | INFO    | loading fine-tuned weights /home/farig/.cache/huggingface/hub/models--SWivid--F5-TTS/snapshots/84e5a410d9cead4de2f847e7c9369a6440bdfaca/F5TTS_Base/model_1200000.pt (1.26 GB, EMA weights)
+2026-09-19 19:34:23,546 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-19 19:34:26,469 | INFO    | interpolated 364 tensors at alpha=0.00 (||theta_ft - theta_pre||_2 = 7.49) from model_1200000.pt + best_model.pt
+2026-09-19 19:34:32,384 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-19 19:34:35,124 | INFO    | interpolated 364 tensors at alpha=0.50 (||theta_ft - theta_pre||_2 = 7.49) from model_1200000.pt + best_model.pt
+2026-09-19 19:34:40,562 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-19 19:34:43,347 | INFO    | interpolated 364 tensors at alpha=0.50 (||theta_ft - theta_pre||_2 = 7.49) from model_1200000.pt + best_model.pt
+2026-09-19 19:34:49,016 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-19 19:36:45,249 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-19 19:37:00,822 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-19 19:37:03,865 | INFO    | interpolated 364 tensors at alpha=0.00 (||theta_ft - theta_pre||_2 = 7.49) from model_1200000.pt + best_model.pt
+2026-09-19 19:38:16,368 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-19 19:38:19,233 | INFO    | interpolated 364 tensors at alpha=0.20 (||theta_ft - theta_pre||_2 = 7.49) from model_1200000.pt + best_model.pt
+2026-09-19 19:39:37,656 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-19 19:39:40,390 | INFO    | interpolated 364 tensors at alpha=0.20 (||theta_ft - theta_pre||_2 = 7.49) from model_1200000.pt + best_model.pt
+2026-09-19 19:40:58,560 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-19 19:41:01,313 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.49) from model_1200000.pt + best_model.pt
+2026-09-19 19:42:20,146 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-19 19:42:22,878 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.49) from model_1200000.pt + best_model.pt
+2026-09-19 19:43:46,669 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-19 19:43:49,347 | INFO    | interpolated 364 tensors at alpha=0.60 (||theta_ft - theta_pre||_2 = 7.49) from model_1200000.pt + best_model.pt
+2026-09-19 19:45:08,616 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-19 19:45:11,397 | INFO    | interpolated 364 tensors at alpha=0.60 (||theta_ft - theta_pre||_2 = 7.49) from model_1200000.pt + best_model.pt
+2026-09-19 19:46:30,685 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-19 19:46:33,444 | INFO    | interpolated 364 tensors at alpha=0.80 (||theta_ft - theta_pre||_2 = 7.49) from model_1200000.pt + best_model.pt
+2026-09-19 19:47:52,815 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-19 19:47:55,581 | INFO    | interpolated 364 tensors at alpha=0.80 (||theta_ft - theta_pre||_2 = 7.49) from model_1200000.pt + best_model.pt
+2026-09-19 19:49:14,866 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 02:03:18,254 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 02:04:40,297 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 02:45:44,947 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 02:45:52,993 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 02:45:55,758 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-20 02:46:01,412 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 02:46:04,132 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-20 02:47:19,977 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 02:47:22,995 | INFO    | interpolated 364 tensors at alpha=0.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-20 02:48:43,443 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 02:48:46,003 | INFO    | interpolated 364 tensors at alpha=0.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-20 02:50:07,586 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 02:50:10,344 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-20 02:51:32,401 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 02:51:35,160 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-20 02:52:56,528 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 02:52:59,235 | INFO    | interpolated 364 tensors at alpha=0.60 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-20 02:54:20,957 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 02:54:23,660 | INFO    | interpolated 364 tensors at alpha=0.60 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-20 02:55:45,417 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 02:55:48,117 | INFO    | interpolated 364 tensors at alpha=0.80 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-20 02:57:10,351 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 02:57:13,107 | INFO    | interpolated 364 tensors at alpha=0.80 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-20 02:58:36,460 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 02:58:39,224 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-20 03:00:01,888 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:00:04,630 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-20 03:01:22,087 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:01:24,842 | INFO    | interpolated 364 tensors at alpha=1.50 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-20 03:02:47,602 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:02:50,323 | INFO    | interpolated 364 tensors at alpha=1.50 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-20 03:31:43,038 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:33:04,382 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:34:27,025 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:37:10,646 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:39:55,237 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:41:19,357 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:42:43,549 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:45:28,954 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:48:15,472 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:49:35,056 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:50:59,844 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:53:45,973 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:56:32,151 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 03:57:56,968 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 04:00:43,072 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 04:03:29,668 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 04:04:54,483 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 04:06:19,406 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-20 04:09:05,798 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 04:05:40,795 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 04:08:22,693 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 04:08:25,476 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.70) from model_1200000.pt + best_model.pt
+2026-09-21 06:06:53,691 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 06:08:15,858 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 07:03:43,710 | INFO    | loading fine-tuned weights checkpoints/best_model_run5_ep81.pt (1.88 GB, EMA weights)
+2026-09-21 08:44:08,738 | INFO    | loading fine-tuned weights checkpoints/best_model_run6.pt (1.88 GB, EMA weights)
+2026-09-21 09:22:33,851 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 09:22:36,911 | INFO    | interpolated 364 tensors at alpha=0.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 09:30:36,394 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 09:30:39,404 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 09:38:48,179 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 09:38:51,150 | INFO    | interpolated 364 tensors at alpha=0.60 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 09:46:54,743 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 09:46:57,741 | INFO    | interpolated 364 tensors at alpha=0.80 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 09:55:02,670 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 09:55:05,671 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 10:03:15,455 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 10:03:18,415 | INFO    | interpolated 364 tensors at alpha=1.50 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 10:26:57,284 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 10:32:26,205 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 10:32:29,305 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 10:40:31,094 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 10:40:34,096 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 10:48:38,285 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 10:48:41,343 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 11:04:36,542 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 11:04:39,513 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 11:20:38,241 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 11:20:41,253 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 11:28:45,309 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 11:28:48,284 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 11:36:52,533 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 11:36:55,536 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 11:52:50,174 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 11:52:53,155 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 12:08:51,859 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 12:08:54,852 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 12:16:58,626 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 12:17:01,597 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 12:25:05,597 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 12:25:08,566 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 12:41:04,355 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 12:41:07,387 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 12:57:00,911 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 12:57:03,811 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 13:05:07,524 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 13:05:10,451 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 13:13:14,160 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 13:13:17,129 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 13:29:10,944 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 13:29:13,875 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 13:45:08,673 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 13:45:11,658 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 13:53:15,760 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 13:53:18,691 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 14:01:23,050 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 14:01:26,009 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 14:17:20,980 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 14:17:23,990 | INFO    | interpolated 364 tensors at alpha=0.40 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 14:33:19,250 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 14:41:26,469 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 14:49:36,643 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 15:05:35,703 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 15:21:33,822 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 15:29:40,767 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 15:37:47,833 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 15:53:45,608 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 16:09:43,379 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 16:17:49,699 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 16:25:55,909 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 16:41:51,898 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 16:57:47,969 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 17:05:54,369 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 17:14:00,751 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 17:29:56,806 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 17:45:52,940 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 17:53:58,962 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 18:02:04,715 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 18:18:00,623 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 18:33:56,024 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 18:33:59,033 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 18:42:03,330 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 18:42:06,264 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 18:50:10,326 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 18:50:13,271 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 19:06:07,189 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 19:06:10,108 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 19:22:04,339 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 19:22:07,298 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 19:30:11,126 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 19:30:14,102 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 19:38:19,069 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 19:38:22,089 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 19:54:16,617 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 19:54:19,598 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 20:10:13,733 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 20:10:16,667 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 20:18:21,099 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 20:18:24,102 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 20:26:28,045 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 20:26:31,026 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 20:42:26,219 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 20:42:29,144 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 20:58:27,296 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 20:58:30,209 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 21:06:36,037 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 21:06:39,004 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 21:14:47,211 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 21:14:50,116 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 21:30:55,772 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 21:30:58,737 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 21:47:08,155 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 21:47:11,087 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 21:55:24,273 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 21:55:27,183 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 22:03:40,836 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 22:03:43,743 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 22:19:58,232 | INFO    | loading fine-tuned weights checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-21 22:20:01,233 | INFO    | interpolated 364 tensors at alpha=1.20 (||theta_ft - theta_pre||_2 = 7.69) from model_1200000.pt + best_model.pt
+2026-09-21 23:07:32,718 | CRITICAL | Uncaught exception
+Traceback (most recent call last):
+  File "<stdin>", line 3, in <module>
+  File "/home/farig/Rezuwan_TTS/scripts/inference.py", line 185, in load_tts
+    log.info(f"loading fine-tuned weights {ckpt} ({ckpt.stat().st_size / 1024**3:.2f} GB, EMA weights)")
+                                                   ^^^^^^^^^
+AttributeError: 'str' object has no attribute 'stat'
+2026-09-21 23:07:47,391 | INFO    | loading fine-tuned weights checkpoints/best_model_alpha1.20.pt (0.63 GB, EMA weights)
+2026-09-27 16:47:36,921 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 16:49:00,154 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 17:27:27,115 | INFO    | cleanup | === disk before: 142 GB free ===
+2026-09-27 17:27:27,115 | INFO    | cleanup | --- candidates ---
+2026-09-27 17:27:27,115 | INFO    | cleanup |        0.2 MB  ./scripts/__pycache__
+2026-09-27 17:27:27,115 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 17:27:27,115 | INFO    | cleanup | === disk after: 142 GB free (reclaimed 0.00 GB) ===
+2026-09-27 17:27:27,115 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 17:27:27,115 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 17:27:27,121 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 17:27:28,196 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.88 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 17:28:19,452 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (51s, stems: vocals/other)
+2026-09-27 17:29:30,942 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (70s, stems: dry/other)
+2026-09-27 17:29:32,984 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 124.1s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 17:29:32,985 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'What do you think about me? If you leave me, I will cry like a baby. Oh, baby, I play DJ, baby, DJ.'
+2026-09-27 17:29:32,985 | INFO    | target text (113 chars): 'University of Naples Federico II is a public research university in Naples, Campania, Italy, established in 1224,'
+2026-09-27 17:29:36,311 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 17:29:38,851 | INFO    | Converting audio...
+2026-09-27 17:29:38,874 | INFO    | Using custom reference text...
+2026-09-27 17:29:38,875 | INFO    | Generating audio in 2 batches...
+2026-09-27 17:29:41,848 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 12.71s -> 11.55s after edge-silence trim
+2026-09-27 17:32:44,752 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 17:32:44,752 | INFO    | cleanup | --- candidates ---
+2026-09-27 17:32:44,752 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 17:32:44,752 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 17:32:44,752 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 17:32:44,752 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 17:32:44,752 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 17:32:44,758 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 17:32:45,981 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.90 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 17:32:49,046 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 17:32:51,868 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 17:32:53,927 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 7.3s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 17:32:53,928 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'What do you think about me? If you leave me, I will cry like a baby. Oh, baby, I play DJ, baby, DJ.'
+2026-09-27 17:32:53,928 | INFO    | target text (326 chars): "Brother Ishmam Tasin living in Mirpur, Dhaka, Bangladesh from Khulna, Bangladesh. It's not just a Ishmam Tasin, Ishmam Tasin is a brand, Ishmam Tasin is the man of smart people. The people of brother "
+2026-09-27 17:32:57,240 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 17:32:59,850 | INFO    | Converting audio...
+2026-09-27 17:32:59,872 | INFO    | Using custom reference text...
+2026-09-27 17:32:59,873 | INFO    | Generating audio in 6 batches...
+2026-09-27 17:33:08,112 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 36.10s -> 34.32s after edge-silence trim
+2026-09-27 17:36:15,357 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 17:36:15,358 | INFO    | cleanup | --- candidates ---
+2026-09-27 17:36:15,358 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 17:36:15,358 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 17:36:15,358 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 17:36:15,358 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 17:36:15,358 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 17:36:15,364 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 17:36:16,612 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.91 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 17:36:19,659 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 17:36:22,538 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 17:36:24,612 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 7.4s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 17:36:24,612 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'What do you think about me? If you leave me, I will cry like a baby. Oh, baby, I play DJ, baby, DJ.'
+2026-09-27 17:36:24,612 | INFO    | target text (285 chars): "Brother Ishmam Tasin living Dhaka Bangladesh from Khulna Bangladesh. It's not just a brother Ishmam Tasin, Ishmam Tasin is a brand Ishmam Tasin is the man of smart people. The people of brother Ishmam"
+2026-09-27 17:36:27,917 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 17:36:30,514 | INFO    | Converting audio...
+2026-09-27 17:36:30,537 | INFO    | Using custom reference text...
+2026-09-27 17:36:30,538 | INFO    | Generating audio in 5 batches...
+2026-09-27 17:36:37,423 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 31.67s -> 31.29s after edge-silence trim
+2026-09-27 17:42:31,268 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 17:42:31,268 | INFO    | cleanup | --- candidates ---
+2026-09-27 17:42:31,268 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 17:42:31,268 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 17:42:31,268 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 17:42:31,268 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 17:42:31,268 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 17:42:31,275 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 17:42:32,399 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.89 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 17:42:35,497 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 17:42:39,620 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 17:42:42,348 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.3s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 17:42:42,349 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-27 17:42:42,349 | INFO    | target text (305 chars): "Hello everyone, welcome back to my channel. Today I want to talk about something very important. It's not just a university, it is a brand. The people of this university, they are all very smart. So i"
+2026-09-27 17:42:45,736 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 17:42:48,386 | INFO    | Converting audio...
+2026-09-27 17:42:48,405 | INFO    | Using custom reference text...
+2026-09-27 17:42:48,406 | INFO    | Generating audio in 3 batches...
+2026-09-27 17:42:52,604 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 25.29s -> 24.57s after edge-silence trim
+2026-09-27 18:43:17,498 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 18:43:17,498 | INFO    | cleanup | --- candidates ---
+2026-09-27 18:43:17,498 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 18:43:17,498 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 18:43:17,498 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 18:43:17,499 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 18:43:17,499 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 18:43:17,504 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 18:43:18,587 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.88 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 18:43:21,564 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 18:43:25,709 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 18:43:28,443 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.2s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 18:43:28,443 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-27 18:43:28,443 | INFO    | target text (285 chars): "Brother Ishmam Tasin living Dhaka Bangladesh from Khulna Bangladesh. It's not just a brother Ishmam Tasin, Ishmam Tasin is a brand Ishmam Tasin is the man of smart people. The people of brother Ishmam"
+2026-09-27 18:43:31,874 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 18:43:35,327 | INFO    | Converting audio...
+2026-09-27 18:43:35,346 | INFO    | Using custom reference text...
+2026-09-27 18:43:35,347 | INFO    | Generating audio in 3 batches...
+2026-09-27 18:43:39,514 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 23.59s -> 22.90s after edge-silence trim
+2026-09-27 18:47:59,342 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 18:47:59,343 | INFO    | cleanup | --- candidates ---
+2026-09-27 18:47:59,343 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 18:47:59,343 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 18:47:59,343 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 18:47:59,343 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 18:47:59,343 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 18:47:59,349 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 18:48:00,539 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.87 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 18:48:03,617 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 18:48:07,853 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 18:48:10,592 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.4s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 18:48:10,592 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-27 18:48:10,592 | INFO    | target text (284 chars): "Sister Prottasha Saha live in Illinois, USA from Dhaka Bangladesh. It's not just a Prottasha, Prottasha is a brand, Prottasha is the women of smart people. The people of sister Prottasha are very smar"
+2026-09-27 18:48:13,941 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 18:48:16,562 | INFO    | Converting audio...
+2026-09-27 18:48:16,581 | INFO    | Using custom reference text...
+2026-09-27 18:48:16,582 | INFO    | Generating audio in 3 batches...
+2026-09-27 18:48:20,766 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 23.51s -> 23.15s after edge-silence trim
+2026-09-27 19:09:52,792 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 19:09:52,792 | INFO    | cleanup | --- candidates ---
+2026-09-27 19:09:52,792 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 19:09:52,792 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 19:09:52,792 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 19:09:52,792 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 19:09:52,792 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 19:09:52,798 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 19:09:53,872 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.87 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 19:09:56,833 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 19:10:00,982 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 19:10:03,724 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.2s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 19:10:03,724 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-27 19:10:03,724 | INFO    | target text (278 chars): "Sister Prottasa Saha live in Illinois, USA from Dhaka Bangladesh. It's not just a Prottasa, Prottasa is a brand, Prottasa is the women of smart people. The people of sister Prottasa are very smart, I "
+2026-09-27 19:10:07,098 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 19:10:09,747 | INFO    | Converting audio...
+2026-09-27 19:10:09,765 | INFO    | Using custom reference text...
+2026-09-27 19:10:09,767 | INFO    | Generating audio in 3 batches...
+2026-09-27 19:10:13,889 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 23.00s -> 22.64s after edge-silence trim
+2026-09-27 19:13:12,033 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 19:13:12,033 | INFO    | cleanup | --- candidates ---
+2026-09-27 19:13:12,033 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 19:13:12,033 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 19:13:12,033 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 19:13:12,033 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 19:13:12,033 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 19:13:12,039 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 19:13:13,118 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.87 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 19:13:16,168 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 19:13:20,342 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 19:13:23,117 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.4s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 19:13:23,117 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-27 19:13:23,117 | INFO    | target text (281 chars): "Sister Prottasaa Saha live in Illinois USA from Dhaka Bangladesh. It's not just a Prottasaa, Prottasaa is a brand, Prottasaa is the women of smart people. The people of sister Prottasaa are very smart"
+2026-09-27 19:13:26,488 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 19:13:29,116 | INFO    | Converting audio...
+2026-09-27 19:13:29,135 | INFO    | Using custom reference text...
+2026-09-27 19:13:29,136 | INFO    | Generating audio in 3 batches...
+2026-09-27 19:13:33,309 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 23.26s -> 22.80s after edge-silence trim
+2026-09-27 19:15:02,134 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 19:15:02,135 | INFO    | cleanup | --- candidates ---
+2026-09-27 19:15:02,135 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 19:15:02,135 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 19:15:02,135 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 19:15:02,135 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 19:15:02,135 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 19:15:02,141 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 19:15:03,357 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.87 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 19:15:06,405 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 19:15:10,608 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 19:15:13,359 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.4s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 19:15:13,359 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-27 19:15:13,359 | INFO    | target text (281 chars): "Sister Prottasaa Saha living in Illinois USA from Dhaka Bangladesh. It's not just Prottasaa, Prottasaa is a brand, Prottasaa is the women of smart people. The people of sister Prottasaa are very smart"
+2026-09-27 19:15:16,742 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 19:15:19,365 | INFO    | Converting audio...
+2026-09-27 19:15:19,384 | INFO    | Using custom reference text...
+2026-09-27 19:15:19,385 | INFO    | Generating audio in 3 batches...
+2026-09-27 19:15:23,550 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 23.26s -> 22.69s after edge-silence trim
+2026-09-27 19:17:10,558 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 19:17:10,558 | INFO    | cleanup | --- candidates ---
+2026-09-27 19:17:10,558 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 19:17:10,558 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 19:17:10,558 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 19:17:10,559 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 19:17:10,559 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 19:17:10,565 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 19:17:11,780 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.88 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 19:17:14,831 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 19:17:19,043 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 19:17:21,783 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.4s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 19:17:21,783 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-27 19:17:21,783 | INFO    | target text (307 chars): "SIster Prottasha Saha live in Illinois, USA from Dhaka, Bangladesh. It's not just a Prottasha  Saha, Prottasha Saha is a brand, Prottasha  Saha is the woman of smart people.  The people of Prottasha S"
+2026-09-27 19:17:25,089 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 19:17:27,659 | INFO    | Converting audio...
+2026-09-27 19:17:27,678 | INFO    | Using custom reference text...
+2026-09-27 19:17:27,679 | INFO    | Generating audio in 3 batches...
+2026-09-27 19:17:32,158 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 25.37s -> 25.06s after edge-silence trim
+2026-09-27 19:21:48,221 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 19:21:48,221 | INFO    | cleanup | --- candidates ---
+2026-09-27 19:21:48,221 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 19:21:48,222 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 19:21:48,222 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 19:21:48,222 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 19:21:48,222 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 19:21:48,228 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 19:21:49,448 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.88 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 19:21:52,544 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 19:21:56,708 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 19:21:59,460 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.4s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 19:21:59,460 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-27 19:21:59,460 | INFO    | target text (254 chars): "Brother Yasin live in Georgia, USA from Dhaka Bangladesh. It's not just a Yasin, Yasin is a brand, Yasin is the man of smart people.\nThe people of brother Yasin are very smart, I love and respect brot"
+2026-09-27 19:22:02,825 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 19:22:05,392 | INFO    | Converting audio...
+2026-09-27 19:22:05,411 | INFO    | Using custom reference text...
+2026-09-27 19:22:05,412 | INFO    | Generating audio in 2 batches...
+2026-09-27 19:22:08,711 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 21.22s -> 20.58s after edge-silence trim
+2026-09-27 19:23:42,635 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 19:23:42,635 | INFO    | cleanup | --- candidates ---
+2026-09-27 19:23:42,635 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 19:23:42,635 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 19:23:42,635 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 19:23:42,635 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 19:23:42,635 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 19:23:42,641 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 19:23:43,820 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.88 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 19:23:46,840 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 19:23:51,067 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 19:23:53,845 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.4s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 19:23:53,845 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-27 19:23:53,845 | INFO    | target text (269 chars): "Brother Yasin A.K.A Bacchuda live in Georgia, USA from Dhaka Bangladesh. It's not just a Yasin, Yasin is a brand, Yasin is the man of smart people.\nThe people of brother Yasin are very smart, I love a"
+2026-09-27 19:23:57,274 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 19:23:59,918 | INFO    | Converting audio...
+2026-09-27 19:23:59,937 | INFO    | Using custom reference text...
+2026-09-27 19:23:59,938 | INFO    | Generating audio in 3 batches...
+2026-09-27 19:24:03,857 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 22.24s -> 21.88s after edge-silence trim
+2026-09-27 19:28:24,922 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 19:28:24,922 | INFO    | cleanup | --- candidates ---
+2026-09-27 19:28:24,922 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 19:28:24,922 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 19:28:24,922 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 19:28:24,922 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 19:28:24,922 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 19:28:24,928 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 19:28:26,104 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.87 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 19:28:29,202 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 19:28:33,365 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 19:28:36,122 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.4s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 19:28:36,122 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-27 19:28:36,122 | INFO    | target text (298 chars): "Brother sir Rafin A.K.A Bacchuda associate live in Dhaka Bangladesh from Kushtia Bangladesh. It's not just a sir Rafin, sir Rafin is a brand, sir Rafin is the man of smart people.\nThe people of sir Ra"
+2026-09-27 19:28:39,376 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 19:28:41,960 | INFO    | Converting audio...
+2026-09-27 19:28:41,979 | INFO    | Using custom reference text...
+2026-09-27 19:28:41,980 | INFO    | Generating audio in 3 batches...
+2026-09-27 19:28:46,289 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 24.69s -> 23.72s after edge-silence trim
+2026-09-27 19:31:42,270 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 19:31:42,271 | INFO    | cleanup | --- candidates ---
+2026-09-27 19:31:42,271 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 19:31:42,271 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 19:31:42,271 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 19:31:42,271 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 19:31:42,271 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 19:31:42,276 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 19:31:43,358 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.88 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 19:31:46,395 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 19:31:50,584 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 19:31:53,324 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.3s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 19:31:53,324 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-27 19:31:53,324 | INFO    | target text (236 chars): "Brother Juboraj A.K.A bici kande live in Dhaka Bangladesh. It's not just a Juboraj , Juboraj is a brand, Juboraj is the man of bici kande people.\nThe people of Juboraj are very smart, I love and respe"
+2026-09-27 19:31:56,726 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 19:31:59,346 | INFO    | Converting audio...
+2026-09-27 19:31:59,366 | INFO    | Using custom reference text...
+2026-09-27 19:31:59,367 | INFO    | Generating audio in 2 batches...
+2026-09-27 19:32:02,558 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 19.69s -> 19.21s after edge-silence trim
+2026-09-27 19:34:52,506 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 19:34:52,506 | INFO    | cleanup | --- candidates ---
+2026-09-27 19:34:52,507 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 19:34:52,507 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 19:34:52,507 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 19:34:52,507 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 19:34:52,507 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 19:34:52,513 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 19:34:53,751 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.88 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 19:34:56,797 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 19:35:00,992 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 19:35:03,760 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.4s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 19:35:03,760 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-27 19:35:03,760 | INFO    | target text (298 chars): "Brother sir Rabbi A.K.A Bacchuda associate live in Dhaka Bangladesh from Kushtia Bangladesh. It's not just a sir Rabbi, sir Rabbi is a brand, sir Rabbi is the man of smart people.\nThe people of sir Ra"
+2026-09-27 19:35:07,109 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 19:35:09,687 | INFO    | Converting audio...
+2026-09-27 19:35:09,706 | INFO    | Using custom reference text...
+2026-09-27 19:35:09,707 | INFO    | Generating audio in 3 batches...
+2026-09-27 19:35:14,082 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 24.69s -> 24.34s after edge-silence trim
+2026-09-27 19:37:12,478 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 19:37:12,479 | INFO    | cleanup | --- candidates ---
+2026-09-27 19:37:12,479 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 19:37:12,479 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 19:37:12,479 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 19:37:12,479 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 19:37:12,479 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 19:37:12,485 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 19:37:13,550 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.88 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 19:37:16,578 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 19:37:20,788 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 19:37:23,536 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.4s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 19:37:23,537 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-27 19:37:23,537 | INFO    | target text (232 chars): "Brother Mahbub E Sobhani A.K.A Himel live in Dhaka Bangladesh. It's not just a Himel, Himel is a brand, Himel is the man of smart people.\nThe people of Himel are very smart, I love and respect brother"
+2026-09-27 19:37:26,912 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 19:37:29,495 | INFO    | Converting audio...
+2026-09-27 19:37:29,514 | INFO    | Using custom reference text...
+2026-09-27 19:37:29,515 | INFO    | Generating audio in 2 batches...
+2026-09-27 19:37:32,743 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 19.36s -> 18.38s after edge-silence trim
+2026-09-27 19:38:21,900 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 19:38:21,900 | INFO    | cleanup | --- candidates ---
+2026-09-27 19:38:21,900 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 19:38:21,900 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 19:38:21,900 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 19:38:21,900 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 19:38:21,900 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 19:38:21,906 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 19:38:23,139 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.88 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 19:38:26,159 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 19:38:30,351 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 19:38:33,110 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.3s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 19:38:33,110 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-27 19:38:33,110 | INFO    | target text (298 chars): "Brother sir Rabbi A.K.A Bacchuda associate live in Dhaka Bangladesh from Kushtia Bangladesh. It's not just a sir Rabbi, sir Rabbi is a brand, sir Rabbi is the man of smart people.\nThe people of sir Ra"
+2026-09-27 19:38:36,390 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 19:38:38,965 | INFO    | Converting audio...
+2026-09-27 19:38:38,984 | INFO    | Using custom reference text...
+2026-09-27 19:38:38,985 | INFO    | Generating audio in 3 batches...
+2026-09-27 19:38:43,288 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 24.69s -> 24.27s after edge-silence trim
+2026-09-27 19:41:59,902 | INFO    | cleanup | === disk before: 140 GB free ===
+2026-09-27 19:41:59,902 | INFO    | cleanup | --- candidates ---
+2026-09-27 19:41:59,902 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-27 19:41:59,902 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-27 19:41:59,903 | INFO    | cleanup | === disk after: 140 GB free (reclaimed 0.00 GB) ===
+2026-09-27 19:41:59,903 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-27 19:41:59,903 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-27 19:41:59,909 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-27 19:42:00,978 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.88 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 19:42:03,999 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-27 19:42:08,142 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-27 19:42:10,876 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.3s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-27 19:42:10,877 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-27 19:42:10,877 | INFO    | target text (267 chars): "Brother Mahboob Himel live in Dhaka Bangladesh. It's not just a brother Mahboob, brother Mahboob is a brand, brother Mahboob is the man of smart people.\nThe people of brother Mahboob are very smart, I"
+2026-09-27 19:42:14,217 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB, EMA weights)
+2026-09-27 19:42:16,825 | INFO    | Converting audio...
+2026-09-27 19:42:16,844 | INFO    | Using custom reference text...
+2026-09-27 19:42:16,845 | INFO    | Generating audio in 3 batches...
+2026-09-27 19:42:20,871 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 22.07s -> 21.37s after edge-silence trim
+2026-09-28 10:21:42,196 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (0.63 GB, EMA weights)
+2026-09-28 10:23:03,031 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (0.63 GB, EMA weights)
+2026-09-28 10:41:53,435 | INFO    | cleanup | === disk before: 146 GB free ===
+2026-09-28 10:41:53,435 | INFO    | cleanup | --- candidates ---
+2026-09-28 10:41:53,436 | INFO    | cleanup |        0.3 MB  scripts/__pycache__
+2026-09-28 10:41:53,436 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-28 10:41:53,436 | INFO    | cleanup | === disk after: 146 GB free (reclaimed 0.00 GB) ===
+2026-09-28 10:41:53,436 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/*.pt, logs/run*/ archives,
+2026-09-28 10:41:53,436 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs
+2026-09-28 10:41:53,443 | INFO    | ffmpeg: /usr/bin/ffmpeg
+2026-09-28 10:41:54,544 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-28 10:41:57,577 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (2s, stems: vocals/other)
+2026-09-28 10:42:01,745 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (1s, stems: dry/other)
+2026-09-28 10:42:04,451 | INFO    | reference denoised with 'vocals_mel_band_roformer.ckpt' + 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' in 9.3s -> /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav
+2026-09-28 10:42:04,451 | INFO    | reference: /home/farig/Rezuwan_TTS/data/inference_audio/sample/sample_denoised.wav | ref text: 'University of Naples Federico II is a public research university in Naples, Campania, Italy, establi'
+2026-09-28 10:42:04,451 | INFO    | target text (55 chars): 'The pipeline still works end to end after the refactor.'
+2026-09-28 10:42:07,729 | INFO    | loading fine-tuned weights /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (0.63 GB, EMA weights)
+2026-09-28 10:42:09,918 | INFO    | Converting audio...
+2026-09-28 10:42:09,937 | INFO    | Using custom reference text...
+2026-09-28 10:42:09,938 | INFO    | Generating audio in 1 batches...
+2026-09-28 10:42:11,234 | INFO    | generated speech only (prompt frames cropped by F5-TTS): 4.64s -> 4.03s after edge-silence trim

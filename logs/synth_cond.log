@@ -1,0 +1,476 @@
+2026-09-21 07:03:43,364 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 07:05:04,549 | INFO    | finetuned_run5_ep81_seed1/fixed: 21 synthesised (78s) -> /home/farig/Rezuwan_TTS/output/evaluation/finetuned_run5_ep81_seed1/fixed
+2026-09-21 07:06:25,651 | INFO    | finetuned_run5_ep81_seed1/cross: 21 synthesised (81s) -> /home/farig/Rezuwan_TTS/output/evaluation/finetuned_run5_ep81_seed1/cross
+2026-09-21 07:07:46,527 | INFO    | finetuned_run5_ep81_seed2/fixed: 21 synthesised (81s) -> /home/farig/Rezuwan_TTS/output/evaluation/finetuned_run5_ep81_seed2/fixed
+2026-09-21 07:09:08,175 | INFO    | finetuned_run5_ep81_seed2/cross: 21 synthesised (82s) -> /home/farig/Rezuwan_TTS/output/evaluation/finetuned_run5_ep81_seed2/cross
+2026-09-21 08:44:08,317 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 08:45:39,048 | INFO    | finetuned_run6/fixed: 21 synthesised (85s) -> /home/farig/Rezuwan_TTS/output/evaluation/finetuned_run6/fixed
+2026-09-21 08:47:05,338 | INFO    | finetuned_run6/cross: 21 synthesised (86s) -> /home/farig/Rezuwan_TTS/output/evaluation/finetuned_run6/cross
+2026-09-21 08:48:30,534 | INFO    | finetuned_run6_seed1/fixed: 21 synthesised (85s) -> /home/farig/Rezuwan_TTS/output/evaluation/finetuned_run6_seed1/fixed
+2026-09-21 08:49:55,521 | INFO    | finetuned_run6_seed1/cross: 21 synthesised (85s) -> /home/farig/Rezuwan_TTS/output/evaluation/finetuned_run6_seed1/cross
+2026-09-21 08:51:21,392 | INFO    | finetuned_run6_seed2/fixed: 21 synthesised (86s) -> /home/farig/Rezuwan_TTS/output/evaluation/finetuned_run6_seed2/fixed
+2026-09-21 08:52:46,546 | INFO    | finetuned_run6_seed2/cross: 21 synthesised (85s) -> /home/farig/Rezuwan_TTS/output/evaluation/finetuned_run6_seed2/cross
+2026-09-21 09:22:33,509 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.99 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 09:23:53,931 | INFO    | alpha_0.20/fixed: 21 synthesised (76s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.20/fixed
+2026-09-21 09:25:12,638 | INFO    | alpha_0.20/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.20/cross
+2026-09-21 09:26:31,335 | INFO    | alpha_0.20_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.20_seed1/fixed
+2026-09-21 09:27:50,507 | INFO    | alpha_0.20_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.20_seed1/cross
+2026-09-21 09:29:09,457 | INFO    | alpha_0.20_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.20_seed2/fixed
+2026-09-21 09:30:28,758 | INFO    | alpha_0.20_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.20_seed2/cross
+2026-09-21 09:30:36,051 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 09:31:59,025 | INFO    | alpha_0.40/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.40/fixed
+2026-09-21 09:33:18,756 | INFO    | alpha_0.40/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.40/cross
+2026-09-21 09:34:37,726 | INFO    | alpha_0.40_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.40_seed1/fixed
+2026-09-21 09:35:56,933 | INFO    | alpha_0.40_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.40_seed1/cross
+2026-09-21 09:37:16,117 | INFO    | alpha_0.40_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.40_seed2/fixed
+2026-09-21 09:38:35,398 | INFO    | alpha_0.40_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.40_seed2/cross
+2026-09-21 09:38:42,752 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.95 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 09:40:10,739 | INFO    | alpha_0.60/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.60/fixed
+2026-09-21 09:41:30,522 | INFO    | alpha_0.60/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.60/cross
+2026-09-21 09:42:49,501 | INFO    | alpha_0.60_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.60_seed1/fixed
+2026-09-21 09:44:08,770 | INFO    | alpha_0.60_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.60_seed1/cross
+2026-09-21 09:45:27,772 | INFO    | alpha_0.60_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.60_seed2/fixed
+2026-09-21 09:46:47,044 | INFO    | alpha_0.60_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.60_seed2/cross
+2026-09-21 09:46:54,354 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.04 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 09:48:17,432 | INFO    | alpha_0.80/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.80/fixed
+2026-09-21 09:49:37,315 | INFO    | alpha_0.80/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.80/cross
+2026-09-21 09:50:56,619 | INFO    | alpha_0.80_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.80_seed1/fixed
+2026-09-21 09:52:16,000 | INFO    | alpha_0.80_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.80_seed1/cross
+2026-09-21 09:53:35,489 | INFO    | alpha_0.80_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.80_seed2/fixed
+2026-09-21 09:54:54,854 | INFO    | alpha_0.80_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_0.80_seed2/cross
+2026-09-21 09:55:02,272 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.95 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 09:56:25,656 | INFO    | alpha_1.20/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_1.20/fixed
+2026-09-21 09:57:45,504 | INFO    | alpha_1.20/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_1.20/cross
+2026-09-21 09:59:04,662 | INFO    | alpha_1.20_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_1.20_seed1/fixed
+2026-09-21 10:00:24,075 | INFO    | alpha_1.20_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_1.20_seed1/cross
+2026-09-21 10:01:43,198 | INFO    | alpha_1.20_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_1.20_seed2/fixed
+2026-09-21 10:03:02,625 | INFO    | alpha_1.20_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_1.20_seed2/cross
+2026-09-21 10:03:10,108 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 10:04:38,264 | INFO    | alpha_1.50/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_1.50/fixed
+2026-09-21 10:05:58,528 | INFO    | alpha_1.50/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_1.50/cross
+2026-09-21 10:07:17,672 | INFO    | alpha_1.50_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_1.50_seed1/fixed
+2026-09-21 10:08:37,039 | INFO    | alpha_1.50_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_1.50_seed1/cross
+2026-09-21 10:09:56,071 | INFO    | alpha_1.50_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_1.50_seed2/fixed
+2026-09-21 10:11:15,406 | INFO    | alpha_1.50_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/alpha_1.50_seed2/cross
+2026-09-21 10:26:56,814 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 10:29:34,852 | INFO    | timing_test_nfe64_seed99/fixed: 21 synthesised (155s) -> /home/farig/Rezuwan_TTS/output/evaluation/timing_test_nfe64_seed99/fixed
+2026-09-21 10:32:25,860 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 10:33:46,515 | INFO    | a0.40_cfg1.0_nfe32_sway-1.0/fixed: 21 synthesised (77s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe32_sway-1.0/fixed
+2026-09-21 10:35:05,959 | INFO    | a0.40_cfg1.0_nfe32_sway-1.0/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe32_sway-1.0/cross
+2026-09-21 10:36:24,977 | INFO    | a0.40_cfg1.0_nfe32_sway-1.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe32_sway-1.0_seed1/fixed
+2026-09-21 10:37:44,312 | INFO    | a0.40_cfg1.0_nfe32_sway-1.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe32_sway-1.0_seed1/cross
+2026-09-21 10:39:03,384 | INFO    | a0.40_cfg1.0_nfe32_sway-1.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe32_sway-1.0_seed2/fixed
+2026-09-21 10:40:23,153 | INFO    | a0.40_cfg1.0_nfe32_sway-1.0_seed2/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe32_sway-1.0_seed2/cross
+2026-09-21 10:40:30,755 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.95 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 10:41:53,852 | INFO    | a0.40_cfg1.0_nfe32_sway+0.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe32_sway+0.0/fixed
+2026-09-21 10:43:13,810 | INFO    | a0.40_cfg1.0_nfe32_sway+0.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe32_sway+0.0/cross
+2026-09-21 10:44:32,982 | INFO    | a0.40_cfg1.0_nfe32_sway+0.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe32_sway+0.0_seed1/fixed
+2026-09-21 10:45:52,234 | INFO    | a0.40_cfg1.0_nfe32_sway+0.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe32_sway+0.0_seed1/cross
+2026-09-21 10:47:11,276 | INFO    | a0.40_cfg1.0_nfe32_sway+0.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe32_sway+0.0_seed2/fixed
+2026-09-21 10:48:30,560 | INFO    | a0.40_cfg1.0_nfe32_sway+0.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe32_sway+0.0_seed2/cross
+2026-09-21 10:48:37,908 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 10:51:20,311 | INFO    | a0.40_cfg1.0_nfe64_sway-1.0/fixed: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe64_sway-1.0/fixed
+2026-09-21 10:53:58,710 | INFO    | a0.40_cfg1.0_nfe64_sway-1.0/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe64_sway-1.0/cross
+2026-09-21 10:56:35,978 | INFO    | a0.40_cfg1.0_nfe64_sway-1.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe64_sway-1.0_seed1/fixed
+2026-09-21 10:59:13,851 | INFO    | a0.40_cfg1.0_nfe64_sway-1.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe64_sway-1.0_seed1/cross
+2026-09-21 11:01:50,996 | INFO    | a0.40_cfg1.0_nfe64_sway-1.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe64_sway-1.0_seed2/fixed
+2026-09-21 11:04:28,891 | INFO    | a0.40_cfg1.0_nfe64_sway-1.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe64_sway-1.0_seed2/cross
+2026-09-21 11:04:36,206 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 11:07:17,776 | INFO    | a0.40_cfg1.0_nfe64_sway+0.0/fixed: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe64_sway+0.0/fixed
+2026-09-21 11:09:56,258 | INFO    | a0.40_cfg1.0_nfe64_sway+0.0/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe64_sway+0.0/cross
+2026-09-21 11:12:33,548 | INFO    | a0.40_cfg1.0_nfe64_sway+0.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe64_sway+0.0_seed1/fixed
+2026-09-21 11:15:11,456 | INFO    | a0.40_cfg1.0_nfe64_sway+0.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe64_sway+0.0_seed1/cross
+2026-09-21 11:17:48,767 | INFO    | a0.40_cfg1.0_nfe64_sway+0.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe64_sway+0.0_seed2/fixed
+2026-09-21 11:20:26,644 | INFO    | a0.40_cfg1.0_nfe64_sway+0.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.0_nfe64_sway+0.0_seed2/cross
+2026-09-21 11:20:33,993 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.02 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 11:22:00,828 | INFO    | a0.40_cfg1.3_nfe32_sway-1.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe32_sway-1.0/fixed
+2026-09-21 11:23:20,761 | INFO    | a0.40_cfg1.3_nfe32_sway-1.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe32_sway-1.0/cross
+2026-09-21 11:24:39,839 | INFO    | a0.40_cfg1.3_nfe32_sway-1.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe32_sway-1.0_seed1/fixed
+2026-09-21 11:25:59,185 | INFO    | a0.40_cfg1.3_nfe32_sway-1.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe32_sway-1.0_seed1/cross
+2026-09-21 11:27:18,264 | INFO    | a0.40_cfg1.3_nfe32_sway-1.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe32_sway-1.0_seed2/fixed
+2026-09-21 11:28:37,619 | INFO    | a0.40_cfg1.3_nfe32_sway-1.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe32_sway-1.0_seed2/cross
+2026-09-21 11:28:44,935 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.02 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 11:30:07,986 | INFO    | a0.40_cfg1.3_nfe32_sway+0.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe32_sway+0.0/fixed
+2026-09-21 11:31:28,020 | INFO    | a0.40_cfg1.3_nfe32_sway+0.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe32_sway+0.0/cross
+2026-09-21 11:32:47,118 | INFO    | a0.40_cfg1.3_nfe32_sway+0.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe32_sway+0.0_seed1/fixed
+2026-09-21 11:34:06,473 | INFO    | a0.40_cfg1.3_nfe32_sway+0.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe32_sway+0.0_seed1/cross
+2026-09-21 11:35:25,501 | INFO    | a0.40_cfg1.3_nfe32_sway+0.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe32_sway+0.0_seed2/fixed
+2026-09-21 11:36:44,813 | INFO    | a0.40_cfg1.3_nfe32_sway+0.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe32_sway+0.0_seed2/cross
+2026-09-21 11:36:52,138 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.02 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 11:39:33,452 | INFO    | a0.40_cfg1.3_nfe64_sway-1.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe64_sway-1.0/fixed
+2026-09-21 11:42:11,992 | INFO    | a0.40_cfg1.3_nfe64_sway-1.0/cross: 21 synthesised (159s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe64_sway-1.0/cross
+2026-09-21 11:44:49,298 | INFO    | a0.40_cfg1.3_nfe64_sway-1.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe64_sway-1.0_seed1/fixed
+2026-09-21 11:47:27,131 | INFO    | a0.40_cfg1.3_nfe64_sway-1.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe64_sway-1.0_seed1/cross
+2026-09-21 11:50:04,407 | INFO    | a0.40_cfg1.3_nfe64_sway-1.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe64_sway-1.0_seed2/fixed
+2026-09-21 11:52:42,207 | INFO    | a0.40_cfg1.3_nfe64_sway-1.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe64_sway-1.0_seed2/cross
+2026-09-21 11:52:49,476 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.02 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 11:55:30,876 | INFO    | a0.40_cfg1.3_nfe64_sway+0.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe64_sway+0.0/fixed
+2026-09-21 11:58:09,232 | INFO    | a0.40_cfg1.3_nfe64_sway+0.0/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe64_sway+0.0/cross
+2026-09-21 12:00:46,413 | INFO    | a0.40_cfg1.3_nfe64_sway+0.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe64_sway+0.0_seed1/fixed
+2026-09-21 12:03:24,190 | INFO    | a0.40_cfg1.3_nfe64_sway+0.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe64_sway+0.0_seed1/cross
+2026-09-21 12:06:01,438 | INFO    | a0.40_cfg1.3_nfe64_sway+0.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe64_sway+0.0_seed2/fixed
+2026-09-21 12:08:39,165 | INFO    | a0.40_cfg1.3_nfe64_sway+0.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.3_nfe64_sway+0.0_seed2/cross
+2026-09-21 12:08:46,496 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.02 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 12:10:14,304 | INFO    | a0.40_cfg1.6_nfe32_sway-1.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe32_sway-1.0/fixed
+2026-09-21 12:11:34,219 | INFO    | a0.40_cfg1.6_nfe32_sway-1.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe32_sway-1.0/cross
+2026-09-21 12:12:53,217 | INFO    | a0.40_cfg1.6_nfe32_sway-1.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe32_sway-1.0_seed1/fixed
+2026-09-21 12:14:12,546 | INFO    | a0.40_cfg1.6_nfe32_sway-1.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe32_sway-1.0_seed1/cross
+2026-09-21 12:15:31,608 | INFO    | a0.40_cfg1.6_nfe32_sway-1.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe32_sway-1.0_seed2/fixed
+2026-09-21 12:16:50,939 | INFO    | a0.40_cfg1.6_nfe32_sway-1.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe32_sway-1.0_seed2/cross
+2026-09-21 12:16:58,279 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.02 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 12:18:21,229 | INFO    | a0.40_cfg1.6_nfe32_sway+0.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe32_sway+0.0/fixed
+2026-09-21 12:19:41,222 | INFO    | a0.40_cfg1.6_nfe32_sway+0.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe32_sway+0.0/cross
+2026-09-21 12:21:00,335 | INFO    | a0.40_cfg1.6_nfe32_sway+0.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe32_sway+0.0_seed1/fixed
+2026-09-21 12:22:19,662 | INFO    | a0.40_cfg1.6_nfe32_sway+0.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe32_sway+0.0_seed1/cross
+2026-09-21 12:23:38,687 | INFO    | a0.40_cfg1.6_nfe32_sway+0.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe32_sway+0.0_seed2/fixed
+2026-09-21 12:24:57,906 | INFO    | a0.40_cfg1.6_nfe32_sway+0.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe32_sway+0.0_seed2/cross
+2026-09-21 12:25:05,201 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.02 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 12:27:46,623 | INFO    | a0.40_cfg1.6_nfe64_sway-1.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe64_sway-1.0/fixed
+2026-09-21 12:30:25,740 | INFO    | a0.40_cfg1.6_nfe64_sway-1.0/cross: 21 synthesised (159s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe64_sway-1.0/cross
+2026-09-21 12:33:03,170 | INFO    | a0.40_cfg1.6_nfe64_sway-1.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe64_sway-1.0_seed1/fixed
+2026-09-21 12:35:41,162 | INFO    | a0.40_cfg1.6_nfe64_sway-1.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe64_sway-1.0_seed1/cross
+2026-09-21 12:38:18,644 | INFO    | a0.40_cfg1.6_nfe64_sway-1.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe64_sway-1.0_seed2/fixed
+2026-09-21 12:40:56,605 | INFO    | a0.40_cfg1.6_nfe64_sway-1.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe64_sway-1.0_seed2/cross
+2026-09-21 12:41:04,014 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 12:43:45,036 | INFO    | a0.40_cfg1.6_nfe64_sway+0.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe64_sway+0.0/fixed
+2026-09-21 12:46:23,561 | INFO    | a0.40_cfg1.6_nfe64_sway+0.0/cross: 21 synthesised (159s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe64_sway+0.0/cross
+2026-09-21 12:49:00,903 | INFO    | a0.40_cfg1.6_nfe64_sway+0.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe64_sway+0.0_seed1/fixed
+2026-09-21 12:51:38,586 | INFO    | a0.40_cfg1.6_nfe64_sway+0.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe64_sway+0.0_seed1/cross
+2026-09-21 12:54:15,698 | INFO    | a0.40_cfg1.6_nfe64_sway+0.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe64_sway+0.0_seed2/fixed
+2026-09-21 12:56:53,214 | INFO    | a0.40_cfg1.6_nfe64_sway+0.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg1.6_nfe64_sway+0.0_seed2/cross
+2026-09-21 12:57:00,529 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.03 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 12:58:23,345 | INFO    | a0.40_cfg2.0_nfe32_sway-1.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe32_sway-1.0/fixed
+2026-09-21 12:59:43,242 | INFO    | a0.40_cfg2.0_nfe32_sway-1.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe32_sway-1.0/cross
+2026-09-21 13:01:02,220 | INFO    | a0.40_cfg2.0_nfe32_sway-1.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe32_sway-1.0_seed1/fixed
+2026-09-21 13:02:21,523 | INFO    | a0.40_cfg2.0_nfe32_sway-1.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe32_sway-1.0_seed1/cross
+2026-09-21 13:03:40,524 | INFO    | a0.40_cfg2.0_nfe32_sway-1.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe32_sway-1.0_seed2/fixed
+2026-09-21 13:04:59,805 | INFO    | a0.40_cfg2.0_nfe32_sway-1.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe32_sway-1.0_seed2/cross
+2026-09-21 13:05:07,117 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.03 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 13:06:29,983 | INFO    | a0.40_cfg2.0_nfe32_sway+0.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe32_sway+0.0/fixed
+2026-09-21 13:07:49,790 | INFO    | a0.40_cfg2.0_nfe32_sway+0.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe32_sway+0.0/cross
+2026-09-21 13:09:08,951 | INFO    | a0.40_cfg2.0_nfe32_sway+0.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe32_sway+0.0_seed1/fixed
+2026-09-21 13:10:28,260 | INFO    | a0.40_cfg2.0_nfe32_sway+0.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe32_sway+0.0_seed1/cross
+2026-09-21 13:11:47,245 | INFO    | a0.40_cfg2.0_nfe32_sway+0.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe32_sway+0.0_seed2/fixed
+2026-09-21 13:13:06,503 | INFO    | a0.40_cfg2.0_nfe32_sway+0.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe32_sway+0.0_seed2/cross
+2026-09-21 13:13:13,773 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.03 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 13:15:54,853 | INFO    | a0.40_cfg2.0_nfe64_sway-1.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe64_sway-1.0/fixed
+2026-09-21 13:18:33,191 | INFO    | a0.40_cfg2.0_nfe64_sway-1.0/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe64_sway-1.0/cross
+2026-09-21 13:21:10,438 | INFO    | a0.40_cfg2.0_nfe64_sway-1.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe64_sway-1.0_seed1/fixed
+2026-09-21 13:23:48,210 | INFO    | a0.40_cfg2.0_nfe64_sway-1.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe64_sway-1.0_seed1/cross
+2026-09-21 13:26:25,388 | INFO    | a0.40_cfg2.0_nfe64_sway-1.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe64_sway-1.0_seed2/fixed
+2026-09-21 13:29:03,163 | INFO    | a0.40_cfg2.0_nfe64_sway-1.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe64_sway-1.0_seed2/cross
+2026-09-21 13:29:10,482 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.03 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 13:31:51,766 | INFO    | a0.40_cfg2.0_nfe64_sway+0.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe64_sway+0.0/fixed
+2026-09-21 13:34:30,450 | INFO    | a0.40_cfg2.0_nfe64_sway+0.0/cross: 21 synthesised (159s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe64_sway+0.0/cross
+2026-09-21 13:37:07,823 | INFO    | a0.40_cfg2.0_nfe64_sway+0.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe64_sway+0.0_seed1/fixed
+2026-09-21 13:39:45,760 | INFO    | a0.40_cfg2.0_nfe64_sway+0.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe64_sway+0.0_seed1/cross
+2026-09-21 13:42:23,040 | INFO    | a0.40_cfg2.0_nfe64_sway+0.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe64_sway+0.0_seed2/fixed
+2026-09-21 13:45:00,902 | INFO    | a0.40_cfg2.0_nfe64_sway+0.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.0_nfe64_sway+0.0_seed2/cross
+2026-09-21 13:45:08,253 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.03 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 13:46:31,291 | INFO    | a0.40_cfg2.5_nfe32_sway-1.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe32_sway-1.0/fixed
+2026-09-21 13:47:51,243 | INFO    | a0.40_cfg2.5_nfe32_sway-1.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe32_sway-1.0/cross
+2026-09-21 13:49:10,272 | INFO    | a0.40_cfg2.5_nfe32_sway-1.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe32_sway-1.0_seed1/fixed
+2026-09-21 13:50:29,578 | INFO    | a0.40_cfg2.5_nfe32_sway-1.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe32_sway-1.0_seed1/cross
+2026-09-21 13:51:48,632 | INFO    | a0.40_cfg2.5_nfe32_sway-1.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe32_sway-1.0_seed2/fixed
+2026-09-21 13:53:08,018 | INFO    | a0.40_cfg2.5_nfe32_sway-1.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe32_sway-1.0_seed2/cross
+2026-09-21 13:53:15,352 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.02 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 13:54:38,432 | INFO    | a0.40_cfg2.5_nfe32_sway+0.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe32_sway+0.0/fixed
+2026-09-21 13:55:58,415 | INFO    | a0.40_cfg2.5_nfe32_sway+0.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe32_sway+0.0/cross
+2026-09-21 13:57:17,479 | INFO    | a0.40_cfg2.5_nfe32_sway+0.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe32_sway+0.0_seed1/fixed
+2026-09-21 13:58:36,854 | INFO    | a0.40_cfg2.5_nfe32_sway+0.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe32_sway+0.0_seed1/cross
+2026-09-21 13:59:55,890 | INFO    | a0.40_cfg2.5_nfe32_sway+0.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe32_sway+0.0_seed2/fixed
+2026-09-21 14:01:15,238 | INFO    | a0.40_cfg2.5_nfe32_sway+0.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe32_sway+0.0_seed2/cross
+2026-09-21 14:01:22,638 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.03 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 14:04:04,373 | INFO    | a0.40_cfg2.5_nfe64_sway-1.0/fixed: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe64_sway-1.0/fixed
+2026-09-21 14:06:42,917 | INFO    | a0.40_cfg2.5_nfe64_sway-1.0/cross: 21 synthesised (159s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe64_sway-1.0/cross
+2026-09-21 14:09:20,210 | INFO    | a0.40_cfg2.5_nfe64_sway-1.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe64_sway-1.0_seed1/fixed
+2026-09-21 14:11:58,093 | INFO    | a0.40_cfg2.5_nfe64_sway-1.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe64_sway-1.0_seed1/cross
+2026-09-21 14:14:35,419 | INFO    | a0.40_cfg2.5_nfe64_sway-1.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe64_sway-1.0_seed2/fixed
+2026-09-21 14:17:13,282 | INFO    | a0.40_cfg2.5_nfe64_sway-1.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe64_sway-1.0_seed2/cross
+2026-09-21 14:17:20,584 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.03 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 14:20:02,285 | INFO    | a0.40_cfg2.5_nfe64_sway+0.0/fixed: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe64_sway+0.0/fixed
+2026-09-21 14:22:40,804 | INFO    | a0.40_cfg2.5_nfe64_sway+0.0/cross: 21 synthesised (159s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe64_sway+0.0/cross
+2026-09-21 14:25:18,150 | INFO    | a0.40_cfg2.5_nfe64_sway+0.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe64_sway+0.0_seed1/fixed
+2026-09-21 14:27:56,069 | INFO    | a0.40_cfg2.5_nfe64_sway+0.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe64_sway+0.0_seed1/cross
+2026-09-21 14:30:33,472 | INFO    | a0.40_cfg2.5_nfe64_sway+0.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe64_sway+0.0_seed2/fixed
+2026-09-21 14:33:11,375 | INFO    | a0.40_cfg2.5_nfe64_sway+0.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a0.40_cfg2.5_nfe64_sway+0.0_seed2/cross
+2026-09-21 14:33:18,683 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.03 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 14:34:41,614 | INFO    | a1.00_cfg1.0_nfe32_sway-1.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe32_sway-1.0/fixed
+2026-09-21 14:36:01,664 | INFO    | a1.00_cfg1.0_nfe32_sway-1.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe32_sway-1.0/cross
+2026-09-21 14:37:20,827 | INFO    | a1.00_cfg1.0_nfe32_sway-1.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe32_sway-1.0_seed1/fixed
+2026-09-21 14:38:40,248 | INFO    | a1.00_cfg1.0_nfe32_sway-1.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe32_sway-1.0_seed1/cross
+2026-09-21 14:39:59,324 | INFO    | a1.00_cfg1.0_nfe32_sway-1.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe32_sway-1.0_seed2/fixed
+2026-09-21 14:41:18,686 | INFO    | a1.00_cfg1.0_nfe32_sway-1.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe32_sway-1.0_seed2/cross
+2026-09-21 14:41:26,035 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.03 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 14:42:48,385 | INFO    | a1.00_cfg1.0_nfe32_sway+0.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe32_sway+0.0/fixed
+2026-09-21 14:44:08,375 | INFO    | a1.00_cfg1.0_nfe32_sway+0.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe32_sway+0.0/cross
+2026-09-21 14:45:27,474 | INFO    | a1.00_cfg1.0_nfe32_sway+0.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe32_sway+0.0_seed1/fixed
+2026-09-21 14:46:46,822 | INFO    | a1.00_cfg1.0_nfe32_sway+0.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe32_sway+0.0_seed1/cross
+2026-09-21 14:48:05,913 | INFO    | a1.00_cfg1.0_nfe32_sway+0.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe32_sway+0.0_seed2/fixed
+2026-09-21 14:49:25,265 | INFO    | a1.00_cfg1.0_nfe32_sway+0.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe32_sway+0.0_seed2/cross
+2026-09-21 14:49:32,636 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.03 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 14:52:17,804 | INFO    | a1.00_cfg1.0_nfe64_sway-1.0/fixed: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe64_sway-1.0/fixed
+2026-09-21 14:54:56,421 | INFO    | a1.00_cfg1.0_nfe64_sway-1.0/cross: 21 synthesised (159s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe64_sway-1.0/cross
+2026-09-21 14:57:33,939 | INFO    | a1.00_cfg1.0_nfe64_sway-1.0_seed1/fixed: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe64_sway-1.0_seed1/fixed
+2026-09-21 15:00:11,963 | INFO    | a1.00_cfg1.0_nfe64_sway-1.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe64_sway-1.0_seed1/cross
+2026-09-21 15:02:49,433 | INFO    | a1.00_cfg1.0_nfe64_sway-1.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe64_sway-1.0_seed2/fixed
+2026-09-21 15:05:27,822 | INFO    | a1.00_cfg1.0_nfe64_sway-1.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe64_sway-1.0_seed2/cross
+2026-09-21 15:05:35,163 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 15:08:16,364 | INFO    | a1.00_cfg1.0_nfe64_sway+0.0/fixed: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe64_sway+0.0/fixed
+2026-09-21 15:10:55,213 | INFO    | a1.00_cfg1.0_nfe64_sway+0.0/cross: 21 synthesised (159s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe64_sway+0.0/cross
+2026-09-21 15:13:32,645 | INFO    | a1.00_cfg1.0_nfe64_sway+0.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe64_sway+0.0_seed1/fixed
+2026-09-21 15:16:10,630 | INFO    | a1.00_cfg1.0_nfe64_sway+0.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe64_sway+0.0_seed1/cross
+2026-09-21 15:18:48,128 | INFO    | a1.00_cfg1.0_nfe64_sway+0.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe64_sway+0.0_seed2/fixed
+2026-09-21 15:21:26,167 | INFO    | a1.00_cfg1.0_nfe64_sway+0.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.0_nfe64_sway+0.0_seed2/cross
+2026-09-21 15:21:33,463 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.02 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 15:22:55,834 | INFO    | a1.00_cfg1.3_nfe32_sway-1.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe32_sway-1.0/fixed
+2026-09-21 15:24:15,896 | INFO    | a1.00_cfg1.3_nfe32_sway-1.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe32_sway-1.0/cross
+2026-09-21 15:25:35,075 | INFO    | a1.00_cfg1.3_nfe32_sway-1.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe32_sway-1.0_seed1/fixed
+2026-09-21 15:26:54,519 | INFO    | a1.00_cfg1.3_nfe32_sway-1.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe32_sway-1.0_seed1/cross
+2026-09-21 15:28:13,642 | INFO    | a1.00_cfg1.3_nfe32_sway-1.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe32_sway-1.0_seed2/fixed
+2026-09-21 15:29:33,060 | INFO    | a1.00_cfg1.3_nfe32_sway-1.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe32_sway-1.0_seed2/cross
+2026-09-21 15:29:40,381 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.02 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 15:31:02,810 | INFO    | a1.00_cfg1.3_nfe32_sway+0.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe32_sway+0.0/fixed
+2026-09-21 15:32:22,833 | INFO    | a1.00_cfg1.3_nfe32_sway+0.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe32_sway+0.0/cross
+2026-09-21 15:33:42,010 | INFO    | a1.00_cfg1.3_nfe32_sway+0.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe32_sway+0.0_seed1/fixed
+2026-09-21 15:35:01,599 | INFO    | a1.00_cfg1.3_nfe32_sway+0.0_seed1/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe32_sway+0.0_seed1/cross
+2026-09-21 15:36:20,714 | INFO    | a1.00_cfg1.3_nfe32_sway+0.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe32_sway+0.0_seed2/fixed
+2026-09-21 15:37:40,093 | INFO    | a1.00_cfg1.3_nfe32_sway+0.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe32_sway+0.0_seed2/cross
+2026-09-21 15:37:47,448 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.02 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 15:40:28,379 | INFO    | a1.00_cfg1.3_nfe64_sway-1.0/fixed: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe64_sway-1.0/fixed
+2026-09-21 15:43:07,044 | INFO    | a1.00_cfg1.3_nfe64_sway-1.0/cross: 21 synthesised (159s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe64_sway-1.0/cross
+2026-09-21 15:45:44,459 | INFO    | a1.00_cfg1.3_nfe64_sway-1.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe64_sway-1.0_seed1/fixed
+2026-09-21 15:48:22,429 | INFO    | a1.00_cfg1.3_nfe64_sway-1.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe64_sway-1.0_seed1/cross
+2026-09-21 15:50:59,885 | INFO    | a1.00_cfg1.3_nfe64_sway-1.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe64_sway-1.0_seed2/fixed
+2026-09-21 15:53:37,855 | INFO    | a1.00_cfg1.3_nfe64_sway-1.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe64_sway-1.0_seed2/cross
+2026-09-21 15:53:45,185 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 15:56:26,154 | INFO    | a1.00_cfg1.3_nfe64_sway+0.0/fixed: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe64_sway+0.0/fixed
+2026-09-21 15:59:04,719 | INFO    | a1.00_cfg1.3_nfe64_sway+0.0/cross: 21 synthesised (159s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe64_sway+0.0/cross
+2026-09-21 16:01:42,168 | INFO    | a1.00_cfg1.3_nfe64_sway+0.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe64_sway+0.0_seed1/fixed
+2026-09-21 16:04:20,139 | INFO    | a1.00_cfg1.3_nfe64_sway+0.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe64_sway+0.0_seed1/cross
+2026-09-21 16:06:57,725 | INFO    | a1.00_cfg1.3_nfe64_sway+0.0_seed2/fixed: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe64_sway+0.0_seed2/fixed
+2026-09-21 16:09:35,684 | INFO    | a1.00_cfg1.3_nfe64_sway+0.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.3_nfe64_sway+0.0_seed2/cross
+2026-09-21 16:09:42,991 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 16:11:05,361 | INFO    | a1.00_cfg1.6_nfe32_sway-1.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe32_sway-1.0/fixed
+2026-09-21 16:12:25,288 | INFO    | a1.00_cfg1.6_nfe32_sway-1.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe32_sway-1.0/cross
+2026-09-21 16:13:44,361 | INFO    | a1.00_cfg1.6_nfe32_sway-1.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe32_sway-1.0_seed1/fixed
+2026-09-21 16:15:03,666 | INFO    | a1.00_cfg1.6_nfe32_sway-1.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe32_sway-1.0_seed1/cross
+2026-09-21 16:16:22,751 | INFO    | a1.00_cfg1.6_nfe32_sway-1.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe32_sway-1.0_seed2/fixed
+2026-09-21 16:17:42,021 | INFO    | a1.00_cfg1.6_nfe32_sway-1.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe32_sway-1.0_seed2/cross
+2026-09-21 16:17:49,328 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.85 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 16:19:11,788 | INFO    | a1.00_cfg1.6_nfe32_sway+0.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe32_sway+0.0/fixed
+2026-09-21 16:20:31,642 | INFO    | a1.00_cfg1.6_nfe32_sway+0.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe32_sway+0.0/cross
+2026-09-21 16:21:50,647 | INFO    | a1.00_cfg1.6_nfe32_sway+0.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe32_sway+0.0_seed1/fixed
+2026-09-21 16:23:09,912 | INFO    | a1.00_cfg1.6_nfe32_sway+0.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe32_sway+0.0_seed1/cross
+2026-09-21 16:24:28,901 | INFO    | a1.00_cfg1.6_nfe32_sway+0.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe32_sway+0.0_seed2/fixed
+2026-09-21 16:25:48,180 | INFO    | a1.00_cfg1.6_nfe32_sway+0.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe32_sway+0.0_seed2/cross
+2026-09-21 16:25:55,511 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.83 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 16:28:35,988 | INFO    | a1.00_cfg1.6_nfe64_sway-1.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe64_sway-1.0/fixed
+2026-09-21 16:31:14,250 | INFO    | a1.00_cfg1.6_nfe64_sway-1.0/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe64_sway-1.0/cross
+2026-09-21 16:33:51,349 | INFO    | a1.00_cfg1.6_nfe64_sway-1.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe64_sway-1.0_seed1/fixed
+2026-09-21 16:36:29,281 | INFO    | a1.00_cfg1.6_nfe64_sway-1.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe64_sway-1.0_seed1/cross
+2026-09-21 16:39:06,401 | INFO    | a1.00_cfg1.6_nfe64_sway-1.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe64_sway-1.0_seed2/fixed
+2026-09-21 16:41:44,145 | INFO    | a1.00_cfg1.6_nfe64_sway-1.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe64_sway-1.0_seed2/cross
+2026-09-21 16:41:51,514 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 16:44:31,864 | INFO    | a1.00_cfg1.6_nfe64_sway+0.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe64_sway+0.0/fixed
+2026-09-21 16:47:10,270 | INFO    | a1.00_cfg1.6_nfe64_sway+0.0/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe64_sway+0.0/cross
+2026-09-21 16:49:47,509 | INFO    | a1.00_cfg1.6_nfe64_sway+0.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe64_sway+0.0_seed1/fixed
+2026-09-21 16:52:25,321 | INFO    | a1.00_cfg1.6_nfe64_sway+0.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe64_sway+0.0_seed1/cross
+2026-09-21 16:55:02,536 | INFO    | a1.00_cfg1.6_nfe64_sway+0.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe64_sway+0.0_seed2/fixed
+2026-09-21 16:57:40,301 | INFO    | a1.00_cfg1.6_nfe64_sway+0.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg1.6_nfe64_sway+0.0_seed2/cross
+2026-09-21 16:57:47,592 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 16:59:09,759 | INFO    | a1.00_cfg2.0_nfe32_sway-1.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe32_sway-1.0/fixed
+2026-09-21 17:00:29,667 | INFO    | a1.00_cfg2.0_nfe32_sway-1.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe32_sway-1.0/cross
+2026-09-21 17:01:48,705 | INFO    | a1.00_cfg2.0_nfe32_sway-1.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe32_sway-1.0_seed1/fixed
+2026-09-21 17:03:08,037 | INFO    | a1.00_cfg2.0_nfe32_sway-1.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe32_sway-1.0_seed1/cross
+2026-09-21 17:04:27,102 | INFO    | a1.00_cfg2.0_nfe32_sway-1.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe32_sway-1.0_seed2/fixed
+2026-09-21 17:05:46,587 | INFO    | a1.00_cfg2.0_nfe32_sway-1.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe32_sway-1.0_seed2/cross
+2026-09-21 17:05:53,984 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 17:07:16,189 | INFO    | a1.00_cfg2.0_nfe32_sway+0.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe32_sway+0.0/fixed
+2026-09-21 17:08:36,206 | INFO    | a1.00_cfg2.0_nfe32_sway+0.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe32_sway+0.0/cross
+2026-09-21 17:09:55,295 | INFO    | a1.00_cfg2.0_nfe32_sway+0.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe32_sway+0.0_seed1/fixed
+2026-09-21 17:11:14,630 | INFO    | a1.00_cfg2.0_nfe32_sway+0.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe32_sway+0.0_seed1/cross
+2026-09-21 17:12:33,665 | INFO    | a1.00_cfg2.0_nfe32_sway+0.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe32_sway+0.0_seed2/fixed
+2026-09-21 17:13:53,023 | INFO    | a1.00_cfg2.0_nfe32_sway+0.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe32_sway+0.0_seed2/cross
+2026-09-21 17:14:00,342 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 17:16:40,723 | INFO    | a1.00_cfg2.0_nfe64_sway-1.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe64_sway-1.0/fixed
+2026-09-21 17:19:19,184 | INFO    | a1.00_cfg2.0_nfe64_sway-1.0/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe64_sway-1.0/cross
+2026-09-21 17:21:56,375 | INFO    | a1.00_cfg2.0_nfe64_sway-1.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe64_sway-1.0_seed1/fixed
+2026-09-21 17:24:34,173 | INFO    | a1.00_cfg2.0_nfe64_sway-1.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe64_sway-1.0_seed1/cross
+2026-09-21 17:27:11,385 | INFO    | a1.00_cfg2.0_nfe64_sway-1.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe64_sway-1.0_seed2/fixed
+2026-09-21 17:29:49,096 | INFO    | a1.00_cfg2.0_nfe64_sway-1.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe64_sway-1.0_seed2/cross
+2026-09-21 17:29:56,413 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 17:32:36,735 | INFO    | a1.00_cfg2.0_nfe64_sway+0.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe64_sway+0.0/fixed
+2026-09-21 17:35:15,145 | INFO    | a1.00_cfg2.0_nfe64_sway+0.0/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe64_sway+0.0/cross
+2026-09-21 17:37:52,480 | INFO    | a1.00_cfg2.0_nfe64_sway+0.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe64_sway+0.0_seed1/fixed
+2026-09-21 17:40:30,219 | INFO    | a1.00_cfg2.0_nfe64_sway+0.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe64_sway+0.0_seed1/cross
+2026-09-21 17:43:07,443 | INFO    | a1.00_cfg2.0_nfe64_sway+0.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe64_sway+0.0_seed2/fixed
+2026-09-21 17:45:45,218 | INFO    | a1.00_cfg2.0_nfe64_sway+0.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.0_nfe64_sway+0.0_seed2/cross
+2026-09-21 17:45:52,562 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 17:47:14,583 | INFO    | a1.00_cfg2.5_nfe32_sway-1.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe32_sway-1.0/fixed
+2026-09-21 17:48:34,496 | INFO    | a1.00_cfg2.5_nfe32_sway-1.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe32_sway-1.0/cross
+2026-09-21 17:49:53,523 | INFO    | a1.00_cfg2.5_nfe32_sway-1.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe32_sway-1.0_seed1/fixed
+2026-09-21 17:51:12,945 | INFO    | a1.00_cfg2.5_nfe32_sway-1.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe32_sway-1.0_seed1/cross
+2026-09-21 17:52:31,942 | INFO    | a1.00_cfg2.5_nfe32_sway-1.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe32_sway-1.0_seed2/fixed
+2026-09-21 17:53:51,266 | INFO    | a1.00_cfg2.5_nfe32_sway-1.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe32_sway-1.0_seed2/cross
+2026-09-21 17:53:58,568 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.97 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 17:55:20,589 | INFO    | a1.00_cfg2.5_nfe32_sway+0.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe32_sway+0.0/fixed
+2026-09-21 17:56:40,407 | INFO    | a1.00_cfg2.5_nfe32_sway+0.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe32_sway+0.0/cross
+2026-09-21 17:57:59,394 | INFO    | a1.00_cfg2.5_nfe32_sway+0.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe32_sway+0.0_seed1/fixed
+2026-09-21 17:59:18,649 | INFO    | a1.00_cfg2.5_nfe32_sway+0.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe32_sway+0.0_seed1/cross
+2026-09-21 18:00:37,655 | INFO    | a1.00_cfg2.5_nfe32_sway+0.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe32_sway+0.0_seed2/fixed
+2026-09-21 18:01:56,904 | INFO    | a1.00_cfg2.5_nfe32_sway+0.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe32_sway+0.0_seed2/cross
+2026-09-21 18:02:04,287 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 18:04:44,604 | INFO    | a1.00_cfg2.5_nfe64_sway-1.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe64_sway-1.0/fixed
+2026-09-21 18:07:23,119 | INFO    | a1.00_cfg2.5_nfe64_sway-1.0/cross: 21 synthesised (159s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe64_sway-1.0/cross
+2026-09-21 18:10:00,333 | INFO    | a1.00_cfg2.5_nfe64_sway-1.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe64_sway-1.0_seed1/fixed
+2026-09-21 18:12:38,088 | INFO    | a1.00_cfg2.5_nfe64_sway-1.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe64_sway-1.0_seed1/cross
+2026-09-21 18:15:15,243 | INFO    | a1.00_cfg2.5_nfe64_sway-1.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe64_sway-1.0_seed2/fixed
+2026-09-21 18:17:52,879 | INFO    | a1.00_cfg2.5_nfe64_sway-1.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe64_sway-1.0_seed2/cross
+2026-09-21 18:18:00,260 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 18:20:40,408 | INFO    | a1.00_cfg2.5_nfe64_sway+0.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe64_sway+0.0/fixed
+2026-09-21 18:23:18,643 | INFO    | a1.00_cfg2.5_nfe64_sway+0.0/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe64_sway+0.0/cross
+2026-09-21 18:25:55,771 | INFO    | a1.00_cfg2.5_nfe64_sway+0.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe64_sway+0.0_seed1/fixed
+2026-09-21 18:28:33,475 | INFO    | a1.00_cfg2.5_nfe64_sway+0.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe64_sway+0.0_seed1/cross
+2026-09-21 18:31:10,598 | INFO    | a1.00_cfg2.5_nfe64_sway+0.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe64_sway+0.0_seed2/fixed
+2026-09-21 18:33:48,303 | INFO    | a1.00_cfg2.5_nfe64_sway+0.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.00_cfg2.5_nfe64_sway+0.0_seed2/cross
+2026-09-21 18:33:55,632 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 18:35:18,690 | INFO    | a1.20_cfg1.0_nfe32_sway-1.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe32_sway-1.0/fixed
+2026-09-21 18:36:38,707 | INFO    | a1.20_cfg1.0_nfe32_sway-1.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe32_sway-1.0/cross
+2026-09-21 18:37:57,865 | INFO    | a1.20_cfg1.0_nfe32_sway-1.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe32_sway-1.0_seed1/fixed
+2026-09-21 18:39:17,219 | INFO    | a1.20_cfg1.0_nfe32_sway-1.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe32_sway-1.0_seed1/cross
+2026-09-21 18:40:36,201 | INFO    | a1.20_cfg1.0_nfe32_sway-1.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe32_sway-1.0_seed2/fixed
+2026-09-21 18:41:55,542 | INFO    | a1.20_cfg1.0_nfe32_sway-1.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe32_sway-1.0_seed2/cross
+2026-09-21 18:42:02,944 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 18:43:25,868 | INFO    | a1.20_cfg1.0_nfe32_sway+0.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe32_sway+0.0/fixed
+2026-09-21 18:44:45,801 | INFO    | a1.20_cfg1.0_nfe32_sway+0.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe32_sway+0.0/cross
+2026-09-21 18:46:04,837 | INFO    | a1.20_cfg1.0_nfe32_sway+0.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe32_sway+0.0_seed1/fixed
+2026-09-21 18:47:24,207 | INFO    | a1.20_cfg1.0_nfe32_sway+0.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe32_sway+0.0_seed1/cross
+2026-09-21 18:48:43,231 | INFO    | a1.20_cfg1.0_nfe32_sway+0.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe32_sway+0.0_seed2/fixed
+2026-09-21 18:50:02,615 | INFO    | a1.20_cfg1.0_nfe32_sway+0.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe32_sway+0.0_seed2/cross
+2026-09-21 18:50:09,921 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 18:52:51,102 | INFO    | a1.20_cfg1.0_nfe64_sway-1.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe64_sway-1.0/fixed
+2026-09-21 18:55:29,450 | INFO    | a1.20_cfg1.0_nfe64_sway-1.0/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe64_sway-1.0/cross
+2026-09-21 18:58:06,595 | INFO    | a1.20_cfg1.0_nfe64_sway-1.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe64_sway-1.0_seed1/fixed
+2026-09-21 19:00:44,388 | INFO    | a1.20_cfg1.0_nfe64_sway-1.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe64_sway-1.0_seed1/cross
+2026-09-21 19:03:21,626 | INFO    | a1.20_cfg1.0_nfe64_sway-1.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe64_sway-1.0_seed2/fixed
+2026-09-21 19:05:59,443 | INFO    | a1.20_cfg1.0_nfe64_sway-1.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe64_sway-1.0_seed2/cross
+2026-09-21 19:06:06,790 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 19:08:48,165 | INFO    | a1.20_cfg1.0_nfe64_sway+0.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe64_sway+0.0/fixed
+2026-09-21 19:11:26,589 | INFO    | a1.20_cfg1.0_nfe64_sway+0.0/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe64_sway+0.0/cross
+2026-09-21 19:14:03,781 | INFO    | a1.20_cfg1.0_nfe64_sway+0.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe64_sway+0.0_seed1/fixed
+2026-09-21 19:16:41,572 | INFO    | a1.20_cfg1.0_nfe64_sway+0.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe64_sway+0.0_seed1/cross
+2026-09-21 19:19:18,797 | INFO    | a1.20_cfg1.0_nfe64_sway+0.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe64_sway+0.0_seed2/fixed
+2026-09-21 19:21:56,541 | INFO    | a1.20_cfg1.0_nfe64_sway+0.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.0_nfe64_sway+0.0_seed2/cross
+2026-09-21 19:22:03,943 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 19:23:26,932 | INFO    | a1.20_cfg1.3_nfe32_sway-1.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe32_sway-1.0/fixed
+2026-09-21 19:24:46,749 | INFO    | a1.20_cfg1.3_nfe32_sway-1.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe32_sway-1.0/cross
+2026-09-21 19:26:05,787 | INFO    | a1.20_cfg1.3_nfe32_sway-1.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe32_sway-1.0_seed1/fixed
+2026-09-21 19:27:25,127 | INFO    | a1.20_cfg1.3_nfe32_sway-1.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe32_sway-1.0_seed1/cross
+2026-09-21 19:28:44,162 | INFO    | a1.20_cfg1.3_nfe32_sway-1.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe32_sway-1.0_seed2/fixed
+2026-09-21 19:30:03,498 | INFO    | a1.20_cfg1.3_nfe32_sway-1.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe32_sway-1.0_seed2/cross
+2026-09-21 19:30:10,778 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 19:31:33,760 | INFO    | a1.20_cfg1.3_nfe32_sway+0.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe32_sway+0.0/fixed
+2026-09-21 19:32:53,746 | INFO    | a1.20_cfg1.3_nfe32_sway+0.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe32_sway+0.0/cross
+2026-09-21 19:34:12,860 | INFO    | a1.20_cfg1.3_nfe32_sway+0.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe32_sway+0.0_seed1/fixed
+2026-09-21 19:35:32,267 | INFO    | a1.20_cfg1.3_nfe32_sway+0.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe32_sway+0.0_seed1/cross
+2026-09-21 19:36:51,305 | INFO    | a1.20_cfg1.3_nfe32_sway+0.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe32_sway+0.0_seed2/fixed
+2026-09-21 19:38:10,865 | INFO    | a1.20_cfg1.3_nfe32_sway+0.0_seed2/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe32_sway+0.0_seed2/cross
+2026-09-21 19:38:18,159 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 19:41:00,240 | INFO    | a1.20_cfg1.3_nfe64_sway-1.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe64_sway-1.0/fixed
+2026-09-21 19:43:38,606 | INFO    | a1.20_cfg1.3_nfe64_sway-1.0/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe64_sway-1.0/cross
+2026-09-21 19:46:15,850 | INFO    | a1.20_cfg1.3_nfe64_sway-1.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe64_sway-1.0_seed1/fixed
+2026-09-21 19:48:53,673 | INFO    | a1.20_cfg1.3_nfe64_sway-1.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe64_sway-1.0_seed1/cross
+2026-09-21 19:51:30,976 | INFO    | a1.20_cfg1.3_nfe64_sway-1.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe64_sway-1.0_seed2/fixed
+2026-09-21 19:54:08,869 | INFO    | a1.20_cfg1.3_nfe64_sway-1.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe64_sway-1.0_seed2/cross
+2026-09-21 19:54:16,194 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 19:56:57,429 | INFO    | a1.20_cfg1.3_nfe64_sway+0.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe64_sway+0.0/fixed
+2026-09-21 19:59:35,769 | INFO    | a1.20_cfg1.3_nfe64_sway+0.0/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe64_sway+0.0/cross
+2026-09-21 20:02:12,940 | INFO    | a1.20_cfg1.3_nfe64_sway+0.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe64_sway+0.0_seed1/fixed
+2026-09-21 20:04:50,778 | INFO    | a1.20_cfg1.3_nfe64_sway+0.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe64_sway+0.0_seed1/cross
+2026-09-21 20:07:27,967 | INFO    | a1.20_cfg1.3_nfe64_sway+0.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe64_sway+0.0_seed2/fixed
+2026-09-21 20:10:05,924 | INFO    | a1.20_cfg1.3_nfe64_sway+0.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.3_nfe64_sway+0.0_seed2/cross
+2026-09-21 20:10:13,276 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 20:11:36,517 | INFO    | a1.20_cfg1.6_nfe32_sway-1.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe32_sway-1.0/fixed
+2026-09-21 20:12:56,536 | INFO    | a1.20_cfg1.6_nfe32_sway-1.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe32_sway-1.0/cross
+2026-09-21 20:14:15,639 | INFO    | a1.20_cfg1.6_nfe32_sway-1.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe32_sway-1.0_seed1/fixed
+2026-09-21 20:15:35,035 | INFO    | a1.20_cfg1.6_nfe32_sway-1.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe32_sway-1.0_seed1/cross
+2026-09-21 20:16:54,074 | INFO    | a1.20_cfg1.6_nfe32_sway-1.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe32_sway-1.0_seed2/fixed
+2026-09-21 20:18:13,371 | INFO    | a1.20_cfg1.6_nfe32_sway-1.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe32_sway-1.0_seed2/cross
+2026-09-21 20:18:20,703 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 20:19:43,835 | INFO    | a1.20_cfg1.6_nfe32_sway+0.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe32_sway+0.0/fixed
+2026-09-21 20:21:03,672 | INFO    | a1.20_cfg1.6_nfe32_sway+0.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe32_sway+0.0/cross
+2026-09-21 20:22:22,656 | INFO    | a1.20_cfg1.6_nfe32_sway+0.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe32_sway+0.0_seed1/fixed
+2026-09-21 20:23:41,974 | INFO    | a1.20_cfg1.6_nfe32_sway+0.0_seed1/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe32_sway+0.0_seed1/cross
+2026-09-21 20:25:00,946 | INFO    | a1.20_cfg1.6_nfe32_sway+0.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe32_sway+0.0_seed2/fixed
+2026-09-21 20:26:20,287 | INFO    | a1.20_cfg1.6_nfe32_sway+0.0_seed2/cross: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe32_sway+0.0_seed2/cross
+2026-09-21 20:26:27,627 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 20:29:09,207 | INFO    | a1.20_cfg1.6_nfe64_sway-1.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe64_sway-1.0/fixed
+2026-09-21 20:31:47,824 | INFO    | a1.20_cfg1.6_nfe64_sway-1.0/cross: 21 synthesised (159s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe64_sway-1.0/cross
+2026-09-21 20:34:25,136 | INFO    | a1.20_cfg1.6_nfe64_sway-1.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe64_sway-1.0_seed1/fixed
+2026-09-21 20:37:03,084 | INFO    | a1.20_cfg1.6_nfe64_sway-1.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe64_sway-1.0_seed1/cross
+2026-09-21 20:39:40,702 | INFO    | a1.20_cfg1.6_nfe64_sway-1.0_seed2/fixed: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe64_sway-1.0_seed2/fixed
+2026-09-21 20:42:18,509 | INFO    | a1.20_cfg1.6_nfe64_sway-1.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe64_sway-1.0_seed2/cross
+2026-09-21 20:42:25,821 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.83 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 20:45:07,295 | INFO    | a1.20_cfg1.6_nfe64_sway+0.0/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe64_sway+0.0/fixed
+2026-09-21 20:47:45,678 | INFO    | a1.20_cfg1.6_nfe64_sway+0.0/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe64_sway+0.0/cross
+2026-09-21 20:50:22,912 | INFO    | a1.20_cfg1.6_nfe64_sway+0.0_seed1/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe64_sway+0.0_seed1/fixed
+2026-09-21 20:53:00,798 | INFO    | a1.20_cfg1.6_nfe64_sway+0.0_seed1/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe64_sway+0.0_seed1/cross
+2026-09-21 20:55:38,031 | INFO    | a1.20_cfg1.6_nfe64_sway+0.0_seed2/fixed: 21 synthesised (157s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe64_sway+0.0_seed2/fixed
+2026-09-21 20:58:15,905 | INFO    | a1.20_cfg1.6_nfe64_sway+0.0_seed2/cross: 21 synthesised (158s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg1.6_nfe64_sway+0.0_seed2/cross
+2026-09-21 20:58:23,237 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.98 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 20:59:50,276 | INFO    | a1.20_cfg2.0_nfe32_sway-1.0/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe32_sway-1.0/fixed
+2026-09-21 21:01:10,464 | INFO    | a1.20_cfg2.0_nfe32_sway-1.0/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe32_sway-1.0/cross
+2026-09-21 21:02:29,764 | INFO    | a1.20_cfg2.0_nfe32_sway-1.0_seed1/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe32_sway-1.0_seed1/fixed
+2026-09-21 21:03:49,339 | INFO    | a1.20_cfg2.0_nfe32_sway-1.0_seed1/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe32_sway-1.0_seed1/cross
+2026-09-21 21:05:08,631 | INFO    | a1.20_cfg2.0_nfe32_sway-1.0_seed2/fixed: 21 synthesised (79s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe32_sway-1.0_seed2/fixed
+2026-09-21 21:06:28,271 | INFO    | a1.20_cfg2.0_nfe32_sway-1.0_seed2/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe32_sway-1.0_seed2/cross
+2026-09-21 21:06:35,664 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 21:07:59,355 | INFO    | a1.20_cfg2.0_nfe32_sway+0.0/fixed: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe32_sway+0.0/fixed
+2026-09-21 21:09:20,173 | INFO    | a1.20_cfg2.0_nfe32_sway+0.0/cross: 21 synthesised (81s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe32_sway+0.0/cross
+2026-09-21 21:10:39,903 | INFO    | a1.20_cfg2.0_nfe32_sway+0.0_seed1/fixed: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe32_sway+0.0_seed1/fixed
+2026-09-21 21:11:59,841 | INFO    | a1.20_cfg2.0_nfe32_sway+0.0_seed1/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe32_sway+0.0_seed1/cross
+2026-09-21 21:13:19,496 | INFO    | a1.20_cfg2.0_nfe32_sway+0.0_seed2/fixed: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe32_sway+0.0_seed2/fixed
+2026-09-21 21:14:39,400 | INFO    | a1.20_cfg2.0_nfe32_sway+0.0_seed2/cross: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe32_sway+0.0_seed2/cross
+2026-09-21 21:14:46,786 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 21:17:30,210 | INFO    | a1.20_cfg2.0_nfe64_sway-1.0/fixed: 21 synthesised (159s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe64_sway-1.0/fixed
+2026-09-21 21:20:10,482 | INFO    | a1.20_cfg2.0_nfe64_sway-1.0/cross: 21 synthesised (160s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe64_sway-1.0/cross
+2026-09-21 21:22:49,506 | INFO    | a1.20_cfg2.0_nfe64_sway-1.0_seed1/fixed: 21 synthesised (159s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe64_sway-1.0_seed1/fixed
+2026-09-21 21:25:29,039 | INFO    | a1.20_cfg2.0_nfe64_sway-1.0_seed1/cross: 21 synthesised (160s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe64_sway-1.0_seed1/cross
+2026-09-21 21:28:08,189 | INFO    | a1.20_cfg2.0_nfe64_sway-1.0_seed2/fixed: 21 synthesised (159s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe64_sway-1.0_seed2/fixed
+2026-09-21 21:30:47,992 | INFO    | a1.20_cfg2.0_nfe64_sway-1.0_seed2/cross: 21 synthesised (160s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe64_sway-1.0_seed2/cross
+2026-09-21 21:30:55,326 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 21:33:39,416 | INFO    | a1.20_cfg2.0_nfe64_sway+0.0/fixed: 21 synthesised (160s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe64_sway+0.0/fixed
+2026-09-21 21:36:20,320 | INFO    | a1.20_cfg2.0_nfe64_sway+0.0/cross: 21 synthesised (161s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe64_sway+0.0/cross
+2026-09-21 21:39:00,204 | INFO    | a1.20_cfg2.0_nfe64_sway+0.0_seed1/fixed: 21 synthesised (160s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe64_sway+0.0_seed1/fixed
+2026-09-21 21:41:40,447 | INFO    | a1.20_cfg2.0_nfe64_sway+0.0_seed1/cross: 21 synthesised (160s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe64_sway+0.0_seed1/cross
+2026-09-21 21:44:20,211 | INFO    | a1.20_cfg2.0_nfe64_sway+0.0_seed2/fixed: 21 synthesised (160s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe64_sway+0.0_seed2/fixed
+2026-09-21 21:47:00,378 | INFO    | a1.20_cfg2.0_nfe64_sway+0.0_seed2/cross: 21 synthesised (160s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.0_nfe64_sway+0.0_seed2/cross
+2026-09-21 21:47:07,770 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 21:48:32,282 | INFO    | a1.20_cfg2.5_nfe32_sway-1.0/fixed: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe32_sway-1.0/fixed
+2026-09-21 21:49:53,821 | INFO    | a1.20_cfg2.5_nfe32_sway-1.0/cross: 21 synthesised (82s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe32_sway-1.0/cross
+2026-09-21 21:51:14,471 | INFO    | a1.20_cfg2.5_nfe32_sway-1.0_seed1/fixed: 21 synthesised (81s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe32_sway-1.0_seed1/fixed
+2026-09-21 21:52:35,327 | INFO    | a1.20_cfg2.5_nfe32_sway-1.0_seed1/cross: 21 synthesised (81s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe32_sway-1.0_seed1/cross
+2026-09-21 21:53:55,820 | INFO    | a1.20_cfg2.5_nfe32_sway-1.0_seed2/fixed: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe32_sway-1.0_seed2/fixed
+2026-09-21 21:55:16,527 | INFO    | a1.20_cfg2.5_nfe32_sway-1.0_seed2/cross: 21 synthesised (81s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe32_sway-1.0_seed2/cross
+2026-09-21 21:55:23,867 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 21:56:48,445 | INFO    | a1.20_cfg2.5_nfe32_sway+0.0/fixed: 21 synthesised (81s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe32_sway+0.0/fixed
+2026-09-21 21:58:10,234 | INFO    | a1.20_cfg2.5_nfe32_sway+0.0/cross: 21 synthesised (82s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe32_sway+0.0/cross
+2026-09-21 21:59:30,976 | INFO    | a1.20_cfg2.5_nfe32_sway+0.0_seed1/fixed: 21 synthesised (81s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe32_sway+0.0_seed1/fixed
+2026-09-21 22:00:51,817 | INFO    | a1.20_cfg2.5_nfe32_sway+0.0_seed1/cross: 21 synthesised (81s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe32_sway+0.0_seed1/cross
+2026-09-21 22:02:12,313 | INFO    | a1.20_cfg2.5_nfe32_sway+0.0_seed2/fixed: 21 synthesised (80s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe32_sway+0.0_seed2/fixed
+2026-09-21 22:03:33,090 | INFO    | a1.20_cfg2.5_nfe32_sway+0.0_seed2/cross: 21 synthesised (81s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe32_sway+0.0_seed2/cross
+2026-09-21 22:03:40,418 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.02 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 22:06:25,489 | INFO    | a1.20_cfg2.5_nfe64_sway-1.0/fixed: 21 synthesised (161s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe64_sway-1.0/fixed
+2026-09-21 22:09:07,336 | INFO    | a1.20_cfg2.5_nfe64_sway-1.0/cross: 21 synthesised (162s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe64_sway-1.0/cross
+2026-09-21 22:11:47,854 | INFO    | a1.20_cfg2.5_nfe64_sway-1.0_seed1/fixed: 21 synthesised (161s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe64_sway-1.0_seed1/fixed
+2026-09-21 22:14:28,846 | INFO    | a1.20_cfg2.5_nfe64_sway-1.0_seed1/cross: 21 synthesised (161s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe64_sway-1.0_seed1/cross
+2026-09-21 22:17:09,361 | INFO    | a1.20_cfg2.5_nfe64_sway-1.0_seed2/fixed: 21 synthesised (161s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe64_sway-1.0_seed2/fixed
+2026-09-21 22:19:50,419 | INFO    | a1.20_cfg2.5_nfe64_sway-1.0_seed2/cross: 21 synthesised (161s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe64_sway-1.0_seed2/cross
+2026-09-21 22:19:57,811 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 22:22:43,356 | INFO    | a1.20_cfg2.5_nfe64_sway+0.0/fixed: 21 synthesised (161s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe64_sway+0.0/fixed
+2026-09-21 22:25:25,488 | INFO    | a1.20_cfg2.5_nfe64_sway+0.0/cross: 21 synthesised (162s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe64_sway+0.0/cross
+2026-09-21 22:28:06,256 | INFO    | a1.20_cfg2.5_nfe64_sway+0.0_seed1/fixed: 21 synthesised (161s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe64_sway+0.0_seed1/fixed
+2026-09-21 22:30:47,496 | INFO    | a1.20_cfg2.5_nfe64_sway+0.0_seed1/cross: 21 synthesised (161s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe64_sway+0.0_seed1/cross
+2026-09-21 22:33:28,194 | INFO    | a1.20_cfg2.5_nfe64_sway+0.0_seed2/fixed: 21 synthesised (161s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe64_sway+0.0_seed2/fixed
+2026-09-21 22:36:09,366 | INFO    | a1.20_cfg2.5_nfe64_sway+0.0_seed2/cross: 21 synthesised (161s) -> /home/farig/Rezuwan_TTS/output/evaluation/a1.20_cfg2.5_nfe64_sway+0.0_seed2/cross

@@ -1,0 +1,196 @@
+2026-09-18 18:55:01,951 | INFO    | ffmpeg: C:\Users\MD. REZUWAN HASAN\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.1-full_build\bin\ffmpeg.EXE
+2026-09-18 18:55:03,453 | INFO    | GPU: NVIDIA GeForce RTX 3060 | total VRAM 12.00 GiB | free 10.98 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-18 18:55:03,526 | INFO    | raw_data: G:\akhtar_khan\data\raw_data (324 files) | transcriptions: G:\akhtar_khan\data\transcriptions.csv
+2026-09-18 18:55:03,573 | INFO    | Repaired encoding damage (apostrophes/quotes only) in 2 transcript(s): ['101', '55']
+2026-09-18 18:55:03,601 | WARNING | 6 transcript(s) contain unrecoverable text and are EXCLUDED: ['172', '173', '322', '87', '91', '92']
+2026-09-18 18:55:03,603 | INFO    | Deleted previous dataset folder G:\akhtar_khan\data\clean_audios (0 files)
+2026-09-18 18:55:03,604 | INFO    | Deleted previous dataset folder G:\akhtar_khan\data\splits (0 files)
+2026-09-18 18:55:04,384 | INFO    | Vocal isolation: 324 files | vocal model 'vocals_mel_band_roformer.ckpt' -> denoise model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt'
+2026-09-18 18:55:07,184 | INFO    | separator model 'vocals_mel_band_roformer.ckpt' ready (3s, stems: vocals/other)
+2026-09-18 18:57:18,150 | INFO    |   [vocals 10/324] 10  elapsed 2.2 min
+2026-09-18 19:00:06,578 | INFO    |   [vocals 20/324] 20  elapsed 5.0 min
+2026-09-18 19:03:05,531 | INFO    |   [vocals 30/324] 30  elapsed 8.0 min
+2026-09-18 19:06:15,034 | INFO    |   [vocals 40/324] 40  elapsed 11.2 min
+2026-09-18 19:08:35,995 | INFO    |   [vocals 50/324] 50  elapsed 13.5 min
+2026-09-18 19:10:55,954 | INFO    |   [vocals 60/324] 60  elapsed 15.9 min
+2026-09-18 19:13:25,554 | INFO    |   [vocals 70/324] 70  elapsed 18.4 min
+2026-09-18 19:15:31,289 | INFO    |   [vocals 80/324] 80  elapsed 20.4 min
+2026-09-18 19:17:50,444 | INFO    |   [vocals 90/324] 90  elapsed 22.8 min
+2026-09-18 19:19:59,692 | INFO    |   [vocals 100/324] 100  elapsed 24.9 min
+2026-09-18 19:22:28,896 | INFO    |   [vocals 110/324] 110  elapsed 27.4 min
+2026-09-18 19:23:50,117 | INFO    |   [vocals 120/324] 120  elapsed 28.8 min
+2026-09-18 19:25:42,668 | INFO    |   [vocals 130/324] 130  elapsed 30.6 min
+2026-09-18 19:27:09,994 | INFO    |   [vocals 140/324] 140  elapsed 32.1 min
+2026-09-18 19:30:00,510 | INFO    |   [vocals 150/324] 150  elapsed 34.9 min
+2026-09-18 19:32:30,272 | INFO    |   [vocals 160/324] 160  elapsed 37.4 min
+2026-09-18 19:34:11,950 | INFO    |   [vocals 170/324] 170  elapsed 39.1 min
+2026-09-18 19:36:04,350 | INFO    |   [vocals 180/324] 180  elapsed 41.0 min
+2026-09-18 19:37:16,980 | INFO    |   [vocals 190/324] 190  elapsed 42.2 min
+2026-09-18 19:39:09,202 | INFO    |   [vocals 200/324] 200  elapsed 44.1 min
+2026-09-18 19:40:44,773 | INFO    |   [vocals 210/324] 210  elapsed 45.7 min
+2026-09-18 19:42:29,956 | INFO    |   [vocals 220/324] 220  elapsed 47.4 min
+2026-09-18 19:43:17,372 | INFO    |   [vocals 230/324] 230  elapsed 48.2 min
+2026-09-18 19:44:32,280 | INFO    |   [vocals 240/324] 240  elapsed 49.5 min
+2026-09-18 19:45:43,017 | INFO    |   [vocals 250/324] 250  elapsed 50.6 min
+2026-09-18 19:46:52,117 | INFO    |   [vocals 260/324] 260  elapsed 51.8 min
+2026-09-18 19:48:57,353 | INFO    |   [vocals 270/324] 270  elapsed 53.9 min
+2026-09-18 19:50:13,424 | INFO    |   [vocals 280/324] 280  elapsed 55.2 min
+2026-09-18 19:51:21,938 | INFO    |   [vocals 290/324] 290  elapsed 56.3 min
+2026-09-18 19:52:40,615 | INFO    |   [vocals 300/324] 300  elapsed 57.6 min
+2026-09-18 19:55:00,615 | INFO    |   [vocals 310/324] 310  elapsed 59.9 min
+2026-09-18 19:56:44,707 | INFO    |   [vocals 320/324] 320  elapsed 61.7 min
+2026-09-18 19:57:27,462 | INFO    |   [vocals 324/324] 324  elapsed 62.4 min
+2026-09-18 19:57:29,550 | INFO    | separator model 'denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt' ready (2s, stems: dry/other)
+2026-09-18 19:59:51,522 | INFO    |   [denoise 10/324] 10  elapsed 64.8 min
+2026-09-18 20:02:51,093 | INFO    |   [denoise 20/324] 20  elapsed 67.8 min
+2026-09-18 20:05:57,006 | INFO    |   [denoise 30/324] 30  elapsed 70.9 min
+2026-09-18 20:09:17,090 | INFO    |   [denoise 40/324] 40  elapsed 74.2 min
+2026-09-18 20:11:51,257 | INFO    |   [denoise 50/324] 50  elapsed 76.8 min
+2026-09-18 20:14:23,055 | INFO    |   [denoise 60/324] 60  elapsed 79.3 min
+2026-09-18 20:17:02,943 | INFO    |   [denoise 70/324] 70  elapsed 82.0 min
+2026-09-18 20:19:19,793 | INFO    |   [denoise 80/324] 80  elapsed 84.3 min
+2026-09-18 20:21:46,411 | INFO    |   [denoise 90/324] 90  elapsed 86.7 min
+2026-09-18 20:24:07,403 | INFO    |   [denoise 100/324] 100  elapsed 89.1 min
+2026-09-18 20:26:46,637 | INFO    |   [denoise 110/324] 110  elapsed 91.7 min
+2026-09-18 20:28:23,264 | INFO    |   [denoise 120/324] 120  elapsed 93.3 min
+2026-09-18 20:30:25,493 | INFO    |   [denoise 130/324] 130  elapsed 95.4 min
+2026-09-18 20:32:04,578 | INFO    |   [denoise 140/324] 140  elapsed 97.0 min
+2026-09-18 20:35:02,219 | INFO    |   [denoise 150/324] 150  elapsed 100.0 min
+2026-09-18 20:37:41,023 | INFO    |   [denoise 160/324] 160  elapsed 102.6 min
+2026-09-18 20:39:35,472 | INFO    |   [denoise 170/324] 170  elapsed 104.5 min
+2026-09-18 20:41:40,748 | INFO    |   [denoise 180/324] 180  elapsed 106.6 min
+2026-09-18 20:43:06,545 | INFO    |   [denoise 190/324] 190  elapsed 108.0 min
+2026-09-18 20:45:10,950 | INFO    |   [denoise 200/324] 200  elapsed 110.1 min
+2026-09-18 20:46:58,992 | INFO    |   [denoise 210/324] 210  elapsed 111.9 min
+2026-09-18 20:48:56,732 | INFO    |   [denoise 220/324] 220  elapsed 113.9 min
+2026-09-18 20:49:57,770 | INFO    |   [denoise 230/324] 230  elapsed 114.9 min
+2026-09-18 20:51:27,760 | INFO    |   [denoise 240/324] 240  elapsed 116.4 min
+2026-09-18 20:52:53,203 | INFO    |   [denoise 250/324] 250  elapsed 117.8 min
+2026-09-18 20:54:18,244 | INFO    |   [denoise 260/324] 260  elapsed 119.2 min
+2026-09-18 20:56:34,614 | INFO    |   [denoise 270/324] 270  elapsed 121.5 min
+2026-09-18 20:58:05,395 | INFO    |   [denoise 280/324] 280  elapsed 123.0 min
+2026-09-18 20:59:27,384 | INFO    |   [denoise 290/324] 290  elapsed 124.4 min
+2026-09-18 21:00:57,253 | INFO    |   [denoise 300/324] 300  elapsed 125.9 min
+2026-09-18 21:03:29,467 | INFO    |   [denoise 310/324] 310  elapsed 128.4 min
+2026-09-18 21:05:24,171 | INFO    |   [denoise 320/324] 320  elapsed 130.3 min
+2026-09-18 21:06:12,278 | INFO    |   [denoise 324/324] 324  elapsed 131.1 min
+2026-09-18 21:06:25,285 | INFO    | RoFormer processing (2 stage(s)) finished in 131.3 min
+2026-09-18 21:06:51,361 | INFO    | 324 clean vocal files written to G:\akhtar_khan\data\clean_audios
+2026-09-18 21:06:53,014 | INFO    | 318 clean clips with valid transcripts
+2026-09-18 21:06:53,015 | INFO    | Deduplication: fingerprinting 318 clips ...
+2026-09-18 21:06:57,534 | INFO    |   pairwise mel-fingerprint similarity: max=1.000  p99=0.388  median=0.054  (threshold 0.95)
+2026-09-18 21:06:57,542 | INFO    |   re-checking 10109 duration-compatible pair(s) with waveform cross-correlation ...
+2026-09-18 21:07:44,762 | INFO    |   DUPLICATE 42 ~ 22  mel-sim=1.0000  [mel-fingerprint]  (37.59s vs 37.59s)
+2026-09-18 21:07:44,762 | INFO    |   DUPLICATE 58 ~ 56  mel-sim=0.6836  xcorr=0.993  [waveform-xcorr]  (8.29s vs 8.42s)
+2026-09-18 21:07:44,765 | INFO    |   DUPLICATE 63 ~ 62  mel-sim=1.0000  [mel-fingerprint]  (40.37s vs 40.37s)
+2026-09-18 21:07:44,765 | INFO    |   DUPLICATE 66 ~ 56  mel-sim=0.9228  xcorr=0.986  [waveform-xcorr]  (8.44s vs 8.42s)
+2026-09-18 21:07:44,765 | INFO    |   DUPLICATE 69 ~ 24  mel-sim=0.3399  xcorr=1.008  [waveform-xcorr]  (7.65s vs 7.3s)
+2026-09-18 21:07:44,765 | INFO    |   DUPLICATE 79 ~ 24  mel-sim=0.9999  [mel-fingerprint]  (7.3s vs 7.3s)
+2026-09-18 21:07:44,765 | INFO    |   DUPLICATE 80 ~ 2  mel-sim=0.9999  [mel-fingerprint]  (14.04s vs 14.04s)
+2026-09-18 21:07:44,765 | INFO    |   DUPLICATE 84 ~ 16  mel-sim=0.8193  xcorr=0.923  [waveform-xcorr]  (11.33s vs 11.36s)
+2026-09-18 21:07:44,765 | INFO    |   DUPLICATE 94 ~ 29  mel-sim=0.8636  xcorr=0.951  [waveform-xcorr]  (8.65s vs 8.75s)
+2026-09-18 21:07:44,765 | INFO    |   DUPLICATE 95 ~ 74  mel-sim=0.9651  [mel-fingerprint]  (12.64s vs 12.64s)
+2026-09-18 21:07:44,765 | INFO    |   DUPLICATE 99 ~ 48  mel-sim=1.0000  [mel-fingerprint]  (11.89s vs 11.89s)
+2026-09-18 21:07:44,765 | INFO    |   DUPLICATE 106 ~ 30  mel-sim=0.5369  xcorr=0.983  [waveform-xcorr]  (17.5s vs 17.01s)
+2026-09-18 21:07:44,765 | INFO    |   DUPLICATE 109 ~ 93  mel-sim=0.9934  [mel-fingerprint]  (35.98s vs 36.01s)
+2026-09-18 21:07:44,765 | INFO    |   DUPLICATE 116 ~ 1  mel-sim=0.9694  [mel-fingerprint]  (10.82s vs 10.85s)
+2026-09-18 21:07:44,847 | INFO    |   DUPLICATE 122 ~ 101  mel-sim=1.0000  [mel-fingerprint]  (45.79s vs 45.79s)
+2026-09-18 21:07:44,847 | INFO    |   DUPLICATE 124 ~ 78  mel-sim=0.4594  xcorr=0.953  [waveform-xcorr]  (14.33s vs 14.0s)
+2026-09-18 21:07:44,848 | INFO    |   DUPLICATE 131 ~ 130  mel-sim=1.0000  [mel-fingerprint]  (17.74s vs 17.74s)
+2026-09-18 21:07:44,849 | INFO    |   DUPLICATE 135 ~ 57  mel-sim=0.9952  [mel-fingerprint]  (12.34s vs 12.36s)
+2026-09-18 21:07:44,849 | INFO    |   DUPLICATE 153 ~ 16  mel-sim=0.9443  xcorr=1.002  [waveform-xcorr]  (11.47s vs 11.36s)
+2026-09-18 21:07:44,850 | INFO    |   DUPLICATE 154 ~ 57  mel-sim=0.9951  [mel-fingerprint]  (12.34s vs 12.36s)
+2026-09-18 21:07:44,850 | INFO    |   DUPLICATE 155 ~ 68  mel-sim=1.0000  [mel-fingerprint]  (17.89s vs 17.89s)
+2026-09-18 21:07:44,851 | INFO    |   DUPLICATE 164 ~ 48  mel-sim=1.0000  [mel-fingerprint]  (11.89s vs 11.89s)
+2026-09-18 21:07:44,851 | INFO    |   DUPLICATE 168 ~ 16  mel-sim=0.8494  xcorr=0.932  [waveform-xcorr]  (11.45s vs 11.36s)
+2026-09-18 21:07:44,852 | INFO    |   DUPLICATE 169 ~ 133  mel-sim=0.9236  xcorr=0.985  [waveform-xcorr]  (16.31s vs 16.53s)
+2026-09-18 21:07:44,853 | INFO    |   DUPLICATE 170 ~ 113  mel-sim=0.7045  xcorr=0.930  [waveform-xcorr]  (17.93s vs 18.07s)
+2026-09-18 21:07:44,853 | INFO    |   DUPLICATE 174 ~ 57  mel-sim=0.9940  [mel-fingerprint]  (12.34s vs 12.36s)
+2026-09-18 21:07:44,854 | INFO    |   DUPLICATE 176 ~ 74  mel-sim=0.8731  xcorr=0.993  [waveform-xcorr]  (12.55s vs 12.64s)
+2026-09-18 21:07:44,855 | INFO    |   DUPLICATE 181 ~ 180  mel-sim=0.9358  xcorr=1.001  [waveform-xcorr]  (12.57s vs 12.62s)
+2026-09-18 21:07:44,856 | INFO    |   DUPLICATE 184 ~ 24  mel-sim=1.0000  [mel-fingerprint]  (7.3s vs 7.3s)
+2026-09-18 21:07:44,857 | INFO    |   DUPLICATE 190 ~ 132  mel-sim=0.6767  xcorr=0.986  [waveform-xcorr]  (14.5s vs 14.67s)
+2026-09-18 21:07:44,857 | INFO    |   DUPLICATE 191 ~ 147  mel-sim=0.6567  xcorr=0.897  [waveform-xcorr]  (11.04s vs 10.89s)
+2026-09-18 21:07:44,859 | INFO    |   DUPLICATE 193 ~ 192  mel-sim=0.9865  [mel-fingerprint]  (40.68s vs 40.67s)
+2026-09-18 21:07:44,859 | INFO    |   DUPLICATE 194 ~ 104  mel-sim=0.7680  xcorr=0.985  [waveform-xcorr]  (15.24s vs 15.23s)
+2026-09-18 21:07:44,859 | INFO    |   DUPLICATE 195 ~ 56  mel-sim=0.9949  [mel-fingerprint]  (8.42s vs 8.42s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 197 ~ 2  mel-sim=0.9737  [mel-fingerprint]  (14.08s vs 14.04s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 205 ~ 74  mel-sim=0.9997  [mel-fingerprint]  (12.64s vs 12.64s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 206 ~ 73  mel-sim=0.0275  xcorr=1.023  [waveform-xcorr]  (17.86s vs 15.87s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 210 ~ 40  mel-sim=0.4656  xcorr=0.964  [waveform-xcorr]  (15.31s vs 15.23s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 211 ~ 40  mel-sim=0.4656  xcorr=0.964  [waveform-xcorr]  (15.31s vs 15.23s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 213 ~ 73  mel-sim=0.0439  xcorr=1.040  [waveform-xcorr]  (17.8s vs 15.87s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 214 ~ 133  mel-sim=1.0000  [mel-fingerprint]  (16.53s vs 16.53s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 217 ~ 57  mel-sim=0.9952  [mel-fingerprint]  (12.34s vs 12.36s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 218 ~ 78  mel-sim=0.4594  xcorr=0.953  [waveform-xcorr]  (14.33s vs 14.0s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 219 ~ 113  mel-sim=1.0000  [mel-fingerprint]  (18.07s vs 18.07s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 220 ~ 101  mel-sim=1.0000  [mel-fingerprint]  (45.79s vs 45.79s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 221 ~ 90  mel-sim=1.0000  [mel-fingerprint]  (11.49s vs 11.49s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 222 ~ 24  mel-sim=0.9999  [mel-fingerprint]  (7.3s vs 7.3s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 223 ~ 16  mel-sim=0.6495  xcorr=1.007  [waveform-xcorr]  (12.28s vs 11.36s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 225 ~ 68  mel-sim=1.0000  [mel-fingerprint]  (17.89s vs 17.89s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 226 ~ 57  mel-sim=1.0000  [mel-fingerprint]  (12.36s vs 12.36s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 227 ~ 46  mel-sim=1.0000  [mel-fingerprint]  (14.21s vs 14.21s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 228 ~ 35  mel-sim=1.0000  [mel-fingerprint]  (6.34s vs 6.34s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 229 ~ 24  mel-sim=1.0000  [mel-fingerprint]  (7.3s vs 7.3s)
+2026-09-18 21:07:44,862 | INFO    |   DUPLICATE 230 ~ 13  mel-sim=1.0000  [mel-fingerprint]  (11.6s vs 11.6s)
+2026-09-18 21:07:44,876 | INFO    |   DUPLICATE 231 ~ 56  mel-sim=0.9206  xcorr=0.986  [waveform-xcorr]  (8.44s vs 8.42s)
+2026-09-18 21:07:44,876 | INFO    |   DUPLICATE 232 ~ 74  mel-sim=0.9758  [mel-fingerprint]  (12.6s vs 12.64s)
+2026-09-18 21:07:44,876 | INFO    |   DUPLICATE 233 ~ 2  mel-sim=1.0000  [mel-fingerprint]  (14.04s vs 14.04s)
+2026-09-18 21:07:44,876 | INFO    |   DUPLICATE 234 ~ 121  mel-sim=0.9644  [mel-fingerprint]  (11.23s vs 11.17s)
+2026-09-18 21:07:44,876 | INFO    |   DUPLICATE 235 ~ 113  mel-sim=0.5982  xcorr=0.953  [waveform-xcorr]  (18.16s vs 18.07s)
+2026-09-18 21:07:44,876 | INFO    |   DUPLICATE 236 ~ 133  mel-sim=1.0000  [mel-fingerprint]  (16.53s vs 16.53s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 237 ~ 209  mel-sim=0.7748  xcorr=0.963  [waveform-xcorr]  (14.35s vs 14.22s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 241 ~ 112  mel-sim=1.0000  [mel-fingerprint]  (14.07s vs 14.07s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 245 ~ 57  mel-sim=0.0984  xcorr=1.073  [waveform-xcorr]  (14.23s vs 12.36s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 246 ~ 107  mel-sim=0.9117  xcorr=0.984  [waveform-xcorr]  (8.18s vs 8.22s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 247 ~ 57  mel-sim=0.0984  xcorr=1.073  [waveform-xcorr]  (14.23s vs 12.36s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 248 ~ 118  mel-sim=0.9165  xcorr=0.954  [waveform-xcorr]  (15.93s vs 15.84s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 249 ~ 40  mel-sim=0.4315  xcorr=0.964  [waveform-xcorr]  (15.27s vs 15.23s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 251 ~ 250  mel-sim=1.0000  [mel-fingerprint]  (18.41s vs 18.41s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 252 ~ 104  mel-sim=1.0000  [mel-fingerprint]  (15.23s vs 15.23s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 253 ~ 100  mel-sim=0.9999  [mel-fingerprint]  (24.45s vs 24.45s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 254 ~ 57  mel-sim=0.9999  [mel-fingerprint]  (12.36s vs 12.36s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 258 ~ 48  mel-sim=0.9770  [mel-fingerprint]  (11.89s vs 11.89s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 259 ~ 240  mel-sim=1.0000  [mel-fingerprint]  (13.42s vs 13.42s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 260 ~ 90  mel-sim=0.9999  [mel-fingerprint]  (11.49s vs 11.49s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 261 ~ 28  mel-sim=0.7281  xcorr=0.915  [waveform-xcorr]  (8.1s vs 7.95s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 263 ~ 103  mel-sim=0.9632  [mel-fingerprint]  (16.22s vs 16.18s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 266 ~ 180  mel-sim=0.9358  xcorr=1.001  [waveform-xcorr]  (12.57s vs 12.62s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 267 ~ 74  mel-sim=0.9750  [mel-fingerprint]  (12.6s vs 12.64s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 268 ~ 136  mel-sim=0.9722  [mel-fingerprint]  (18.47s vs 18.47s)
+2026-09-18 21:07:44,881 | INFO    |   DUPLICATE 270 ~ 239  mel-sim=1.0000  [mel-fingerprint]  (28.77s vs 28.77s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 271 ~ 56  mel-sim=0.9565  [mel-fingerprint]  (8.42s vs 8.42s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 272 ~ 71  mel-sim=0.8347  xcorr=0.990  [waveform-xcorr]  (20.13s vs 20.13s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 275 ~ 74  mel-sim=0.4908  xcorr=0.990  [waveform-xcorr]  (12.96s vs 12.64s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 277 ~ 29  mel-sim=1.0000  [mel-fingerprint]  (8.75s vs 8.75s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 278 ~ 73  mel-sim=0.0418  xcorr=1.040  [waveform-xcorr]  (17.9s vs 15.87s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 279 ~ 74  mel-sim=1.0000  [mel-fingerprint]  (12.64s vs 12.64s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 281 ~ 238  mel-sim=1.0000  [mel-fingerprint]  (25.89s vs 25.89s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 282 ~ 24  mel-sim=0.3399  xcorr=1.008  [waveform-xcorr]  (7.65s vs 7.3s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 285 ~ 2  mel-sim=0.8229  xcorr=0.965  [waveform-xcorr]  (14.01s vs 14.04s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 286 ~ 186  mel-sim=0.8796  xcorr=0.986  [waveform-xcorr]  (11.03s vs 10.91s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 290 ~ 201  mel-sim=0.1485  xcorr=0.969  [waveform-xcorr]  (16.99s vs 17.22s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 292 ~ 209  mel-sim=0.7748  xcorr=0.963  [waveform-xcorr]  (14.35s vs 14.22s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 294 ~ 177  mel-sim=0.9112  xcorr=0.964  [waveform-xcorr]  (17.39s vs 17.46s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 295 ~ 28  mel-sim=0.7522  xcorr=0.916  [waveform-xcorr]  (8.01s vs 7.95s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 297 ~ 73  mel-sim=1.0000  [mel-fingerprint]  (15.87s vs 15.87s)
+2026-09-18 21:07:44,895 | INFO    |   DUPLICATE 298 ~ 73  mel-sim=1.0000  [mel-fingerprint]  (15.87s vs 15.87s)
+2026-09-18 21:07:44,909 | INFO    |   DUPLICATE 299 ~ 12  mel-sim=1.0000  [mel-fingerprint]  (20.67s vs 20.67s)
+2026-09-18 21:07:44,909 | INFO    |   DUPLICATE 300 ~ 68  mel-sim=0.9999  [mel-fingerprint]  (17.89s vs 17.89s)
+2026-09-18 21:07:44,909 | INFO    |   DUPLICATE 301 ~ 159  mel-sim=0.7918  xcorr=0.997  [waveform-xcorr]  (14.79s vs 14.68s)
+2026-09-18 21:07:44,909 | INFO    |   DUPLICATE 302 ~ 75  mel-sim=0.6709  xcorr=0.968  [waveform-xcorr]  (25.74s vs 25.9s)
+2026-09-18 21:07:44,909 | INFO    |   DUPLICATE 303 ~ 133  mel-sim=1.0000  [mel-fingerprint]  (16.53s vs 16.53s)
+2026-09-18 21:07:44,909 | INFO    |   DUPLICATE 308 ~ 30  mel-sim=0.4508  xcorr=0.991  [waveform-xcorr]  (17.26s vs 17.01s)
+2026-09-18 21:07:44,913 | INFO    |   DUPLICATE 311 ~ 74  mel-sim=0.9755  [mel-fingerprint]  (12.6s vs 12.64s)
+2026-09-18 21:07:44,913 | INFO    |   DUPLICATE 314 ~ 121  mel-sim=0.9644  [mel-fingerprint]  (11.23s vs 11.17s)
+2026-09-18 21:07:44,916 | INFO    |   DUPLICATE 316 ~ 57  mel-sim=0.1096  xcorr=1.031  [waveform-xcorr]  (14.3s vs 12.36s)
+2026-09-18 21:07:44,916 | INFO    |   DUPLICATE 320 ~ 166  mel-sim=1.0000  [mel-fingerprint]  (8.42s vs 8.42s)
+2026-09-18 21:07:44,916 | INFO    |   DUPLICATE 323 ~ 147  mel-sim=1.0000  [mel-fingerprint]  (10.89s vs 10.89s)
+2026-09-18 21:07:44,916 | INFO    |   waveform xcorr over 10109 pairs in 47s: non-duplicates max=0.309, duplicates min=0.897 (threshold 0.5)
+2026-09-18 21:07:44,930 | INFO    | Deduplication: 107 duplicate(s) removed (61 by fingerprint, 46 confirmed by waveform xcorr), 211 unique clips remain
+2026-09-18 21:07:45,111 | INFO    |   train: 169 clips,  67.1 min -> G:\akhtar_khan\data\splits\train.csv
+2026-09-18 21:07:45,128 | INFO    |   valid:  21 clips,   8.1 min -> G:\akhtar_khan\data\splits\valid.csv
+2026-09-18 21:07:45,144 | INFO    |   test :  21 clips,   8.1 min -> G:\akhtar_khan\data\splits\test.csv
+2026-09-18 21:07:45,148 | INFO    | Dataset report -> G:\akhtar_khan\data\splits\dataset_report.json
+2026-09-18 21:07:45,148 | INFO    | Done.

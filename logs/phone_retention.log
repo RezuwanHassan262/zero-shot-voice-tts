@@ -1,0 +1,338 @@
+2026-09-21 04:00:05,651 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.80 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 04:00:05,651 | INFO    | phone retention | prompt=fixed | reference=baseline | marker_per=0.34 | 3 conditions | 3 utterances
+2026-09-21 04:00:15,157 | INFO    | markers: 51 of 68 aligned words (75.0 %) across 3 utterances
+2026-09-21 04:00:15,160 | INFO    |   baseline                           retained   0.0 % [  0.0,   0.0]  margin -1.000 [-1.000, -1.000]  n=51
+2026-09-21 04:00:15,513 | INFO    |   finetuned                          retained  19.6 % [  0.0,  33.3]  margin -0.235 [-0.767, -0.012]  n=51
+2026-09-21 04:00:15,873 | INFO    |   alpha_1.20                         retained  37.3 % [  0.0,  42.5]  margin +0.011 [-0.687, +0.096]  n=51
+2026-09-21 04:00:16,070 | INFO    | -> /tmp/pr_smoke.json  (12s)
+2026-09-21 04:01:33,804 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.79 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 04:01:33,807 | INFO    | phone retention | prompt=fixed | reference=baseline | marker_per=0.7 | 28 conditions | 21 utterances
+2026-09-21 04:01:49,512 | INFO    | markers: 260 of 778 aligned words (33.4 %) across 21 utterances
+2026-09-21 04:01:53,755 | INFO    |   alpha_0.20                         retained   1.2 % [  0.0,   2.4]  margin -0.723 [-0.758, -0.694]  n=256
+2026-09-21 04:01:58,000 | INFO    |   alpha_0.40                         retained   1.2 % [  0.0,   2.6]  margin -0.705 [-0.743, -0.666]  n=255
+2026-09-21 04:02:02,261 | INFO    |   alpha_0.60                         retained   5.4 % [  2.3,   9.1]  margin -0.604 [-0.657, -0.540]  n=258
+2026-09-21 04:02:06,533 | INFO    |   alpha_0.80                         retained  10.2 % [  5.4,  16.7]  margin -0.509 [-0.601, -0.406]  n=255
+2026-09-21 04:02:10,443 | INFO    |   alpha_1.20                         retained  29.3 % [ 17.1,  40.8]  margin -0.177 [-0.329, -0.028]  n=249
+2026-09-21 04:02:14,726 | INFO    |   alpha_1.50                         retained  48.9 % [ 32.8,  63.0]  margin +0.059 [-0.108, +0.199]  n=233
+2026-09-21 04:02:14,733 | INFO    |   baseline                           retained   0.0 % [  0.0,   0.0]  margin -1.000 [-1.000, -1.000]  n=260
+2026-09-21 04:02:18,532 | INFO    |   finetuned                          retained  15.9 % [  8.9,  24.6]  margin -0.379 [-0.469, -0.279]  n=251
+2026-09-21 04:02:22,705 | INFO    |   finetuned_cfg1.3_nfe32_sway-1      retained  20.7 % [ 12.3,  28.9]  margin -0.267 [-0.372, -0.163]  n=246
+2026-09-21 04:02:26,881 | INFO    |   finetuned_cfg1.3_nfe32_sway0       retained  32.6 % [ 21.6,  43.3]  margin -0.103 [-0.219, +0.013]  n=242
+2026-09-21 04:02:31,080 | INFO    |   finetuned_cfg1.3_nfe64_sway-1      retained  20.6 % [ 12.9,  28.8]  margin -0.263 [-0.362, -0.142]  n=247
+2026-09-21 04:02:35,278 | INFO    |   finetuned_cfg1.3_nfe64_sway0       retained  28.6 % [ 17.3,  41.0]  margin -0.193 [-0.305, -0.066]  n=245
+2026-09-21 04:02:39,486 | INFO    |   finetuned_cfg1.6_nfe32_sway-1      retained  19.8 % [  9.0,  30.7]  margin -0.300 [-0.430, -0.163]  n=248
+2026-09-21 04:02:43,693 | INFO    |   finetuned_cfg1.6_nfe32_sway0       retained  32.8 % [ 17.7,  47.1]  margin -0.102 [-0.240, +0.029]  n=235
+2026-09-21 04:02:47,902 | INFO    |   finetuned_cfg1.6_nfe64_sway-1      retained  22.3 % [ 12.8,  31.4]  margin -0.296 [-0.437, -0.152]  n=251
+2026-09-21 04:02:52,104 | INFO    |   finetuned_cfg1.6_nfe64_sway0       retained  16.7 % [  8.3,  25.4]  margin -0.332 [-0.449, -0.211]  n=245
+2026-09-21 04:02:56,310 | INFO    |   finetuned_cfg1_nfe32_sway-1        retained  27.5 % [ 14.6,  42.8]  margin -0.210 [-0.362, -0.048]  n=247
+2026-09-21 04:03:00,538 | INFO    |   finetuned_cfg1_nfe32_sway0         retained  30.2 % [ 21.8,  38.8]  margin -0.126 [-0.212, -0.034]  n=232
+2026-09-21 04:03:04,733 | INFO    |   finetuned_cfg1_nfe64_sway-1        retained  26.5 % [ 15.5,  37.6]  margin -0.214 [-0.318, -0.110]  n=249
+2026-09-21 04:03:08,939 | INFO    |   finetuned_cfg1_nfe64_sway0         retained  28.6 % [ 19.3,  39.1]  margin -0.187 [-0.311, -0.048]  n=248
+2026-09-21 04:03:13,144 | INFO    |   finetuned_cfg2.5_nfe32_sway-1      retained  13.1 % [  6.8,  21.2]  margin -0.373 [-0.461, -0.276]  n=252
+2026-09-21 04:03:17,360 | INFO    |   finetuned_cfg2.5_nfe32_sway0       retained  38.1 % [ 21.7,  54.4]  margin -0.063 [-0.205, +0.065]  n=218
+2026-09-21 04:03:21,574 | INFO    |   finetuned_cfg2.5_nfe64_sway-1      retained  13.7 % [  7.4,  21.3]  margin -0.418 [-0.512, -0.313]  n=255
+2026-09-21 04:03:25,791 | INFO    |   finetuned_cfg2.5_nfe64_sway0       retained  18.1 % [ 10.6,  26.1]  margin -0.347 [-0.434, -0.250]  n=248
+2026-09-21 04:03:30,010 | INFO    |   finetuned_cfg2_nfe32_sway0         retained  36.1 % [ 22.5,  50.0]  margin -0.097 [-0.243, +0.047]  n=230
+2026-09-21 04:03:34,232 | INFO    |   finetuned_cfg2_nfe64_sway-1        retained  16.0 % [  8.0,  24.8]  margin -0.372 [-0.487, -0.251]  n=250
+2026-09-21 04:03:38,467 | INFO    |   finetuned_cfg2_nfe64_sway0         retained  20.3 % [ 12.6,  29.3]  margin -0.284 [-0.395, -0.167]  n=251
+2026-09-21 04:03:42,694 | INFO    |   copysynth                          retained  90.2 % [ 83.0,  95.1]  margin +0.603 [+0.506, +0.667]  n=255
+2026-09-21 04:03:43,078 | INFO    | -> /home/farig/Rezuwan_TTS/checkpoints/phone_retention.json  (130s)
+2026-09-21 04:11:25,438 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 04:11:25,440 | INFO    | phone retention | prompt=fixed | reference=baseline | marker_per=0.7 | 7 conditions | 21 utterances
+2026-09-21 04:11:33,604 | INFO    | markers: 260 of 778 aligned words (33.4 %) across 21 utterances
+2026-09-21 04:11:33,612 | INFO    |   baseline                           retained   0.0 % [  0.0,   0.0]  margin -1.000 [-1.000, -1.000]  n=260
+2026-09-21 04:11:33,619 | INFO    |   finetuned                          retained  15.9 % [  8.9,  24.6]  margin -0.379 [-0.469, -0.279]  n=251
+2026-09-21 04:11:38,163 | INFO    |   finetuned_seed1                    retained  14.3 % [  7.5,  22.3]  margin -0.387 [-0.489, -0.268]  n=252
+2026-09-21 04:11:42,356 | INFO    |   finetuned_seed2                    retained  19.6 % [ 12.0,  28.6]  margin -0.329 [-0.437, -0.200]  n=245
+2026-09-21 04:11:42,363 | INFO    |   alpha_1.20                         retained  29.3 % [ 17.1,  40.8]  margin -0.177 [-0.329, -0.028]  n=249
+2026-09-21 04:11:46,569 | INFO    |   alpha_1.20_seed1                   retained  20.6 % [ 12.5,  31.6]  margin -0.281 [-0.399, -0.136]  n=252
+2026-09-21 04:11:50,781 | INFO    |   alpha_1.20_seed2                   retained  25.0 % [ 16.0,  34.4]  margin -0.247 [-0.374, -0.111]  n=248
+2026-09-21 04:11:51,060 | INFO    | -> checkpoints/phone_retention_seeds.json  (27s)
+2026-09-21 07:54:26,761 | INFO    | phone retention | prompt=fixed | reference=baseline | marker_per=0.7 | 5 conditions | 21 utterances
+2026-09-21 07:54:35,569 | INFO    | markers: 260 of 778 aligned words (33.4 %) across 21 utterances
+2026-09-21 07:54:35,576 | INFO    |   baseline                           retained   0.0 % [  0.0,   0.0]  margin -1.000 [-1.000, -1.000]  n=260
+2026-09-21 07:55:57,428 | INFO    |   finetuned_run5_ep81                retained  19.8 % [  9.8,  29.8]  margin -0.322 [-0.452, -0.187]  n=247
+2026-09-21 07:57:23,801 | INFO    |   finetuned_run5_ep81_seed1          retained  12.1 % [  6.1,  19.5]  margin -0.418 [-0.521, -0.299]  n=247
+2026-09-21 07:58:46,907 | INFO    |   finetuned_run5_ep81_seed2          retained  12.1 % [  5.5,  19.4]  margin -0.425 [-0.518, -0.325]  n=248
+2026-09-21 07:58:46,915 | INFO    |   copysynth                          retained  90.2 % [ 83.0,  95.1]  margin +0.603 [+0.506, +0.667]  n=255
+2026-09-21 07:58:47,180 | INFO    | -> checkpoints/phone_retention_run5_fixed.json  (260s)
+2026-09-21 07:58:48,117 | INFO    | phone retention | prompt=cross | reference=baseline | marker_per=0.7 | 5 conditions | 21 utterances
+2026-09-21 08:00:20,331 | INFO    | markers: 218 of 778 aligned words (28.0 %) across 21 utterances (dedup: 277 tokens -> 218 word-type markers)
+2026-09-21 08:00:20,345 | INFO    |   baseline                           SPD 0.872 [0.862, 0.882]  retained   0.0 % [  0.0,   0.0]  n=218
+2026-09-21 08:01:41,824 | INFO    |   finetuned_run5_ep81                SPD 0.743 [0.691, 0.793]  retained  27.9 % [ 16.9,  39.6]  n=201
+2026-09-21 08:03:04,152 | INFO    |   finetuned_run5_ep81_seed1          SPD 0.732 [0.668, 0.788]  retained  22.8 % [ 12.7,  35.0]  n=202
+2026-09-21 08:04:29,177 | INFO    |   finetuned_run5_ep81_seed2          SPD 0.747 [0.690, 0.804]  retained  20.3 % [  8.6,  33.6]  n=197
+2026-09-21 08:04:29,189 | INFO    |   copysynth                          SPD 0.258 [0.218, 0.315]  retained  89.7 % [ 81.7,  95.4]  n=214
+2026-09-21 08:04:29,477 | INFO    | -> checkpoints/phone_retention_run5_cross.json  (341s)
+2026-09-21 08:53:03,866 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 08:53:03,867 | INFO    | phone retention | prompt=fixed | reference=baseline | marker_per=0.7 | 7 conditions | 21 utterances
+2026-09-21 08:53:15,482 | INFO    | markers: 209 of 778 aligned words (26.9 %) across 21 utterances (dedup: 260 tokens -> 209 word-type markers)
+2026-09-21 08:53:15,498 | INFO    |   baseline                           SPD 0.862 [0.848, 0.875]  retained   0.0 % [  0.0,   0.0]  n=209
+2026-09-21 08:53:15,523 | INFO    |   finetuned_run5_ep81                SPD 0.727 [0.666, 0.790]  retained  20.5 % [ 10.4,  30.3]  n=200
+2026-09-21 08:53:15,538 | INFO    |   finetuned_run5_ep81_seed1          SPD 0.763 [0.711, 0.807]  retained  10.1 % [  4.9,  16.0]  n=198
+2026-09-21 08:53:15,551 | INFO    |   finetuned_run5_ep81_seed2          SPD 0.767 [0.733, 0.802]  retained  12.0 % [  5.4,  19.3]  n=200
+2026-09-21 08:53:21,039 | INFO    |   finetuned_run6                     SPD 0.748 [0.715, 0.782]  retained  14.4 % [  9.9,  20.0]  n=201
+2026-09-21 08:53:25,953 | INFO    |   finetuned_run6_seed1               SPD 0.733 [0.699, 0.768]  retained  14.8 % [  9.1,  19.8]  n=203
+2026-09-21 08:53:30,798 | INFO    |   finetuned_run6_seed2               SPD 0.750 [0.701, 0.789]  retained  14.6 % [  9.0,  21.4]  n=205
+2026-09-21 08:53:31,284 | INFO    | -> checkpoints/phone_retention_r5r6_fixed.json  (29s)
+2026-09-21 08:53:34,848 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 08:53:34,850 | INFO    | phone retention | prompt=cross | reference=baseline | marker_per=0.7 | 7 conditions | 21 utterances
+2026-09-21 08:53:46,570 | INFO    | markers: 218 of 778 aligned words (28.0 %) across 21 utterances (dedup: 277 tokens -> 218 word-type markers)
+2026-09-21 08:53:46,595 | INFO    |   baseline                           SPD 0.872 [0.862, 0.882]  retained   0.0 % [  0.0,   0.0]  n=218
+2026-09-21 08:53:46,618 | INFO    |   finetuned_run5_ep81                SPD 0.743 [0.691, 0.793]  retained  27.9 % [ 16.9,  39.6]  n=201
+2026-09-21 08:53:46,638 | INFO    |   finetuned_run5_ep81_seed1          SPD 0.732 [0.668, 0.788]  retained  22.8 % [ 12.7,  35.0]  n=202
+2026-09-21 08:53:46,711 | INFO    |   finetuned_run5_ep81_seed2          SPD 0.747 [0.690, 0.804]  retained  20.3 % [  8.6,  33.6]  n=197
+2026-09-21 08:53:52,394 | INFO    |   finetuned_run6                     SPD 0.729 [0.668, 0.788]  retained  24.7 % [ 13.7,  37.3]  n=190
+2026-09-21 08:53:57,510 | INFO    |   finetuned_run6_seed1               SPD 0.731 [0.658, 0.802]  retained  25.4 % [ 10.5,  42.0]  n=201
+2026-09-21 08:54:02,286 | INFO    |   finetuned_run6_seed2               SPD 0.726 [0.667, 0.788]  retained  24.2 % [ 10.2,  38.6]  n=198
+2026-09-21 08:54:02,852 | INFO    | -> checkpoints/phone_retention_r5r6_cross.json  (30s)
+2026-09-21 09:01:48,957 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 09:01:48,959 | INFO    | phone retention | prompt=fixed | reference=baseline | marker_per=0.7 | 7 conditions | 21 utterances
+2026-09-21 09:01:57,000 | INFO    | lexicon: 174 markers now use the dataset-modal realisation as speaker reference; 62 one-off tokens dropped
+2026-09-21 09:01:57,000 | INFO    | markers: 159 of 778 aligned words (20.4 %) across 20 utterances (dedup: 260 tokens -> 159 word-type markers)
+2026-09-21 09:01:57,008 | INFO    |   baseline                           SPD 0.797 [0.782, 0.811]  retained   0.0 % [  0.0,   0.0]  n=159
+2026-09-21 09:01:57,016 | INFO    |   finetuned_run5_ep81                SPD 0.653 [0.582, 0.726]  retained  24.2 % [ 11.2,  36.9]  n=153
+2026-09-21 09:01:57,024 | INFO    |   finetuned_run5_ep81_seed1          SPD 0.695 [0.646, 0.739]  retained  15.2 % [  9.0,  22.0]  n=151
+2026-09-21 09:01:57,032 | INFO    |   finetuned_run5_ep81_seed2          SPD 0.689 [0.650, 0.726]  retained  16.9 % [  8.6,  25.9]  n=154
+2026-09-21 09:02:01,453 | INFO    |   finetuned_run6                     SPD 0.668 [0.628, 0.712]  retained  19.2 % [ 13.7,  24.5]  n=156
+2026-09-21 09:02:05,569 | INFO    |   finetuned_run6_seed1               SPD 0.646 [0.596, 0.695]  retained  23.7 % [ 14.5,  32.7]  n=152
+2026-09-21 09:02:09,676 | INFO    |   finetuned_run6_seed2               SPD 0.651 [0.596, 0.693]  retained  21.8 % [ 14.2,  30.9]  n=156
+2026-09-21 09:02:09,987 | INFO    | -> checkpoints/phone_retention_r5r6_lex_fixed.json  (22s)
+2026-09-21 09:02:11,930 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 09:02:11,931 | INFO    | phone retention | prompt=cross | reference=baseline | marker_per=0.7 | 7 conditions | 21 utterances
+2026-09-21 09:02:20,050 | INFO    | lexicon: 192 markers now use the dataset-modal realisation as speaker reference; 56 one-off tokens dropped
+2026-09-21 09:02:20,050 | INFO    | markers: 172 of 778 aligned words (22.1 %) across 21 utterances (dedup: 277 tokens -> 172 word-type markers)
+2026-09-21 09:02:20,059 | INFO    |   baseline                           SPD 0.802 [0.782, 0.826]  retained   0.0 % [  0.0,   0.0]  n=172
+2026-09-21 09:02:20,067 | INFO    |   finetuned_run5_ep81                SPD 0.668 [0.606, 0.726]  retained  32.7 % [ 18.1,  47.4]  n=156
+2026-09-21 09:02:20,076 | INFO    |   finetuned_run5_ep81_seed1          SPD 0.649 [0.592, 0.702]  retained  31.4 % [ 17.9,  46.8]  n=159
+2026-09-21 09:02:20,084 | INFO    |   finetuned_run5_ep81_seed2          SPD 0.665 [0.606, 0.731]  retained  28.8 % [ 13.2,  44.7]  n=153
+2026-09-21 09:02:24,598 | INFO    |   finetuned_run6                     SPD 0.653 [0.591, 0.714]  retained  30.0 % [ 16.1,  45.0]  n=150
+2026-09-21 09:02:28,793 | INFO    |   finetuned_run6_seed1               SPD 0.641 [0.560, 0.722]  retained  34.0 % [ 16.9,  51.9]  n=159
+2026-09-21 09:02:33,013 | INFO    |   finetuned_run6_seed2               SPD 0.644 [0.587, 0.707]  retained  35.5 % [ 18.4,  51.8]  n=155
+2026-09-21 09:02:33,333 | INFO    | -> checkpoints/phone_retention_r5r6_lex_cross.json  (22s)
+2026-09-21 09:21:45,910 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.99 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 09:21:45,911 | INFO    | phone retention | prompt=fixed | reference=baseline | marker_per=0.7 | 2 conditions | 3 utterances
+2026-09-21 09:21:53,926 | INFO    | markers: 15 of 68 aligned words (22.1 %) across 3 utterances (dedup: 21 tokens -> 15 word-type markers)
+2026-09-21 09:21:53,929 | INFO    |   baseline                           SPD 0.850 [0.844, 0.875]  retained   0.0 % [  0.0,   0.0]  n=15
+2026-09-21 09:21:54,491 | INFO    |   finetuned_run6                     SPD 0.681 [0.610, 0.917]  retained  20.0 % [  0.0,  27.3]  n=15
+2026-09-21 09:21:54,773 | INFO    | -> /tmp/pool_smoke.json  (10s)
+2026-09-21 09:22:04,960 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.99 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 09:22:04,961 | INFO    | phone retention | prompt=fixed | reference=baseline | marker_per=0.7 | 2 conditions | 21 utterances
+2026-09-21 09:22:12,949 | INFO    | markers: 209 of 778 aligned words (26.9 %) across 21 utterances (dedup: 260 tokens -> 209 word-type markers)
+2026-09-21 09:22:12,959 | INFO    |   baseline                           SPD 0.862 [0.848, 0.875]  retained   0.0 % [  0.0,   0.0]  n=209
+2026-09-21 09:22:12,976 | INFO    |   finetuned_run6                     SPD 0.745 [0.715, 0.774]  retained  11.5 % [  7.3,  16.8]  n=208
+2026-09-21 09:22:13,238 | INFO    | -> /tmp/pool_full.json  (9s)
+2026-09-21 10:11:46,180 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.95 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 10:11:46,181 | INFO    | phone retention | prompt=fixed | reference=baseline | marker_per=0.7 | 9 conditions | 21 utterances
+2026-09-21 10:11:54,264 | INFO    | markers: 209 of 778 aligned words (26.9 %) across 21 utterances (dedup: 260 tokens -> 209 word-type markers)
+2026-09-21 10:11:54,274 | INFO    |   baseline                           SPD 0.862 [0.848, 0.875]  retained   0.0 % [  0.0,   0.0]  n=209
+2026-09-21 10:12:07,165 | INFO    |   alpha_0.20                         SPD 0.824 [0.808, 0.842]  retained   1.9 % [  0.0,   4.1]  n=209
+2026-09-21 10:12:19,980 | INFO    |   alpha_0.40                         SPD 0.819 [0.800, 0.839]  retained   2.4 % [  0.0,   5.5]  n=209
+2026-09-21 10:12:32,664 | INFO    |   alpha_0.60                         SPD 0.813 [0.794, 0.834]  retained   2.4 % [  0.8,   4.2]  n=209
+2026-09-21 10:12:45,354 | INFO    |   alpha_0.80                         SPD 0.783 [0.749, 0.812]  retained   8.2 % [  4.8,  12.4]  n=207
+2026-09-21 10:12:45,372 | INFO    |   finetuned_run6                     SPD 0.745 [0.715, 0.774]  retained  11.5 % [  7.3,  16.8]  n=208
+2026-09-21 10:12:58,103 | INFO    |   alpha_1.20                         SPD 0.688 [0.629, 0.748]  retained  29.0 % [ 18.5,  39.4]  n=207
+2026-09-21 10:13:10,850 | INFO    |   alpha_1.50                         SPD 0.608 [0.552, 0.672]  retained  51.5 % [ 39.4,  62.8]  n=206
+2026-09-21 10:13:10,861 | INFO    |   copysynth                          SPD 0.253 [0.210, 0.316]  retained  90.3 % [ 83.3,  95.5]  n=206
+2026-09-21 10:13:11,223 | INFO    | -> checkpoints/phone_retention_alphasweep_fixed.json  (86s)
+2026-09-21 10:13:13,117 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 10:13:13,119 | INFO    | phone retention | prompt=cross | reference=baseline | marker_per=0.7 | 9 conditions | 21 utterances
+2026-09-21 10:13:21,073 | INFO    | markers: 218 of 778 aligned words (28.0 %) across 21 utterances (dedup: 277 tokens -> 218 word-type markers)
+2026-09-21 10:13:21,084 | INFO    |   baseline                           SPD 0.872 [0.862, 0.882]  retained   0.0 % [  0.0,   0.0]  n=218
+2026-09-21 10:13:34,072 | INFO    |   alpha_0.20                         SPD 0.826 [0.805, 0.847]  retained   6.0 % [  1.0,  13.0]  n=217
+2026-09-21 10:13:46,966 | INFO    |   alpha_0.40                         SPD 0.828 [0.807, 0.847]  retained   7.4 % [  2.3,  13.9]  n=217
+2026-09-21 10:13:59,746 | INFO    |   alpha_0.60                         SPD 0.816 [0.797, 0.833]  retained   6.1 % [  2.3,  11.1]  n=212
+2026-09-21 10:14:12,524 | INFO    |   alpha_0.80                         SPD 0.765 [0.731, 0.800]  retained  16.4 % [  8.2,  25.3]  n=214
+2026-09-21 10:14:12,541 | INFO    |   finetuned_run6                     SPD 0.731 [0.671, 0.790]  retained  24.6 % [ 10.7,  40.9]  n=211
+2026-09-21 10:14:25,318 | INFO    |   alpha_1.20                         SPD 0.702 [0.641, 0.762]  retained  38.4 % [ 23.3,  53.7]  n=211
+2026-09-21 10:14:38,089 | INFO    |   alpha_1.50                         SPD 0.665 [0.607, 0.722]  retained  50.2 % [ 37.3,  62.1]  n=209
+2026-09-21 10:14:38,100 | INFO    |   copysynth                          SPD 0.258 [0.218, 0.315]  retained  89.7 % [ 81.7,  95.4]  n=214
+2026-09-21 10:14:38,494 | INFO    | -> checkpoints/phone_retention_alphasweep_cross.json  (86s)
+2026-09-21 22:36:52,714 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.01 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 22:36:52,715 | INFO    | phone retention | prompt=fixed | reference=baseline | marker_per=0.7 | 61 conditions | 21 utterances
+2026-09-21 22:37:00,684 | INFO    | markers: 209 of 778 aligned words (26.9 %) across 21 utterances (dedup: 260 tokens -> 209 word-type markers)
+2026-09-21 22:37:00,695 | INFO    |   baseline                           SPD 0.862 [0.848, 0.875]  retained   0.0 % [  0.0,   0.0]  n=209
+2026-09-21 22:37:13,840 | INFO    |   a0.40_cfg1.0_nfe32_sway-1.0        SPD 0.816 [0.799, 0.833]  retained   2.4 % [  0.5,   4.8]  n=209
+2026-09-21 22:37:26,645 | INFO    |   a0.40_cfg1.0_nfe32_sway+0.0        SPD 0.833 [0.817, 0.852]  retained   4.3 % [  1.5,   8.0]  n=208
+2026-09-21 22:37:39,561 | INFO    |   a0.40_cfg1.0_nfe64_sway-1.0        SPD 0.813 [0.796, 0.831]  retained   2.4 % [  0.7,   4.4]  n=209
+2026-09-21 22:37:52,472 | INFO    |   a0.40_cfg1.0_nfe64_sway+0.0        SPD 0.826 [0.811, 0.842]  retained   1.9 % [  0.0,   4.2]  n=209
+2026-09-21 22:38:05,456 | INFO    |   a0.40_cfg1.3_nfe32_sway-1.0        SPD 0.817 [0.799, 0.837]  retained   1.4 % [  0.0,   3.0]  n=209
+2026-09-21 22:38:18,377 | INFO    |   a0.40_cfg1.3_nfe32_sway+0.0        SPD 0.826 [0.811, 0.843]  retained   5.3 % [  2.7,   8.5]  n=209
+2026-09-21 22:38:31,458 | INFO    |   a0.40_cfg1.3_nfe64_sway-1.0        SPD 0.821 [0.806, 0.837]  retained   1.0 % [  0.0,   2.3]  n=209
+2026-09-21 22:38:44,419 | INFO    |   a0.40_cfg1.3_nfe64_sway+0.0        SPD 0.825 [0.806, 0.845]  retained   1.9 % [  0.5,   3.6]  n=209
+2026-09-21 22:38:57,409 | INFO    |   a0.40_cfg1.6_nfe32_sway-1.0        SPD 0.818 [0.801, 0.837]  retained   1.9 % [  0.5,   3.3]  n=209
+2026-09-21 22:39:10,417 | INFO    |   a0.40_cfg1.6_nfe32_sway+0.0        SPD 0.833 [0.819, 0.848]  retained   3.9 % [  1.1,   7.6]  n=207
+2026-09-21 22:39:23,487 | INFO    |   a0.40_cfg1.6_nfe64_sway-1.0        SPD 0.820 [0.803, 0.837]  retained   1.4 % [  0.0,   3.0]  n=209
+2026-09-21 22:39:36,559 | INFO    |   a0.40_cfg1.6_nfe64_sway+0.0        SPD 0.822 [0.804, 0.841]  retained   1.9 % [  0.5,   3.6]  n=209
+2026-09-21 22:39:49,631 | INFO    |   a0.40_cfg2.0_nfe32_sway-1.0        SPD 0.821 [0.806, 0.838]  retained   1.9 % [  0.5,   3.3]  n=209
+2026-09-21 22:40:02,880 | INFO    |   a0.40_cfg2.0_nfe32_sway+0.0        SPD 0.840 [0.828, 0.852]  retained   7.2 % [  3.6,  12.1]  n=208
+2026-09-21 22:40:15,984 | INFO    |   a0.40_cfg2.0_nfe64_sway-1.0        SPD 0.823 [0.806, 0.842]  retained   1.9 % [  0.5,   3.7]  n=209
+2026-09-21 22:40:29,094 | INFO    |   a0.40_cfg2.0_nfe64_sway+0.0        SPD 0.823 [0.807, 0.841]  retained   1.4 % [  0.0,   3.0]  n=209
+2026-09-21 22:40:42,217 | INFO    |   a0.40_cfg2.5_nfe32_sway-1.0        SPD 0.816 [0.798, 0.835]  retained   1.9 % [  0.5,   3.6]  n=209
+2026-09-21 22:40:55,331 | INFO    |   a0.40_cfg2.5_nfe32_sway+0.0        SPD 0.838 [0.810, 0.864]  retained   7.3 % [  3.3,  12.4]  n=205
+2026-09-21 22:41:08,463 | INFO    |   a0.40_cfg2.5_nfe64_sway-1.0        SPD 0.818 [0.799, 0.837]  retained   1.4 % [  0.0,   3.0]  n=208
+2026-09-21 22:41:21,767 | INFO    |   a0.40_cfg2.5_nfe64_sway+0.0        SPD 0.823 [0.804, 0.841]  retained   3.3 % [  0.9,   5.9]  n=209
+2026-09-21 22:41:34,930 | INFO    |   a1.00_cfg1.0_nfe32_sway-1.0        SPD 0.730 [0.685, 0.776]  retained  16.8 % [  9.8,  24.9]  n=208
+2026-09-21 22:41:48,292 | INFO    |   a1.00_cfg1.0_nfe32_sway+0.0        SPD 0.710 [0.661, 0.762]  retained  38.8 % [ 25.8,  51.8]  n=206
+2026-09-21 22:42:01,492 | INFO    |   a1.00_cfg1.0_nfe64_sway-1.0        SPD 0.710 [0.665, 0.756]  retained  20.7 % [ 13.3,  28.7]  n=208
+2026-09-21 22:42:14,685 | INFO    |   a1.00_cfg1.0_nfe64_sway+0.0        SPD 0.707 [0.662, 0.755]  retained  26.2 % [ 17.9,  34.3]  n=206
+2026-09-21 22:42:27,846 | INFO    |   a1.00_cfg1.3_nfe32_sway-1.0        SPD 0.736 [0.698, 0.771]  retained  15.3 % [ 10.2,  21.4]  n=209
+2026-09-21 22:42:41,054 | INFO    |   a1.00_cfg1.3_nfe32_sway+0.0        SPD 0.705 [0.647, 0.767]  retained  32.5 % [ 19.4,  44.8]  n=206
+2026-09-21 22:42:54,430 | INFO    |   a1.00_cfg1.3_nfe64_sway-1.0        SPD 0.711 [0.667, 0.758]  retained  22.6 % [ 15.4,  29.7]  n=208
+2026-09-21 22:43:07,666 | INFO    |   a1.00_cfg1.3_nfe64_sway+0.0        SPD 0.698 [0.649, 0.746]  retained  23.4 % [ 14.6,  32.6]  n=209
+2026-09-21 22:43:20,913 | INFO    |   a1.00_cfg1.6_nfe32_sway-1.0        SPD 0.734 [0.698, 0.772]  retained  17.2 % [ 11.1,  23.9]  n=209
+2026-09-21 22:43:34,094 | INFO    |   a1.00_cfg1.6_nfe32_sway+0.0        SPD 0.704 [0.645, 0.761]  retained  32.0 % [ 18.3,  46.8]  n=206
+2026-09-21 22:43:47,309 | INFO    |   a1.00_cfg1.6_nfe64_sway-1.0        SPD 0.724 [0.681, 0.768]  retained  12.9 % [  7.3,  18.3]  n=209
+2026-09-21 22:44:00,540 | INFO    |   a1.00_cfg1.6_nfe64_sway+0.0        SPD 0.731 [0.690, 0.774]  retained  17.4 % [  9.4,  26.2]  n=207
+2026-09-21 22:44:13,842 | INFO    |   a1.00_cfg2.0_nfe32_sway-1.0        SPD 0.734 [0.688, 0.778]  retained  12.9 % [  8.2,  18.0]  n=209
+2026-09-21 22:44:27,360 | INFO    |   a1.00_cfg2.0_nfe32_sway+0.0        SPD 0.694 [0.635, 0.757]  retained  33.2 % [ 21.8,  43.5]  n=205
+2026-09-21 22:44:40,660 | INFO    |   a1.00_cfg2.0_nfe64_sway-1.0        SPD 0.746 [0.706, 0.779]  retained  13.0 % [  7.8,  19.5]  n=208
+2026-09-21 22:44:53,941 | INFO    |   a1.00_cfg2.0_nfe64_sway+0.0        SPD 0.718 [0.676, 0.761]  retained  17.8 % [ 11.2,  25.6]  n=208
+2026-09-21 22:45:07,224 | INFO    |   a1.00_cfg2.5_nfe32_sway-1.0        SPD 0.749 [0.712, 0.786]  retained  12.0 % [  7.7,  16.8]  n=208
+2026-09-21 22:45:20,504 | INFO    |   a1.00_cfg2.5_nfe32_sway+0.0        SPD 0.725 [0.680, 0.777]  retained  28.6 % [ 18.8,  38.0]  n=203
+2026-09-21 22:45:33,786 | INFO    |   a1.00_cfg2.5_nfe64_sway-1.0        SPD 0.753 [0.714, 0.792]  retained  12.0 % [  6.9,  17.2]  n=209
+2026-09-21 22:45:47,361 | INFO    |   a1.00_cfg2.5_nfe64_sway+0.0        SPD 0.737 [0.690, 0.779]  retained  16.3 % [  9.9,  22.9]  n=208
+2026-09-21 22:46:00,705 | INFO    |   a1.20_cfg1.0_nfe32_sway-1.0        SPD 0.652 [0.591, 0.721]  retained  42.6 % [ 29.3,  55.5]  n=209
+2026-09-21 22:46:14,044 | INFO    |   a1.20_cfg1.0_nfe32_sway+0.0        SPD 0.658 [0.607, 0.716]  retained  47.3 % [ 35.5,  58.1]  n=201
+2026-09-21 22:46:27,408 | INFO    |   a1.20_cfg1.0_nfe64_sway-1.0        SPD 0.630 [0.580, 0.686]  retained  42.8 % [ 30.3,  54.4]  n=208
+2026-09-21 22:46:40,754 | INFO    |   a1.20_cfg1.0_nfe64_sway+0.0        SPD 0.645 [0.599, 0.697]  retained  45.2 % [ 34.7,  54.4]  n=208
+2026-09-21 22:46:54,121 | INFO    |   a1.20_cfg1.3_nfe32_sway-1.0        SPD 0.675 [0.627, 0.725]  retained  31.2 % [ 20.7,  41.5]  n=208
+2026-09-21 22:47:07,492 | INFO    |   a1.20_cfg1.3_nfe32_sway+0.0        SPD 0.678 [0.620, 0.738]  retained  41.3 % [ 28.1,  54.2]  n=206
+2026-09-21 22:47:21,148 | INFO    |   a1.20_cfg1.3_nfe64_sway-1.0        SPD 0.664 [0.610, 0.724]  retained  34.8 % [ 23.6,  45.7]  n=207
+2026-09-21 22:47:34,598 | INFO    |   a1.20_cfg1.3_nfe64_sway+0.0        SPD 0.663 [0.618, 0.712]  retained  39.1 % [ 29.4,  47.8]  n=207
+2026-09-21 22:47:47,993 | INFO    |   a1.20_cfg1.6_nfe32_sway-1.0        SPD 0.666 [0.614, 0.724]  retained  31.9 % [ 21.8,  41.2]  n=207
+2026-09-21 22:48:01,418 | INFO    |   a1.20_cfg1.6_nfe32_sway+0.0        SPD 0.656 [0.608, 0.710]  retained  46.3 % [ 33.3,  58.4]  n=201
+2026-09-21 22:48:14,967 | INFO    |   a1.20_cfg1.6_nfe64_sway-1.0        SPD 0.647 [0.594, 0.707]  retained  35.1 % [ 25.1,  44.2]  n=208
+2026-09-21 22:48:28,518 | INFO    |   a1.20_cfg1.6_nfe64_sway+0.0        SPD 0.698 [0.651, 0.746]  retained  24.8 % [ 16.1,  33.5]  n=206
+2026-09-21 22:48:42,060 | INFO    |   a1.20_cfg2.0_nfe32_sway-1.0        SPD 0.686 [0.626, 0.744]  retained  26.3 % [ 16.7,  36.7]  n=209
+2026-09-21 22:48:55,877 | INFO    |   a1.20_cfg2.0_nfe32_sway+0.0        SPD 0.688 [0.637, 0.745]  retained  42.5 % [ 32.9,  51.3]  n=207
+2026-09-21 22:49:09,407 | INFO    |   a1.20_cfg2.0_nfe64_sway-1.0        SPD 0.656 [0.599, 0.722]  retained  31.4 % [ 19.7,  42.4]  n=207
+2026-09-21 22:49:22,939 | INFO    |   a1.20_cfg2.0_nfe64_sway+0.0        SPD 0.674 [0.624, 0.727]  retained  28.6 % [ 18.1,  39.2]  n=206
+2026-09-21 22:49:36,456 | INFO    |   a1.20_cfg2.5_nfe32_sway-1.0        SPD 0.693 [0.640, 0.749]  retained  25.4 % [ 16.0,  34.1]  n=209
+2026-09-21 22:49:49,969 | INFO    |   a1.20_cfg2.5_nfe32_sway+0.0        SPD 0.695 [0.649, 0.744]  retained  39.1 % [ 27.5,  50.5]  n=207
+2026-09-21 22:50:03,742 | INFO    |   a1.20_cfg2.5_nfe64_sway-1.0        SPD 0.687 [0.628, 0.750]  retained  27.4 % [ 16.2,  38.5]  n=208
+2026-09-21 22:50:17,591 | INFO    |   a1.20_cfg2.5_nfe64_sway+0.0        SPD 0.664 [0.596, 0.738]  retained  34.5 % [ 19.6,  49.8]  n=206
+2026-09-21 22:50:18,636 | INFO    | -> checkpoints/phone_retention_grid_fixed.json  (807s)
+2026-09-21 22:50:20,629 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.02 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 22:50:20,631 | INFO    | phone retention | prompt=cross | reference=baseline | marker_per=0.7 | 61 conditions | 21 utterances
+2026-09-21 22:50:28,823 | INFO    | markers: 218 of 778 aligned words (28.0 %) across 21 utterances (dedup: 277 tokens -> 218 word-type markers)
+2026-09-21 22:50:28,836 | INFO    |   baseline                           SPD 0.872 [0.862, 0.882]  retained   0.0 % [  0.0,   0.0]  n=218
+2026-09-21 22:50:42,539 | INFO    |   a0.40_cfg1.0_nfe32_sway-1.0        SPD 0.830 [0.809, 0.849]  retained   7.1 % [  2.5,  13.3]  n=212
+2026-09-21 22:50:56,191 | INFO    |   a0.40_cfg1.0_nfe32_sway+0.0        SPD 0.817 [0.785, 0.844]  retained  12.7 % [  7.8,  19.8]  n=212
+2026-09-21 22:51:09,687 | INFO    |   a0.40_cfg1.0_nfe64_sway-1.0        SPD 0.823 [0.806, 0.840]  retained   6.1 % [  2.3,  10.6]  n=214
+2026-09-21 22:51:23,244 | INFO    |   a0.40_cfg1.0_nfe64_sway+0.0        SPD 0.824 [0.801, 0.845]  retained   6.5 % [  2.3,  11.7]  n=215
+2026-09-21 22:51:36,824 | INFO    |   a0.40_cfg1.3_nfe32_sway-1.0        SPD 0.827 [0.803, 0.848]  retained   6.0 % [  1.0,  13.2]  n=217
+2026-09-21 22:51:50,406 | INFO    |   a0.40_cfg1.3_nfe32_sway+0.0        SPD 0.822 [0.796, 0.845]  retained  13.3 % [  7.2,  21.4]  n=211
+2026-09-21 22:52:04,267 | INFO    |   a0.40_cfg1.3_nfe64_sway-1.0        SPD 0.828 [0.807, 0.846]  retained   7.8 % [  2.5,  14.6]  n=218
+2026-09-21 22:52:17,843 | INFO    |   a0.40_cfg1.3_nfe64_sway+0.0        SPD 0.830 [0.810, 0.850]  retained   5.6 % [  2.5,   9.3]  n=216
+2026-09-21 22:52:31,437 | INFO    |   a0.40_cfg1.6_nfe32_sway-1.0        SPD 0.825 [0.802, 0.848]  retained   7.8 % [  2.2,  15.8]  n=217
+2026-09-21 22:52:45,101 | INFO    |   a0.40_cfg1.6_nfe32_sway+0.0        SPD 0.822 [0.790, 0.848]  retained  12.3 % [  7.3,  18.5]  n=211
+2026-09-21 22:52:58,792 | INFO    |   a0.40_cfg1.6_nfe64_sway-1.0        SPD 0.825 [0.806, 0.843]  retained   6.4 % [  1.5,  13.4]  n=218
+2026-09-21 22:53:12,539 | INFO    |   a0.40_cfg1.6_nfe64_sway+0.0        SPD 0.832 [0.810, 0.854]  retained   6.0 % [  2.5,  10.1]  n=215
+2026-09-21 22:53:26,264 | INFO    |   a0.40_cfg2.0_nfe32_sway-1.0        SPD 0.831 [0.812, 0.848]  retained   6.5 % [  2.3,  11.2]  n=216
+2026-09-21 22:53:40,279 | INFO    |   a0.40_cfg2.0_nfe32_sway+0.0        SPD 0.829 [0.798, 0.856]  retained  14.4 % [  8.1,  22.3]  n=202
+2026-09-21 22:53:53,949 | INFO    |   a0.40_cfg2.0_nfe64_sway-1.0        SPD 0.815 [0.784, 0.841]  retained   8.3 % [  2.8,  16.2]  n=216
+2026-09-21 22:54:07,622 | INFO    |   a0.40_cfg2.0_nfe64_sway+0.0        SPD 0.826 [0.807, 0.844]  retained   6.6 % [  3.1,  11.0]  n=212
+2026-09-21 22:54:21,300 | INFO    |   a0.40_cfg2.5_nfe32_sway-1.0        SPD 0.819 [0.798, 0.838]  retained   6.1 % [  2.2,  11.0]  n=214
+2026-09-21 22:54:34,986 | INFO    |   a0.40_cfg2.5_nfe32_sway+0.0        SPD 0.834 [0.797, 0.862]  retained  15.0 % [  8.1,  25.3]  n=193
+2026-09-21 22:54:48,653 | INFO    |   a0.40_cfg2.5_nfe64_sway-1.0        SPD 0.824 [0.804, 0.840]  retained   6.9 % [  2.3,  13.2]  n=216
+2026-09-21 22:55:02,714 | INFO    |   a0.40_cfg2.5_nfe64_sway+0.0        SPD 0.822 [0.792, 0.849]  retained   8.5 % [  3.9,  14.5]  n=213
+2026-09-21 22:55:16,438 | INFO    |   a1.00_cfg1.0_nfe32_sway-1.0        SPD 0.734 [0.678, 0.786]  retained  36.8 % [ 19.4,  54.5]  n=212
+2026-09-21 22:55:30,151 | INFO    |   a1.00_cfg1.0_nfe32_sway+0.0        SPD 0.739 [0.690, 0.786]  retained  45.5 % [ 31.7,  58.9]  n=209
+2026-09-21 22:55:43,851 | INFO    |   a1.00_cfg1.0_nfe64_sway-1.0        SPD 0.744 [0.697, 0.789]  retained  36.2 % [ 21.3,  51.7]  n=213
+2026-09-21 22:55:57,572 | INFO    |   a1.00_cfg1.0_nfe64_sway+0.0        SPD 0.756 [0.703, 0.804]  retained  31.1 % [ 18.4,  44.6]  n=212
+2026-09-21 22:56:11,283 | INFO    |   a1.00_cfg1.3_nfe32_sway-1.0        SPD 0.736 [0.677, 0.795]  retained  31.6 % [ 18.5,  46.1]  n=209
+2026-09-21 22:56:24,980 | INFO    |   a1.00_cfg1.3_nfe32_sway+0.0        SPD 0.736 [0.674, 0.798]  retained  41.5 % [ 27.2,  56.5]  n=207
+2026-09-21 22:56:39,081 | INFO    |   a1.00_cfg1.3_nfe64_sway-1.0        SPD 0.736 [0.691, 0.781]  retained  29.7 % [ 17.6,  43.1]  n=212
+2026-09-21 22:56:52,835 | INFO    |   a1.00_cfg1.3_nfe64_sway+0.0        SPD 0.735 [0.684, 0.786]  retained  33.6 % [ 19.9,  48.1]  n=211
+2026-09-21 22:57:06,623 | INFO    |   a1.00_cfg1.6_nfe32_sway-1.0        SPD 0.733 [0.675, 0.789]  retained  27.7 % [ 13.2,  42.8]  n=213
+2026-09-21 22:57:20,404 | INFO    |   a1.00_cfg1.6_nfe32_sway+0.0        SPD 0.741 [0.688, 0.791]  retained  40.0 % [ 25.9,  53.9]  n=205
+2026-09-21 22:57:34,224 | INFO    |   a1.00_cfg1.6_nfe64_sway-1.0        SPD 0.720 [0.670, 0.770]  retained  28.8 % [ 16.2,  42.2]  n=212
+2026-09-21 22:57:47,972 | INFO    |   a1.00_cfg1.6_nfe64_sway+0.0        SPD 0.747 [0.693, 0.802]  retained  31.9 % [ 19.5,  45.3]  n=213
+2026-09-21 22:58:01,759 | INFO    |   a1.00_cfg2.0_nfe32_sway-1.0        SPD 0.758 [0.704, 0.809]  retained  21.3 % [ 11.2,  32.4]  n=211
+2026-09-21 22:58:15,970 | INFO    |   a1.00_cfg2.0_nfe32_sway+0.0        SPD 0.753 [0.697, 0.813]  retained  35.5 % [ 22.3,  48.8]  n=203
+2026-09-21 22:58:29,801 | INFO    |   a1.00_cfg2.0_nfe64_sway-1.0        SPD 0.740 [0.684, 0.794]  retained  26.9 % [ 13.3,  40.9]  n=216
+2026-09-21 22:58:43,581 | INFO    |   a1.00_cfg2.0_nfe64_sway+0.0        SPD 0.744 [0.687, 0.799]  retained  31.9 % [ 17.1,  47.9]  n=213
+2026-09-21 22:58:57,370 | INFO    |   a1.00_cfg2.5_nfe32_sway-1.0        SPD 0.736 [0.673, 0.798]  retained  24.2 % [ 10.6,  38.2]  n=215
+2026-09-21 22:59:11,158 | INFO    |   a1.00_cfg2.5_nfe32_sway+0.0        SPD 0.756 [0.694, 0.819]  retained  39.4 % [ 24.5,  54.4]  n=198
+2026-09-21 22:59:24,986 | INFO    |   a1.00_cfg2.5_nfe64_sway-1.0        SPD 0.720 [0.657, 0.781]  retained  26.1 % [ 12.6,  39.6]  n=211
+2026-09-21 22:59:39,222 | INFO    |   a1.00_cfg2.5_nfe64_sway+0.0        SPD 0.736 [0.678, 0.787]  retained  31.7 % [ 18.0,  45.0]  n=208
+2026-09-21 22:59:53,099 | INFO    |   a1.20_cfg1.0_nfe32_sway-1.0        SPD 0.708 [0.649, 0.764]  retained  42.1 % [ 28.6,  55.6]  n=214
+2026-09-21 23:00:06,963 | INFO    |   a1.20_cfg1.0_nfe32_sway+0.0        SPD 0.715 [0.653, 0.770]  retained  49.5 % [ 38.1,  60.5]  n=210
+2026-09-21 23:00:20,842 | INFO    |   a1.20_cfg1.0_nfe64_sway-1.0        SPD 0.710 [0.645, 0.770]  retained  41.8 % [ 25.2,  58.3]  n=213
+2026-09-21 23:00:34,752 | INFO    |   a1.20_cfg1.0_nfe64_sway+0.0        SPD 0.708 [0.650, 0.765]  retained  41.4 % [ 25.4,  57.3]  n=210
+2026-09-21 23:00:48,666 | INFO    |   a1.20_cfg1.3_nfe32_sway-1.0        SPD 0.711 [0.655, 0.766]  retained  39.2 % [ 25.1,  54.4]  n=209
+2026-09-21 23:01:02,572 | INFO    |   a1.20_cfg1.3_nfe32_sway+0.0        SPD 0.707 [0.653, 0.755]  retained  45.6 % [ 31.7,  59.5]  n=206
+2026-09-21 23:01:16,991 | INFO    |   a1.20_cfg1.3_nfe64_sway-1.0        SPD 0.698 [0.638, 0.759]  retained  42.5 % [ 26.8,  57.9]  n=212
+2026-09-21 23:01:30,982 | INFO    |   a1.20_cfg1.3_nfe64_sway+0.0        SPD 0.718 [0.658, 0.776]  retained  41.5 % [ 25.5,  57.6]  n=212
+2026-09-21 23:01:44,974 | INFO    |   a1.20_cfg1.6_nfe32_sway-1.0        SPD 0.692 [0.629, 0.756]  retained  41.6 % [ 23.8,  59.2]  n=209
+2026-09-21 23:01:58,935 | INFO    |   a1.20_cfg1.6_nfe32_sway+0.0        SPD 0.700 [0.649, 0.752]  retained  53.2 % [ 38.3,  66.7]  n=205
+2026-09-21 23:02:13,167 | INFO    |   a1.20_cfg1.6_nfe64_sway-1.0        SPD 0.691 [0.631, 0.752]  retained  35.2 % [ 19.5,  51.7]  n=213
+2026-09-21 23:02:27,104 | INFO    |   a1.20_cfg1.6_nfe64_sway+0.0        SPD 0.696 [0.636, 0.756]  retained  44.1 % [ 26.8,  60.8]  n=213
+2026-09-21 23:02:41,158 | INFO    |   a1.20_cfg2.0_nfe32_sway-1.0        SPD 0.693 [0.625, 0.761]  retained  38.4 % [ 22.7,  53.8]  n=211
+2026-09-21 23:02:55,712 | INFO    |   a1.20_cfg2.0_nfe32_sway+0.0        SPD 0.708 [0.656, 0.756]  retained  49.8 % [ 34.2,  63.7]  n=209
+2026-09-21 23:03:09,847 | INFO    |   a1.20_cfg2.0_nfe64_sway-1.0        SPD 0.701 [0.631, 0.769]  retained  37.9 % [ 22.6,  54.8]  n=214
+2026-09-21 23:03:23,989 | INFO    |   a1.20_cfg2.0_nfe64_sway+0.0        SPD 0.691 [0.632, 0.752]  retained  49.3 % [ 30.4,  67.4]  n=213
+2026-09-21 23:03:38,008 | INFO    |   a1.20_cfg2.5_nfe32_sway-1.0        SPD 0.687 [0.622, 0.754]  retained  37.4 % [ 20.9,  53.8]  n=211
+2026-09-21 23:03:52,016 | INFO    |   a1.20_cfg2.5_nfe32_sway+0.0        SPD 0.727 [0.662, 0.786]  retained  45.9 % [ 27.8,  64.3]  n=196
+2026-09-21 23:04:06,051 | INFO    |   a1.20_cfg2.5_nfe64_sway-1.0        SPD 0.700 [0.632, 0.767]  retained  36.2 % [ 20.5,  52.7]  n=210
+2026-09-21 23:04:20,614 | INFO    |   a1.20_cfg2.5_nfe64_sway+0.0        SPD 0.709 [0.651, 0.764]  retained  41.4 % [ 26.0,  57.3]  n=210
+2026-09-21 23:04:21,922 | INFO    | -> checkpoints/phone_retention_grid_cross.json  (842s)
+2026-09-27 17:02:17,117 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.95 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 17:02:17,128 | INFO    | phone retention | prompt=cross | reference=baseline | marker_per=0.7 | 5 conditions | 21 utterances
+2026-09-27 17:02:26,668 | INFO    | markers: 218 of 778 aligned words (28.0 %) across 21 utterances (dedup: 277 tokens -> 218 word-type markers)
+2026-09-27 17:02:26,680 | INFO    |   baseline                           SPD 0.872 [0.862, 0.882]  retained   0.0 % [  0.0,   0.0]  n=218
+2026-09-27 17:02:31,784 | INFO    |   finetuned                          SPD 0.727 [0.662, 0.789]  retained  27.2 % [ 14.1,  42.2]  n=191
+2026-09-27 17:02:31,794 | INFO    |   finetuned_run6                     SPD 0.729 [0.668, 0.788]  retained  24.7 % [ 13.7,  37.3]  n=190
+2026-09-27 17:02:31,804 | INFO    |   finetuned_run5_ep81                SPD 0.743 [0.691, 0.793]  retained  27.9 % [ 16.9,  39.6]  n=201
+2026-09-27 17:02:31,814 | INFO    |   copysynth                          SPD 0.258 [0.218, 0.315]  retained  89.7 % [ 81.7,  95.4]  n=214
+2026-09-27 17:02:32,681 | INFO    | -> checkpoints/validate_singleseed_cross.json  (17s)
+2026-09-27 17:02:34,650 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.81 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 17:02:34,651 | INFO    | phone retention | prompt=fixed | reference=baseline | marker_per=0.7 | 5 conditions | 21 utterances
+2026-09-27 17:02:43,258 | INFO    | markers: 209 of 778 aligned words (26.9 %) across 21 utterances (dedup: 260 tokens -> 209 word-type markers)
+2026-09-27 17:02:43,270 | INFO    |   baseline                           SPD 0.862 [0.848, 0.875]  retained   0.0 % [  0.0,   0.0]  n=209
+2026-09-27 17:02:48,752 | INFO    |   finetuned                          SPD 0.713 [0.641, 0.783]  retained  24.4 % [ 12.7,  36.5]  n=201
+2026-09-27 17:02:48,763 | INFO    |   finetuned_run6                     SPD 0.748 [0.715, 0.782]  retained  14.4 % [  9.9,  20.0]  n=201
+2026-09-27 17:02:48,773 | INFO    |   finetuned_run5_ep81                SPD 0.727 [0.666, 0.790]  retained  20.5 % [ 10.4,  30.3]  n=200
+2026-09-27 17:02:48,784 | INFO    |   copysynth                          SPD 0.253 [0.210, 0.316]  retained  90.3 % [ 83.3,  95.5]  n=206
+2026-09-27 17:02:49,683 | INFO    | -> checkpoints/validate_singleseed_fixed.json  (16s)
+2026-09-27 17:03:33,241 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.82 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 17:03:33,243 | INFO    | phone retention | prompt=cross | reference=baseline | marker_per=0.7 | 3 conditions | 21 utterances
+2026-09-27 17:03:41,749 | INFO    | markers: 218 of 778 aligned words (28.0 %) across 21 utterances (dedup: 277 tokens -> 218 word-type markers)
+2026-09-27 17:03:41,761 | INFO    |   baseline                           SPD 0.872 [0.862, 0.882]  retained   0.0 % [  0.0,   0.0]  n=218
+2026-09-27 17:03:41,777 | INFO    |   finetuned_run6                     SPD 0.731 [0.671, 0.790]  retained  24.6 % [ 10.7,  40.9]  n=211
+2026-09-27 17:03:41,794 | INFO    |   finetuned_run5_ep81                SPD 0.741 [0.684, 0.794]  retained  29.3 % [ 15.2,  44.8]  n=215
+2026-09-27 17:03:42,627 | INFO    | -> checkpoints/validate_pooled_cross.json  (11s)
+2026-09-27 17:03:44,639 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.81 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 17:03:44,641 | INFO    | phone retention | prompt=fixed | reference=baseline | marker_per=0.7 | 3 conditions | 21 utterances
+2026-09-27 17:03:53,135 | INFO    | markers: 209 of 778 aligned words (26.9 %) across 21 utterances (dedup: 260 tokens -> 209 word-type markers)
+2026-09-27 17:03:53,147 | INFO    |   baseline                           SPD 0.862 [0.848, 0.875]  retained   0.0 % [  0.0,   0.0]  n=209
+2026-09-27 17:03:53,164 | INFO    |   finetuned_run6                     SPD 0.745 [0.715, 0.774]  retained  11.5 % [  7.3,  16.8]  n=208
+2026-09-27 17:03:53,182 | INFO    |   finetuned_run5_ep81                SPD 0.755 [0.718, 0.797]  retained  13.5 % [  5.6,  21.8]  n=208
+2026-09-27 17:03:54,063 | INFO    | -> checkpoints/validate_pooled_fixed.json  (10s)
+2026-09-27 17:10:33,162 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.93 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 17:10:33,163 | INFO    | phone retention | prompt=fixed | reference=baseline | marker_per=0.7 | 9 conditions | 21 utterances
+2026-09-27 17:10:41,627 | INFO    | markers: 209 of 778 aligned words (26.9 %) across 21 utterances (dedup: 260 tokens -> 209 word-type markers)
+2026-09-27 17:10:41,639 | INFO    |   baseline                           SPD 0.862 [0.848, 0.875]  retained   0.0 % [  0.0,   0.0]  n=209
+2026-09-27 17:10:41,656 | INFO    |   alpha_0.20                         SPD 0.824 [0.808, 0.842]  retained   1.9 % [  0.0,   4.1]  n=209
+2026-09-27 17:10:41,674 | INFO    |   alpha_0.40                         SPD 0.819 [0.800, 0.839]  retained   2.4 % [  0.0,   5.5]  n=209
+2026-09-27 17:10:41,692 | INFO    |   alpha_0.60                         SPD 0.813 [0.794, 0.834]  retained   2.4 % [  0.8,   4.2]  n=209
+2026-09-27 17:10:41,709 | INFO    |   alpha_0.80                         SPD 0.783 [0.749, 0.812]  retained   8.2 % [  4.8,  12.4]  n=207
+2026-09-27 17:10:41,727 | INFO    |   finetuned_run6                     SPD 0.745 [0.715, 0.774]  retained  11.5 % [  7.3,  16.8]  n=208
+2026-09-27 17:10:41,744 | INFO    |   alpha_1.20                         SPD 0.688 [0.629, 0.748]  retained  29.0 % [ 18.5,  39.4]  n=207
+2026-09-27 17:10:41,761 | INFO    |   alpha_1.50                         SPD 0.608 [0.552, 0.672]  retained  51.5 % [ 39.4,  62.8]  n=206
+2026-09-27 17:10:41,772 | INFO    |   copysynth                          SPD 0.253 [0.210, 0.316]  retained  90.3 % [ 83.3,  95.5]  n=206
+2026-09-27 17:10:42,658 | INFO    | -> checkpoints/alphasweep_validated_fixed.json  (11s)
+2026-09-27 17:11:11,717 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.87 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-27 17:11:11,719 | INFO    | phone retention | prompt=cross | reference=baseline | marker_per=0.7 | 9 conditions | 21 utterances
+2026-09-27 17:11:20,109 | INFO    | markers: 218 of 778 aligned words (28.0 %) across 21 utterances (dedup: 277 tokens -> 218 word-type markers)
+2026-09-27 17:11:20,121 | INFO    |   baseline                           SPD 0.872 [0.862, 0.882]  retained   0.0 % [  0.0,   0.0]  n=218
+2026-09-27 17:11:20,139 | INFO    |   alpha_0.20                         SPD 0.826 [0.805, 0.847]  retained   6.0 % [  1.0,  13.0]  n=217
+2026-09-27 17:11:20,157 | INFO    |   alpha_0.40                         SPD 0.828 [0.807, 0.847]  retained   7.4 % [  2.3,  13.9]  n=217
+2026-09-27 17:11:20,175 | INFO    |   alpha_0.60                         SPD 0.816 [0.797, 0.833]  retained   6.1 % [  2.3,  11.1]  n=212
+2026-09-27 17:11:20,192 | INFO    |   alpha_0.80                         SPD 0.765 [0.731, 0.800]  retained  16.4 % [  8.2,  25.3]  n=214
+2026-09-27 17:11:20,210 | INFO    |   finetuned_run6                     SPD 0.731 [0.671, 0.790]  retained  24.6 % [ 10.7,  40.9]  n=211
+2026-09-27 17:11:20,227 | INFO    |   alpha_1.20                         SPD 0.702 [0.641, 0.762]  retained  38.4 % [ 23.3,  53.7]  n=211
+2026-09-27 17:11:20,244 | INFO    |   alpha_1.50                         SPD 0.665 [0.607, 0.722]  retained  50.2 % [ 37.3,  62.1]  n=209
+2026-09-27 17:11:20,254 | INFO    |   copysynth                          SPD 0.258 [0.218, 0.315]  retained  89.7 % [ 81.7,  95.4]  n=214
+2026-09-27 17:11:21,148 | INFO    | -> checkpoints/alphasweep_validated_cross.json  (11s)

@@ -1,0 +1,18 @@
+2026-09-21 10:15:28,346 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 10:15:53,247 | INFO    | fixed/baseline: WER 0.106  SIM-o 0.542  (n=21)
+2026-09-21 10:16:27,244 | INFO    | fixed/alpha_0.20: WER 0.089  SIM-o 0.554  (n=21)
+2026-09-21 10:17:00,499 | INFO    | fixed/alpha_0.40: WER 0.089  SIM-o 0.571  (n=21)
+2026-09-21 10:17:33,460 | INFO    | fixed/alpha_0.60: WER 0.109  SIM-o 0.594  (n=21)
+2026-09-21 10:18:05,704 | INFO    | fixed/alpha_0.80: WER 0.124  SIM-o 0.611  (n=21)
+2026-09-21 10:18:08,344 | INFO    | fixed/finetuned_run6: WER 0.120  SIM-o 0.615  (n=21)
+2026-09-21 10:18:40,155 | INFO    | fixed/alpha_1.20: WER 0.196  SIM-o 0.637  (n=21)
+2026-09-21 10:19:13,051 | INFO    | fixed/alpha_1.50: WER 0.238  SIM-o 0.657  (n=21)
+2026-09-21 10:19:15,788 | INFO    | cross/baseline: WER 0.207  SIM-o 0.447  (n=21)
+2026-09-21 10:19:49,415 | INFO    | cross/alpha_0.20: WER 0.193  SIM-o 0.482  (n=21)
+2026-09-21 10:20:21,921 | INFO    | cross/alpha_0.40: WER 0.183  SIM-o 0.520  (n=21)
+2026-09-21 10:20:56,051 | INFO    | cross/alpha_0.60: WER 0.211  SIM-o 0.532  (n=21)
+2026-09-21 10:21:28,290 | INFO    | cross/alpha_0.80: WER 0.196  SIM-o 0.558  (n=21)
+2026-09-21 10:21:30,985 | INFO    | cross/finetuned_run6: WER 0.258  SIM-o 0.569  (n=21)
+2026-09-21 10:22:03,497 | INFO    | cross/alpha_1.20: WER 0.305  SIM-o 0.579  (n=21)
+2026-09-21 10:22:34,065 | INFO    | cross/alpha_1.50: WER 0.350  SIM-o 0.587  (n=21)
+2026-09-21 10:22:34,066 | INFO    | -> checkpoints/alpha_sweep_wer_simo.json

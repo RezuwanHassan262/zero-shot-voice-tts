@@ -1,0 +1,68 @@
+# ============================================================================
+# aktts - F5-TTS voice-cloning pipeline (RTX 3060 / CUDA 11.8 / Python 3.12)
+#
+#   pip install -r requirements.txt
+#
+# One file: torch/torchaudio/torchvision are pinned to the "+cu118" local
+# version, which only exists on PyTorch's index, so pip must take them from
+# --extra-index-url instead of the CPU / cu12x wheels on PyPI.  (torchvision is
+# pulled in by audio-separator -> onnx2torch; unpinned it would upgrade torch.)
+# ============================================================================
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+# ---- Deep learning (CUDA 11.8 wheels) --------------------------------------
+torch==2.7.1+cu118
+torchaudio==2.7.1+cu118
+torchvision==0.22.1+cu118
+
+# ---- TTS core ---------------------------------------------------------------
+f5-tts
+accelerate
+# imported directly by the scripts (also f5-tts dependencies; listed so they are explicit)
+transformers
+safetensors
+cached_path
+ema_pytorch
+numpy
+# optional: only for finetune_tts.py --bnb_optimizer (8-bit AdamW)
+bitsandbytes
+soundfile
+librosa
+pydub
+
+# ---- Audio isolation / denoising (MelBand RoFormer) ------------------------
+# audio-separator ships the RoFormer checkpoints used by Kijai's ComfyUI-MelBandRoFormer
+# node (vocals_mel_band_roformer.ckpt, model_bs_roformer_ep_317_sdr_12.9755.ckpt, ...)
+# and the MelBand RoFormer denoiser.  RoFormer models run on the GPU through torch;
+# the [gpu] extra adds onnxruntime-gpu (CUDA 13 build - its CUDA provider stays idle on
+# this CUDA 11.8 stack, but it also serves the CPU provider used by DNSMOS below).
+audio-separator[gpu]
+audioread            # imported by audio-separator's spectrogram utils but not declared by it
+
+# ---- Metrics & evaluation --------------------------------------------------
+openai-whisper
+jiwer
+# resemblyzer depends on `webrtcvad`, which has no Windows/py3.12 wheel and
+# needs MSVC to build.  `webrtcvad-wheels` is a drop-in prebuilt replacement
+# that registers the same import name, so it is listed first.
+webrtcvad-wheels
+# resemblyzer / pymcd import the legacy `pkg_resources` API (removed in setuptools>=81)
+setuptools<81
+resemblyzer
+pymcd
+scipy
+matplotlib
+seaborn
+pandas
+tqdm
+
+# ---- System / media --------------------------------------------------------
+ffmpeg-python
+# Bundled static ffmpeg binary used as a fallback when no system ffmpeg is on PATH
+imageio-ffmpeg
+
+# DNSMOS (P.835 neural MOS) runs as an ONNX graph on the onnxruntime-gpu package above
+# markdown tables in the evaluation report (pandas.to_markdown)
+tabulate
+# training metrics -> logs/training_metrics.xlsx (pandas ExcelWriter); pandas itself is listed above
+openpyxl

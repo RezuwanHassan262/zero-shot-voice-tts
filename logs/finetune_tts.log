@@ -1,0 +1,1085 @@
+2026-09-18 23:49:07,104 | INFO    | GPU: NVIDIA GeForce RTX 3060 | total VRAM 12.00 GiB | free 10.98 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-18 23:49:30,539 | INFO    | All transcript characters are covered by the pretrained vocabulary
+2026-09-18 23:49:30,645 | INFO    | train: 169 clips (67.1 min) | valid: 21 clips (8.1 min)
+2026-09-18 23:49:30,684 | INFO    | 46 micro-batches/epoch (<= 4 clips, <= 150 s each)
+2026-09-18 23:49:52,896 | INFO    | Loading pretrained weights: C:\Users\MD. REZUWAN HASAN\.cache\huggingface\hub\models--SWivid--F5-TTS\snapshots\84e5a410d9cead4de2f847e7c9369a6440bdfaca\F5TTS_Base\model_1200000.pt
+2026-09-18 23:49:55,922 | INFO    | F5TTS_Base: 337.1 M parameters | activation checkpointing=True | mixed precision=fp16
+2026-09-18 23:49:56,063 | INFO    | updates/epoch=12 planned updates=1200 warm-up=60 (effective batch = 4 x 4 = 16 clips)
+2026-09-18 23:51:57,741 | INFO    | epoch   1/100 | train 0.8616 | val 0.7770 (ema 0.7812) | lr 2.17e-06 | best 0.7770@1 | wait 0/10 | 122s | peak 8.9 GiB
+2026-09-18 23:52:15,366 | INFO    |   new best -> G:\akhtar_khan\checkpoints\best_model.pt (1.88 GB)
+2026-09-18 23:54:07,173 | INFO    | epoch   2/100 | train 0.7976 | val 0.7633 (ema 0.7683) | lr 4.17e-06 | best 0.7633@2 | wait 0/10 | 91s | peak 9.2 GiB
+2026-09-19 00:33:28,843 | INFO    | GPU: NVIDIA GeForce RTX 3060 | total VRAM 12.00 GiB | free 10.98 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-19 00:34:05,610 | INFO    | All transcript characters are covered by the pretrained vocabulary
+2026-09-19 00:34:05,715 | INFO    | train: 169 clips (67.1 min) | valid: 21 clips (8.1 min)
+2026-09-19 00:34:05,764 | INFO    | 46 micro-batches/epoch (<= 4 clips, <= 150 s each)
+2026-09-19 00:34:31,495 | INFO    | Loading pretrained weights: C:\Users\MD. REZUWAN HASAN\.cache\huggingface\hub\models--SWivid--F5-TTS\snapshots\84e5a410d9cead4de2f847e7c9369a6440bdfaca\F5TTS_Base\model_1200000.pt
+2026-09-19 00:34:33,789 | INFO    | F5TTS_Base: 337.1 M parameters | activation checkpointing=True | mixed precision=fp16
+2026-09-19 00:34:34,043 | INFO    | updates/epoch=12 planned updates=1200 warm-up=60 (effective batch = 4 x 4 = 16 clips)
+2026-09-19 00:36:25,217 | INFO    | epoch   1/100 | train 0.8616 | val 0.7771 (ema 0.7812) | lr 2.17e-06 | best 0.7771@1 | wait 0/10 | 111s | peak 8.9 GiB
+2026-09-19 00:36:46,601 | INFO    |   new best -> G:\akhtar_khan\checkpoints\best_model.pt (1.88 GB)
+2026-09-19 00:38:44,852 | INFO    | epoch   2/100 | train 0.7975 | val 0.7632 (ema 0.7682) | lr 4.17e-06 | best 0.7632@2 | wait 0/10 | 94s | peak 9.2 GiB
+2026-09-19 00:39:02,750 | INFO    |   new best -> G:\akhtar_khan\checkpoints\best_model.pt (1.88 GB)
+2026-09-19 00:40:58,319 | INFO    | epoch   3/100 | train 0.7772 | val 0.7528 (ema 0.7583) | lr 6.17e-06 | best 0.7528@3 | wait 0/10 | 95s | peak 8.9 GiB
+2026-09-19 00:41:16,171 | INFO    |   new best -> G:\akhtar_khan\checkpoints\best_model.pt (1.88 GB)
+2026-09-19 00:43:12,671 | INFO    | epoch   4/100 | train 0.8395 | val 0.7464 (ema 0.7510) | lr 8.17e-06 | best 0.7464@4 | wait 0/10 | 96s | peak 8.9 GiB
+2026-09-19 00:43:31,539 | INFO    |   new best -> G:\akhtar_khan\checkpoints\best_model.pt (1.88 GB)
+2026-09-19 00:45:29,879 | INFO    | epoch   5/100 | train 0.8651 | val 0.7419 (ema 0.7455) | lr 1.00e-05 | best 0.7419@5 | wait 0/10 | 97s | peak 8.9 GiB
+2026-09-19 00:45:47,272 | INFO    |   new best -> G:\akhtar_khan\checkpoints\best_model.pt (1.88 GB)
+2026-09-19 00:47:45,324 | INFO    | epoch   6/100 | train 0.9257 | val 0.7401 (ema 0.7417) | lr 9.91e-06 | best 0.7401@6 | wait 0/10 | 97s | peak 8.8 GiB
+2026-09-19 00:48:10,345 | INFO    |   new best -> G:\akhtar_khan\checkpoints\best_model.pt (1.88 GB)
+2026-09-19 00:50:07,030 | INFO    | epoch   7/100 | train 0.8376 | val 0.7380 (ema 0.7394) | lr 9.81e-06 | best 0.7380@7 | wait 0/10 | 94s | peak 8.8 GiB
+2026-09-19 00:50:25,489 | INFO    |   new best -> G:\akhtar_khan\checkpoints\best_model.pt (1.88 GB)
+2026-09-19 00:52:51,935 | INFO    | epoch   8/100 | train 0.7642 | val 0.7363 (ema 0.7377) | lr 9.72e-06 | best 0.7363@8 | wait 0/10 | 125s | peak 9.7 GiB
+2026-09-19 00:53:10,284 | INFO    |   new best -> G:\akhtar_khan\checkpoints\best_model.pt (1.88 GB)
+2026-09-19 00:55:16,213 | INFO    | epoch   9/100 | train 0.6847 | val 0.7342 (ema 0.7361) | lr 9.62e-06 | best 0.7342@9 | wait 0/10 | 103s | peak 9.5 GiB
+2026-09-19 00:55:34,258 | INFO    |   new best -> G:\akhtar_khan\checkpoints\best_model.pt (1.88 GB)
+2026-09-19 00:56:30,255 | CRITICAL | Uncaught exception
+Traceback (most recent call last):
+  File "G:\akhtar_khan\scripts\finetune_tts.py", line 568, in <module>
+    main()
+  File "G:\akhtar_khan\scripts\finetune_tts.py", line 509, in main
+    accelerator.backward(loss)
+  File "G:\akhtar_khan\aktts\Lib\site-packages\accelerate\accelerator.py", line 2857, in backward
+    self.scaler.scale(loss).backward(**kwargs)
+  File "G:\akhtar_khan\aktts\Lib\site-packages\torch\_tensor.py", line 648, in backward
+    torch.autograd.backward(
+  File "G:\akhtar_khan\aktts\Lib\site-packages\torch\autograd\__init__.py", line 353, in backward
+    _engine_run_backward(
+  File "G:\akhtar_khan\aktts\Lib\site-packages\torch\autograd\graph.py", line 824, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+2026-09-19 15:02:33,747 | WARNING | /home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/pydub/utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
+  warn("Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", RuntimeWarning)
+
+2026-09-19 15:02:35,665 | INFO    | Loading pretrained weights: /home/farig/.cache/huggingface/hub/models--SWivid--F5-TTS/snapshots/84e5a410d9cead4de2f847e7c9369a6440bdfaca/F5TTS_Base/model_1200000.pt
+2026-09-19 15:02:51,419 | INFO    | All transcript characters are covered by the pretrained vocabulary
+2026-09-19 15:23:30,085 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.93 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-19 15:23:34,692 | INFO    | All transcript characters are covered by the pretrained vocabulary
+2026-09-19 15:23:34,699 | INFO    | train: 169 clips (67.1 min) | valid: 21 clips (8.1 min)
+2026-09-19 15:23:34,700 | INFO    | 46 micro-batches/epoch (<= 4 clips, <= 150 s each)
+2026-09-19 15:23:36,862 | INFO    | Loading pretrained weights: /home/farig/.cache/huggingface/hub/models--SWivid--F5-TTS/snapshots/84e5a410d9cead4de2f847e7c9369a6440bdfaca/F5TTS_Base/model_1200000.pt
+2026-09-19 15:23:37,219 | INFO    | F5TTS_Base: 337.1 M parameters | activation checkpointing=True | mixed precision=fp16
+2026-09-19 15:23:37,263 | INFO    | updates/epoch=12 planned updates=1200 warm-up=60 (effective batch = 4 x 4 = 16 clips)
+2026-09-19 15:24:09,330 | INFO    | epoch   1/100 | train 0.9983 | val 1.2495 (ema 1.2523) | lr 2.17e-06 | best 1.2495@1 | wait 0/10 | 32s | peak 8.9 GiB
+2026-09-19 15:24:11,034 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:24:44,624 | INFO    | epoch   2/100 | train 0.7986 | val 1.2370 (ema 1.2413) | lr 4.17e-06 | best 1.2370@2 | wait 0/10 | 31s | peak 8.7 GiB
+2026-09-19 15:24:47,471 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:25:22,343 | INFO    | epoch   3/100 | train 0.9467 | val 1.2281 (ema 1.2326) | lr 6.17e-06 | best 1.2281@3 | wait 0/10 | 32s | peak 8.9 GiB
+2026-09-19 15:25:24,823 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:25:59,774 | INFO    | epoch   4/100 | train 0.7773 | val 1.2222 (ema 1.2264) | lr 8.17e-06 | best 1.2222@4 | wait 0/10 | 32s | peak 8.9 GiB
+2026-09-19 15:26:02,244 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:26:37,743 | INFO    | epoch   5/100 | train 0.8658 | val 1.2192 (ema 1.2221) | lr 1.00e-05 | best 1.2192@5 | wait 0/10 | 32s | peak 8.9 GiB
+2026-09-19 15:26:40,460 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:27:15,827 | INFO    | epoch   6/100 | train 0.8929 | val 1.2167 (ema 1.2185) | lr 9.91e-06 | best 1.2167@6 | wait 0/10 | 33s | peak 8.8 GiB
+2026-09-19 15:27:18,276 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:27:53,495 | INFO    | epoch   7/100 | train 0.8799 | val 1.2153 (ema 1.2163) | lr 9.81e-06 | best 1.2153@7 | wait 0/10 | 32s | peak 8.8 GiB
+2026-09-19 15:27:56,341 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:28:32,010 | INFO    | epoch   8/100 | train 0.8195 | val 1.2130 (ema 1.2150) | lr 9.72e-06 | best 1.2130@8 | wait 0/10 | 32s | peak 9.1 GiB
+2026-09-19 15:28:34,464 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:29:09,883 | INFO    | epoch   9/100 | train 0.8822 | val 1.2110 (ema 1.2138) | lr 9.62e-06 | best 1.2110@9 | wait 0/10 | 33s | peak 9.5 GiB
+2026-09-19 15:29:12,746 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:29:47,714 | INFO    | epoch  10/100 | train 0.7939 | val 1.2084 (ema 1.2115) | lr 9.53e-06 | best 1.2084@10 | wait 0/10 | 32s | peak 8.9 GiB
+2026-09-19 15:29:50,085 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:30:25,616 | INFO    | epoch  11/100 | train 0.8536 | val 1.2073 (ema 1.2099) | lr 9.43e-06 | best 1.2073@11 | wait 0/10 | 32s | peak 9.4 GiB
+2026-09-19 15:30:28,424 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:31:03,265 | INFO    | epoch  12/100 | train 0.7701 | val 1.2049 (ema 1.2078) | lr 9.34e-06 | best 1.2049@12 | wait 0/10 | 32s | peak 9.5 GiB
+2026-09-19 15:31:05,808 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:31:41,359 | INFO    | epoch  13/100 | train 0.7301 | val 1.2045 (ema 1.2060) | lr 9.24e-06 | best 1.2045@13 | wait 0/10 | 33s | peak 9.5 GiB
+2026-09-19 15:31:43,793 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:32:19,378 | INFO    | epoch  14/100 | train 0.8165 | val 1.2038 (ema 1.2049) | lr 9.15e-06 | best 1.2038@14 | wait 0/10 | 33s | peak 9.5 GiB
+2026-09-19 15:32:22,255 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:32:28,526 | CRITICAL | Uncaught exception
+Traceback (most recent call last):
+  File "/home/farig/Rezuwan_TTS/scripts/finetune_tts.py", line 568, in <module>
+    main()
+  File "/home/farig/Rezuwan_TTS/scripts/finetune_tts.py", line 509, in main
+    accelerator.backward(loss)
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/accelerate/accelerator.py", line 2857, in backward
+    self.scaler.scale(loss).backward(**kwargs)
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/_tensor.py", line 648, in backward
+    torch.autograd.backward(
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/autograd/__init__.py", line 353, in backward
+    _engine_run_backward(
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/autograd/graph.py", line 824, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+2026-09-19 15:32:51,380 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.84 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-19 15:32:55,940 | INFO    | All transcript characters are covered by the pretrained vocabulary
+2026-09-19 15:32:55,947 | INFO    | train: 169 clips (67.1 min) | valid: 21 clips (8.1 min)
+2026-09-19 15:32:55,947 | INFO    | 46 micro-batches/epoch (<= 4 clips, <= 150 s each)
+2026-09-19 15:33:03,057 | INFO    | Loading pretrained weights: /home/farig/.cache/huggingface/hub/models--SWivid--F5-TTS/snapshots/84e5a410d9cead4de2f847e7c9369a6440bdfaca/F5TTS_Base/model_1200000.pt
+2026-09-19 15:33:03,408 | INFO    | F5TTS_Base: 337.1 M parameters | activation checkpointing=True | mixed precision=fp16
+2026-09-19 15:33:03,451 | INFO    | updates/epoch=12 planned updates=2400 warm-up=120 (effective batch = 4 x 4 = 16 clips)
+2026-09-19 15:33:35,594 | INFO    | epoch   1/200 | train 1.0000 | val 1.2533 (ema 1.2552) | lr 1.08e-06 | best 1.2533@1 | wait 0/10 | 32s | peak 8.9 GiB
+2026-09-19 15:33:38,049 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:34:12,788 | INFO    | epoch   2/200 | train 0.8034 | val 1.2430 (ema 1.2475) | lr 2.08e-06 | best 1.2430@2 | wait 0/10 | 32s | peak 9.2 GiB
+2026-09-19 15:34:15,604 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:34:50,866 | INFO    | epoch   3/200 | train 0.9573 | val 1.2353 (ema 1.2393) | lr 3.08e-06 | best 1.2353@3 | wait 0/10 | 32s | peak 8.9 GiB
+2026-09-19 15:34:53,345 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:35:28,785 | INFO    | epoch   4/200 | train 0.7850 | val 1.2289 (ema 1.2332) | lr 4.08e-06 | best 1.2289@4 | wait 0/10 | 33s | peak 8.9 GiB
+2026-09-19 15:35:31,639 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:36:06,776 | INFO    | epoch   5/200 | train 0.8752 | val 1.2258 (ema 1.2289) | lr 5.08e-06 | best 1.2258@5 | wait 0/10 | 32s | peak 8.9 GiB
+2026-09-19 15:36:09,252 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:36:44,599 | INFO    | epoch   6/200 | train 0.9027 | val 1.2218 (ema 1.2251) | lr 6.08e-06 | best 1.2218@6 | wait 0/10 | 33s | peak 9.2 GiB
+2026-09-19 15:36:47,390 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:37:22,434 | INFO    | epoch   7/200 | train 0.8878 | val 1.2207 (ema 1.2225) | lr 7.08e-06 | best 1.2207@7 | wait 0/10 | 32s | peak 8.8 GiB
+2026-09-19 15:37:24,920 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:38:00,424 | INFO    | epoch   8/200 | train 0.8263 | val 1.2193 (ema 1.2207) | lr 8.08e-06 | best 1.2193@8 | wait 0/10 | 33s | peak 9.1 GiB
+2026-09-19 15:38:02,888 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:38:37,980 | INFO    | epoch   9/200 | train 0.8893 | val 1.2168 (ema 1.2193) | lr 9.08e-06 | best 1.2168@9 | wait 0/10 | 32s | peak 8.9 GiB
+2026-09-19 15:38:40,834 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:39:16,075 | INFO    | epoch  10/200 | train 0.7988 | val 1.2132 (ema 1.2169) | lr 1.00e-05 | best 1.2132@10 | wait 0/10 | 32s | peak 8.9 GiB
+2026-09-19 15:39:18,557 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:39:53,720 | INFO    | epoch  11/200 | train 0.8589 | val 1.2111 (ema 1.2147) | lr 9.95e-06 | best 1.2111@11 | wait 0/10 | 32s | peak 8.8 GiB
+2026-09-19 15:39:56,566 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:40:31,749 | INFO    | epoch  12/200 | train 0.7751 | val 1.2071 (ema 1.2119) | lr 9.91e-06 | best 1.2071@12 | wait 0/10 | 32s | peak 9.5 GiB
+2026-09-19 15:40:34,263 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:41:09,452 | INFO    | epoch  13/200 | train 0.7327 | val 1.2062 (ema 1.2098) | lr 9.86e-06 | best 1.2062@13 | wait 0/10 | 32s | peak 9.5 GiB
+2026-09-19 15:41:12,289 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:41:47,405 | INFO    | epoch  14/200 | train 0.8203 | val 1.2042 (ema 1.2079) | lr 9.81e-06 | best 1.2042@14 | wait 0/10 | 32s | peak 9.5 GiB
+2026-09-19 15:41:49,909 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:42:25,342 | INFO    | epoch  15/200 | train 0.8154 | val 1.2022 (ema 1.2058) | lr 9.76e-06 | best 1.2022@15 | wait 0/10 | 33s | peak 10.0 GiB
+2026-09-19 15:42:28,184 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:43:03,354 | INFO    | epoch  16/200 | train 0.8618 | val 1.2018 (ema 1.2038) | lr 9.72e-06 | best 1.2018@16 | wait 0/10 | 32s | peak 9.6 GiB
+2026-09-19 15:43:05,857 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:43:40,939 | INFO    | epoch  17/200 | train 0.7839 | val 1.2007 (ema 1.2023) | lr 9.67e-06 | best 1.2007@17 | wait 0/10 | 32s | peak 9.5 GiB
+2026-09-19 15:43:43,787 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:44:19,104 | INFO    | epoch  18/200 | train 0.7596 | val 1.1985 (ema 1.2013) | lr 9.62e-06 | best 1.1985@18 | wait 0/10 | 32s | peak 9.6 GiB
+2026-09-19 15:44:21,627 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:44:56,605 | INFO    | epoch  19/200 | train 0.8412 | val 1.1948 (ema 1.1995) | lr 9.57e-06 | best 1.1948@19 | wait 0/10 | 32s | peak 9.4 GiB
+2026-09-19 15:44:59,429 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:45:34,463 | INFO    | epoch  20/200 | train 0.7559 | val 1.1910 (ema 1.1972) | lr 9.53e-06 | best 1.1910@20 | wait 0/10 | 32s | peak 8.8 GiB
+2026-09-19 15:45:36,947 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:46:12,547 | INFO    | epoch  21/200 | train 0.7118 | val 1.1891 (ema 1.1950) | lr 9.48e-06 | best 1.1891@21 | wait 0/10 | 33s | peak 8.9 GiB
+2026-09-19 15:46:15,407 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:46:50,563 | INFO    | epoch  22/200 | train 0.8440 | val 1.1895 (ema 1.1933) | lr 9.43e-06 | best 1.1891@21 | wait 1/10 | 32s | peak 9.5 GiB
+2026-09-19 15:47:25,928 | INFO    | epoch  23/200 | train 0.7562 | val 1.1909 (ema 1.1923) | lr 9.38e-06 | best 1.1891@21 | wait 2/10 | 32s | peak 8.9 GiB
+2026-09-19 15:48:01,420 | INFO    | epoch  24/200 | train 0.8186 | val 1.1882 (ema 1.1912) | lr 9.34e-06 | best 1.1882@24 | wait 0/10 | 33s | peak 9.5 GiB
+2026-09-19 15:48:03,718 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 15:48:38,735 | INFO    | epoch  25/200 | train 0.7835 | val 1.1908 (ema 1.1899) | lr 9.29e-06 | best 1.1882@24 | wait 1/10 | 32s | peak 8.8 GiB
+2026-09-19 15:49:14,329 | INFO    | epoch  26/200 | train 0.8005 | val 1.1963 (ema 1.1897) | lr 9.24e-06 | best 1.1882@24 | wait 2/10 | 33s | peak 8.9 GiB
+2026-09-19 15:49:49,807 | INFO    | epoch  27/200 | train 0.8336 | val 1.1972 (ema 1.1911) | lr 9.19e-06 | best 1.1882@24 | wait 3/10 | 33s | peak 9.2 GiB
+2026-09-19 15:50:25,548 | INFO    | epoch  28/200 | train 0.7907 | val 1.1952 (ema 1.1918) | lr 9.15e-06 | best 1.1882@24 | wait 4/10 | 33s | peak 8.9 GiB
+2026-09-19 15:51:00,765 | INFO    | epoch  29/200 | train 0.7519 | val 1.1957 (ema 1.1924) | lr 9.10e-06 | best 1.1882@24 | wait 5/10 | 32s | peak 8.8 GiB
+2026-09-19 15:51:36,733 | INFO    | epoch  30/200 | train 0.7687 | val 1.1965 (ema 1.1931) | lr 9.05e-06 | best 1.1882@24 | wait 6/10 | 33s | peak 8.9 GiB
+2026-09-19 15:52:11,839 | INFO    | epoch  31/200 | train 0.7681 | val 1.1963 (ema 1.1936) | lr 9.01e-06 | best 1.1882@24 | wait 7/10 | 32s | peak 9.5 GiB
+2026-09-19 15:52:47,653 | INFO    | epoch  32/200 | train 0.8488 | val 1.1928 (ema 1.1937) | lr 8.96e-06 | best 1.1882@24 | wait 8/10 | 33s | peak 9.4 GiB
+2026-09-19 15:53:22,788 | INFO    | epoch  33/200 | train 0.7362 | val 1.1911 (ema 1.1930) | lr 8.91e-06 | best 1.1882@24 | wait 9/10 | 32s | peak 8.9 GiB
+2026-09-19 15:53:58,060 | INFO    | epoch  34/200 | train 0.7918 | val 1.1935 (ema 1.1928) | lr 8.86e-06 | best 1.1882@24 | wait 10/10 | 32s | peak 8.9 GiB
+2026-09-19 15:54:00,931 | INFO    | Training finished (early stopping: no val improvement for 10 epochs). best val 1.1882 at epoch 24. best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt | last -> /home/farig/Rezuwan_TTS/checkpoints/last_model.pt | metrics -> /home/farig/Rezuwan_TTS/logs/training_metrics.csv / /home/farig/Rezuwan_TTS/logs/training_metrics.xlsx | curves -> /home/farig/Rezuwan_TTS/logs/training_convergence.png | log -> /home/farig/Rezuwan_TTS/logs/finetune_tts.log
+2026-09-19 16:11:23,069 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.95 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-19 16:11:27,735 | INFO    | All transcript characters are covered by the pretrained vocabulary
+2026-09-19 16:11:27,742 | INFO    | train: 169 clips (67.1 min) | valid: 21 clips (8.1 min)
+2026-09-19 16:11:27,743 | INFO    | 46 micro-batches/epoch (<= 4 clips, <= 150 s each)
+2026-09-19 16:11:33,533 | INFO    | Loading pretrained weights: /home/farig/.cache/huggingface/hub/models--SWivid--F5-TTS/snapshots/84e5a410d9cead4de2f847e7c9369a6440bdfaca/F5TTS_Base/model_1200000.pt
+2026-09-19 16:11:33,892 | INFO    | F5TTS_Base: 337.1 M parameters | activation checkpointing=True | mixed precision=fp16
+2026-09-19 16:11:33,936 | INFO    | updates/epoch=46 planned updates=2760 warm-up=138 (effective batch = 4 x 1 = 4 clips)
+2026-09-19 16:12:13,764 | INFO    | epoch   1/60 | train 0.9897 | val 0.9808 (ema 0.9871) | lr 3.41e-06 | best 0.9808@1 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 16:12:16,291 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:12:53,551 | CRITICAL | Uncaught exception
+Traceback (most recent call last):
+  File "/home/farig/Rezuwan_TTS/scripts/finetune_tts.py", line 578, in <module>
+    main()
+  File "/home/farig/Rezuwan_TTS/scripts/finetune_tts.py", line 533, in main
+    val_loss = validate(raw_model, valid_loader, device, args.seed, args.val_repeats, accelerator.autocast)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/scripts/finetune_tts.py", line 225, in validate
+    loss, _, _ = model(mel, text=batch["text"], lens=batch["mel_lengths"].to(device))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/accelerate/utils/operations.py", line 943, in forward
+    return model_forward(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/accelerate/utils/operations.py", line 931, in __call__
+    return convert_to_fp32(self.model_forward(*args, **kwargs))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/amp/autocast_mode.py", line 44, in decorate_autocast
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/f5_tts/model/cfm.py", line 294, in forward
+    pred = self.transformer(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/f5_tts/model/backbones/dit.py", line 360, in forward
+    x = torch.utils.checkpoint.checkpoint(self.ckpt_wrapper(block), x, t, mask, rope, use_reentrant=False)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/_compile.py", line 51, in inner
+    return disable_fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/_dynamo/eval_frame.py", line 838, in _fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/utils/checkpoint.py", line 495, in checkpoint
+    ret = function(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/f5_tts/model/backbones/dit.py", line 279, in ckpt_forward
+    outputs = module(*inputs)
+              ^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/f5_tts/model/modules.py", line 748, in forward
+    attn_output = self.attn(x=norm, mask=mask, rope=rope)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/f5_tts/model/modules.py", line 441, in forward
+    return self.processor(self, x, mask=mask, rope=rope)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/aktts/lib/python3.12/site-packages/f5_tts/model/modules.py", line 554, in __call__
+    x = x.masked_fill(~mask, 0.0)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+2026-09-19 16:13:20,493 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.97 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-19 16:13:25,153 | INFO    | All transcript characters are covered by the pretrained vocabulary
+2026-09-19 16:13:25,160 | INFO    | train: 169 clips (67.1 min) | valid: 21 clips (8.1 min)
+2026-09-19 16:13:25,161 | INFO    | 46 micro-batches/epoch (<= 4 clips, <= 150 s each)
+2026-09-19 16:13:27,295 | INFO    | Loading pretrained weights: /home/farig/.cache/huggingface/hub/models--SWivid--F5-TTS/snapshots/84e5a410d9cead4de2f847e7c9369a6440bdfaca/F5TTS_Base/model_1200000.pt
+2026-09-19 16:13:27,609 | INFO    | F5TTS_Base: 337.1 M parameters | activation checkpointing=True | mixed precision=fp16
+2026-09-19 16:13:27,652 | INFO    | updates/epoch=46 planned updates=2760 warm-up=138 (effective batch = 4 x 1 = 4 clips)
+2026-09-19 16:14:07,323 | INFO    | epoch   1/60 | train 0.9897 | val 0.9810 (ema 0.9871) | lr 3.41e-06 | best 0.9810@1 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 16:14:09,794 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:14:52,265 | INFO    | epoch   2/60 | train 0.8387 | val 0.9585 (ema 0.9636) | lr 6.81e-06 | best 0.9585@2 | wait 0/20 | 39s | peak 8.4 GiB
+2026-09-19 16:14:55,116 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:15:37,581 | INFO    | epoch   3/60 | train 0.8519 | val 0.9461 (ema 0.9505) | lr 9.99e-06 | best 0.9461@3 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 16:15:40,064 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:16:22,698 | INFO    | epoch   4/60 | train 0.7573 | val 0.9408 (ema 0.9433) | lr 9.84e-06 | best 0.9408@4 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 16:16:25,548 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:17:08,403 | INFO    | epoch   5/60 | train 0.7370 | val 0.9345 (ema 0.9358) | lr 9.68e-06 | best 0.9345@5 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 16:17:10,788 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:17:53,415 | INFO    | epoch   6/60 | train 0.7361 | val 0.9303 (ema 0.9315) | lr 9.52e-06 | best 0.9303@6 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 16:17:55,937 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:18:38,712 | INFO    | epoch   7/60 | train 0.8393 | val 0.9284 (ema 0.9277) | lr 9.36e-06 | best 0.9284@7 | wait 0/20 | 40s | peak 8.7 GiB
+2026-09-19 16:18:41,318 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:19:24,244 | INFO    | epoch   8/60 | train 0.8473 | val 0.9241 (ema 0.9253) | lr 9.20e-06 | best 0.9241@8 | wait 0/20 | 40s | peak 8.3 GiB
+2026-09-19 16:19:26,709 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:20:09,499 | INFO    | epoch   9/60 | train 0.8391 | val 0.9229 (ema 0.9224) | lr 9.04e-06 | best 0.9229@9 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 16:20:12,351 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:20:55,224 | INFO    | epoch  10/60 | train 0.8262 | val 0.9207 (ema 0.9208) | lr 8.88e-06 | best 0.9207@10 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 16:20:57,735 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:21:40,659 | INFO    | epoch  11/60 | train 0.8978 | val 0.9195 (ema 0.9187) | lr 8.73e-06 | best 0.9195@11 | wait 0/20 | 40s | peak 8.5 GiB
+2026-09-19 16:21:43,259 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:22:26,008 | INFO    | epoch  12/60 | train 0.7808 | val 0.9175 (ema 0.9171) | lr 8.57e-06 | best 0.9175@12 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 16:22:28,507 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:23:11,270 | INFO    | epoch  13/60 | train 0.7637 | val 0.9161 (ema 0.9157) | lr 8.41e-06 | best 0.9161@13 | wait 0/20 | 40s | peak 8.9 GiB
+2026-09-19 16:23:14,115 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:23:57,149 | INFO    | epoch  14/60 | train 0.9672 | val 0.9166 (ema 0.9148) | lr 8.25e-06 | best 0.9161@13 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-19 16:24:40,267 | INFO    | epoch  15/60 | train 0.8465 | val 0.9114 (ema 0.9129) | lr 8.09e-06 | best 0.9114@15 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 16:24:42,759 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:25:25,726 | INFO    | epoch  16/60 | train 0.7844 | val 0.9080 (ema 0.9101) | lr 7.93e-06 | best 0.9080@16 | wait 0/20 | 40s | peak 8.6 GiB
+2026-09-19 16:25:28,540 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:26:11,243 | INFO    | epoch  17/60 | train 0.8254 | val 0.9099 (ema 0.9085) | lr 7.77e-06 | best 0.9080@16 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-19 16:26:54,482 | INFO    | epoch  18/60 | train 0.8322 | val 0.9076 (ema 0.9070) | lr 7.61e-06 | best 0.9076@18 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 16:26:56,828 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:27:39,141 | INFO    | epoch  19/60 | train 0.8243 | val 0.9059 (ema 0.9054) | lr 7.45e-06 | best 0.9059@19 | wait 0/20 | 40s | peak 8.0 GiB
+2026-09-19 16:27:41,628 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:28:24,570 | INFO    | epoch  20/60 | train 0.7513 | val 0.9056 (ema 0.9046) | lr 7.29e-06 | best 0.9056@20 | wait 0/20 | 40s | peak 8.6 GiB
+2026-09-19 16:28:27,408 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:29:10,458 | INFO    | epoch  21/60 | train 0.6998 | val 0.9062 (ema 0.9042) | lr 7.13e-06 | best 0.9056@20 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-19 16:29:53,687 | INFO    | epoch  22/60 | train 0.8299 | val 0.9054 (ema 0.9037) | lr 6.97e-06 | best 0.9054@22 | wait 0/20 | 40s | peak 8.2 GiB
+2026-09-19 16:29:56,201 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:30:39,316 | INFO    | epoch  23/60 | train 0.7275 | val 0.9046 (ema 0.9029) | lr 6.81e-06 | best 0.9046@23 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 16:30:42,181 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:31:24,929 | INFO    | epoch  24/60 | train 0.7651 | val 0.9051 (ema 0.9029) | lr 6.65e-06 | best 0.9046@23 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-19 16:32:07,905 | INFO    | epoch  25/60 | train 0.7573 | val 0.9036 (ema 0.9029) | lr 6.49e-06 | best 0.9036@25 | wait 0/20 | 40s | peak 9.1 GiB
+2026-09-19 16:32:10,338 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:32:53,271 | INFO    | epoch  26/60 | train 0.8505 | val 0.9033 (ema 0.9020) | lr 6.33e-06 | best 0.9033@26 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 16:32:56,099 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:33:39,295 | INFO    | epoch  27/60 | train 0.7815 | val 0.9036 (ema 0.9016) | lr 6.17e-06 | best 0.9033@26 | wait 1/20 | 40s | peak 8.5 GiB
+2026-09-19 16:34:22,547 | INFO    | epoch  28/60 | train 0.7774 | val 0.9026 (ema 0.9014) | lr 6.01e-06 | best 0.9026@28 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 16:34:25,014 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:35:07,762 | INFO    | epoch  29/60 | train 0.8908 | val 0.9037 (ema 0.9012) | lr 5.85e-06 | best 0.9026@28 | wait 1/20 | 40s | peak 8.6 GiB
+2026-09-19 16:35:50,879 | INFO    | epoch  30/60 | train 0.7237 | val 0.9016 (ema 0.9010) | lr 5.69e-06 | best 0.9016@30 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 16:35:53,346 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:36:36,513 | INFO    | epoch  31/60 | train 0.8257 | val 0.9013 (ema 0.9003) | lr 5.53e-06 | best 0.9013@31 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 16:36:39,082 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:37:22,461 | INFO    | epoch  32/60 | train 0.7591 | val 0.9007 (ema 0.9000) | lr 5.37e-06 | best 0.9007@32 | wait 0/20 | 41s | peak 8.3 GiB
+2026-09-19 16:37:24,915 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:38:07,656 | INFO    | epoch  33/60 | train 0.8499 | val 0.9021 (ema 0.9000) | lr 5.21e-06 | best 0.9007@32 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-19 16:38:51,191 | INFO    | epoch  34/60 | train 0.7916 | val 0.9007 (ema 0.9000) | lr 5.05e-06 | best 0.9007@32 | wait 2/20 | 40s | peak 8.8 GiB
+2026-09-19 16:39:34,741 | INFO    | epoch  35/60 | train 0.7958 | val 0.9001 (ema 0.8996) | lr 4.90e-06 | best 0.9001@35 | wait 0/20 | 41s | peak 8.2 GiB
+2026-09-19 16:39:37,239 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:40:20,408 | INFO    | epoch  36/60 | train 0.8288 | val 0.9011 (ema 0.8996) | lr 4.74e-06 | best 0.9001@35 | wait 1/20 | 40s | peak 8.2 GiB
+2026-09-19 16:41:03,575 | INFO    | epoch  37/60 | train 0.7962 | val 0.9018 (ema 0.8998) | lr 4.58e-06 | best 0.9001@35 | wait 2/20 | 40s | peak 8.1 GiB
+2026-09-19 16:41:46,605 | INFO    | epoch  38/60 | train 0.7690 | val 0.9006 (ema 0.9000) | lr 4.42e-06 | best 0.9001@35 | wait 3/20 | 40s | peak 8.1 GiB
+2026-09-19 16:42:29,974 | INFO    | epoch  39/60 | train 0.8085 | val 0.9001 (ema 0.8995) | lr 4.26e-06 | best 0.9001@35 | wait 4/20 | 41s | peak 8.4 GiB
+2026-09-19 16:43:13,119 | INFO    | epoch  40/60 | train 0.7619 | val 0.9008 (ema 0.8993) | lr 4.10e-06 | best 0.9001@35 | wait 5/20 | 40s | peak 8.1 GiB
+2026-09-19 16:43:56,173 | INFO    | epoch  41/60 | train 0.8481 | val 0.8995 (ema 0.8992) | lr 3.94e-06 | best 0.8995@41 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 16:43:58,655 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:44:41,719 | INFO    | epoch  42/60 | train 0.7549 | val 0.8998 (ema 0.8989) | lr 3.78e-06 | best 0.8995@41 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-19 16:45:24,979 | INFO    | epoch  43/60 | train 0.8349 | val 0.8994 (ema 0.8988) | lr 3.62e-06 | best 0.8994@43 | wait 0/20 | 40s | peak 8.7 GiB
+2026-09-19 16:45:27,474 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:46:10,524 | INFO    | epoch  44/60 | train 0.7907 | val 0.8987 (ema 0.8983) | lr 3.46e-06 | best 0.8987@44 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 16:46:13,371 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:46:56,513 | INFO    | epoch  45/60 | train 0.7489 | val 0.8991 (ema 0.8982) | lr 3.31e-06 | best 0.8987@44 | wait 1/20 | 40s | peak 9.4 GiB
+2026-09-19 16:47:39,492 | INFO    | epoch  46/60 | train 0.7735 | val 0.8992 (ema 0.8982) | lr 3.15e-06 | best 0.8987@44 | wait 2/20 | 40s | peak 8.8 GiB
+2026-09-19 16:48:22,911 | INFO    | epoch  47/60 | train 0.8130 | val 0.8984 (ema 0.8983) | lr 2.99e-06 | best 0.8984@47 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-19 16:48:25,364 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:49:08,498 | INFO    | epoch  48/60 | train 0.7483 | val 0.8977 (ema 0.8979) | lr 2.83e-06 | best 0.8977@48 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 16:49:11,372 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:49:54,328 | INFO    | epoch  49/60 | train 0.8315 | val 0.8974 (ema 0.8976) | lr 2.67e-06 | best 0.8974@49 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 16:49:56,810 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:50:40,210 | INFO    | epoch  50/60 | train 0.7630 | val 0.8962 (ema 0.8971) | lr 2.51e-06 | best 0.8962@50 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-19 16:50:43,066 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:51:26,151 | INFO    | epoch  51/60 | train 0.7596 | val 0.8958 (ema 0.8966) | lr 2.35e-06 | best 0.8958@51 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 16:51:28,675 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:52:12,069 | INFO    | epoch  52/60 | train 0.8082 | val 0.8960 (ema 0.8961) | lr 2.19e-06 | best 0.8958@51 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-19 16:52:55,562 | INFO    | epoch  53/60 | train 0.8674 | val 0.8961 (ema 0.8959) | lr 2.03e-06 | best 0.8958@51 | wait 2/20 | 40s | peak 8.1 GiB
+2026-09-19 16:53:39,058 | INFO    | epoch  54/60 | train 0.8599 | val 0.8960 (ema 0.8957) | lr 1.87e-06 | best 0.8958@51 | wait 3/20 | 41s | peak 8.8 GiB
+2026-09-19 16:54:22,329 | INFO    | epoch  55/60 | train 0.8771 | val 0.8956 (ema 0.8955) | lr 1.71e-06 | best 0.8956@55 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 16:54:24,776 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:55:08,006 | INFO    | epoch  56/60 | train 0.7333 | val 0.8954 (ema 0.8953) | lr 1.55e-06 | best 0.8954@56 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 16:55:10,846 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:55:53,649 | INFO    | epoch  57/60 | train 0.8296 | val 0.8956 (ema 0.8952) | lr 1.39e-06 | best 0.8954@56 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-19 16:56:37,172 | INFO    | epoch  58/60 | train 0.7956 | val 0.8950 (ema 0.8951) | lr 1.24e-06 | best 0.8950@58 | wait 0/20 | 41s | peak 8.5 GiB
+2026-09-19 16:56:39,668 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:57:22,885 | INFO    | epoch  59/60 | train 0.7500 | val 0.8948 (ema 0.8949) | lr 1.08e-06 | best 0.8948@59 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 16:57:25,733 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 16:58:09,040 | INFO    | epoch  60/60 | train 0.7297 | val 0.8950 (ema 0.8948) | lr 1.00e-06 | best 0.8948@59 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-19 16:58:11,914 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 70 epochs
+2026-09-19 16:58:52,761 | INFO    | epoch  61/70 | train 0.7883 | val 0.8948 (ema 0.8948) | lr 1.00e-06 | best 0.8948@59 | wait 2/20 | 41s | peak 8.4 GiB
+2026-09-19 16:59:36,180 | INFO    | epoch  62/70 | train 0.8310 | val 0.8944 (ema 0.8946) | lr 1.00e-06 | best 0.8944@62 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-19 16:59:38,622 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 17:00:21,234 | INFO    | epoch  63/70 | train 0.8138 | val 0.8942 (ema 0.8945) | lr 1.00e-06 | best 0.8942@63 | wait 0/20 | 40s | peak 8.6 GiB
+2026-09-19 17:00:23,698 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 17:01:06,915 | INFO    | epoch  64/70 | train 0.7660 | val 0.8943 (ema 0.8943) | lr 1.00e-06 | best 0.8942@63 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-19 17:01:50,611 | INFO    | epoch  65/70 | train 0.8168 | val 0.8939 (ema 0.8941) | lr 1.00e-06 | best 0.8939@65 | wait 0/20 | 41s | peak 8.2 GiB
+2026-09-19 17:01:53,154 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 17:02:36,214 | INFO    | epoch  66/70 | train 0.7986 | val 0.8941 (ema 0.8941) | lr 1.00e-06 | best 0.8939@65 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-19 17:03:19,491 | INFO    | epoch  67/70 | train 0.7859 | val 0.8943 (ema 0.8940) | lr 1.00e-06 | best 0.8939@65 | wait 2/20 | 40s | peak 8.8 GiB
+2026-09-19 17:04:02,874 | INFO    | epoch  68/70 | train 0.8051 | val 0.8944 (ema 0.8941) | lr 1.00e-06 | best 0.8939@65 | wait 3/20 | 41s | peak 8.9 GiB
+2026-09-19 17:04:46,548 | INFO    | epoch  69/70 | train 0.7982 | val 0.8948 (ema 0.8943) | lr 1.00e-06 | best 0.8939@65 | wait 4/20 | 41s | peak 8.7 GiB
+2026-09-19 17:05:29,661 | INFO    | epoch  70/70 | train 0.7247 | val 0.8944 (ema 0.8944) | lr 1.00e-06 | best 0.8939@65 | wait 5/20 | 40s | peak 8.1 GiB
+2026-09-19 17:05:32,837 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 80 epochs
+2026-09-19 17:06:13,141 | INFO    | epoch  71/80 | train 0.7449 | val 0.8946 (ema 0.8943) | lr 1.00e-06 | best 0.8939@65 | wait 6/20 | 40s | peak 8.1 GiB
+2026-09-19 17:06:56,878 | INFO    | epoch  72/80 | train 0.7023 | val 0.8943 (ema 0.8943) | lr 1.00e-06 | best 0.8939@65 | wait 7/20 | 41s | peak 8.4 GiB
+2026-09-19 17:07:39,910 | INFO    | epoch  73/80 | train 0.7445 | val 0.8943 (ema 0.8943) | lr 1.00e-06 | best 0.8939@65 | wait 8/20 | 40s | peak 8.1 GiB
+2026-09-19 17:08:23,398 | INFO    | epoch  74/80 | train 0.7577 | val 0.8944 (ema 0.8943) | lr 1.00e-06 | best 0.8939@65 | wait 9/20 | 41s | peak 8.8 GiB
+2026-09-19 17:09:06,788 | INFO    | epoch  75/80 | train 0.7189 | val 0.8938 (ema 0.8942) | lr 1.00e-06 | best 0.8939@65 | wait 10/20 | 41s | peak 8.8 GiB
+2026-09-19 17:09:50,203 | INFO    | epoch  76/80 | train 0.7790 | val 0.8942 (ema 0.8940) | lr 1.00e-06 | best 0.8939@65 | wait 11/20 | 41s | peak 8.8 GiB
+2026-09-19 17:10:33,234 | INFO    | epoch  77/80 | train 0.8018 | val 0.8945 (ema 0.8941) | lr 1.00e-06 | best 0.8939@65 | wait 12/20 | 40s | peak 8.7 GiB
+2026-09-19 17:11:16,846 | INFO    | epoch  78/80 | train 0.7474 | val 0.8942 (ema 0.8941) | lr 1.00e-06 | best 0.8939@65 | wait 13/20 | 41s | peak 8.5 GiB
+2026-09-19 17:11:59,847 | INFO    | epoch  79/80 | train 0.8615 | val 0.8943 (ema 0.8941) | lr 1.00e-06 | best 0.8939@65 | wait 14/20 | 40s | peak 8.2 GiB
+2026-09-19 17:12:43,264 | INFO    | epoch  80/80 | train 0.8256 | val 0.8939 (ema 0.8940) | lr 1.00e-06 | best 0.8939@65 | wait 15/20 | 41s | peak 8.1 GiB
+2026-09-19 17:12:46,182 | INFO    | Training finished (reached planned epochs). best val 0.8939 at epoch 65. best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt | last -> /home/farig/Rezuwan_TTS/checkpoints/last_model.pt | metrics -> /home/farig/Rezuwan_TTS/logs/training_metrics.csv / /home/farig/Rezuwan_TTS/logs/training_metrics.xlsx | curves -> /home/farig/Rezuwan_TTS/logs/training_convergence.png | log -> /home/farig/Rezuwan_TTS/logs/finetune_tts.log
+2026-09-19 20:03:45,084 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 3.14 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-19 20:03:45,085 | CRITICAL | Uncaught exception
+Traceback (most recent call last):
+  File "/home/farig/Rezuwan_TTS/scripts/finetune_tts.py", line 578, in <module>
+    main()
+  File "/home/farig/Rezuwan_TTS/scripts/finetune_tts.py", line 403, in main
+    device = common.gpu_report(log, require_cuda=False, min_free_gb=8.0)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farig/Rezuwan_TTS/scripts/common.py", line 204, in gpu_report
+    raise RuntimeError(
+RuntimeError: Only 3.14 GiB VRAM free but 8.0 GiB required. Close other GPU processes and retry.
+2026-09-19 20:17:51,440 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.95 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-19 20:17:55,903 | INFO    | All transcript characters are covered by the pretrained vocabulary
+2026-09-19 20:17:55,910 | INFO    | train: 169 clips (67.1 min) | valid: 21 clips (8.1 min)
+2026-09-19 20:17:55,910 | INFO    | 46 micro-batches/epoch (<= 4 clips, <= 150 s each)
+2026-09-19 20:17:57,940 | INFO    | Loading pretrained weights: /home/farig/.cache/huggingface/hub/models--SWivid--F5-TTS/snapshots/84e5a410d9cead4de2f847e7c9369a6440bdfaca/F5TTS_Base/model_1200000.pt
+2026-09-19 20:17:58,299 | INFO    | F5TTS_Base: 337.1 M parameters | activation checkpointing=True | mixed precision=fp16
+2026-09-19 20:17:58,342 | INFO    | updates/epoch=46 planned updates=2760 warm-up=138 (effective batch = 4 x 1 = 4 clips)
+2026-09-19 20:18:38,105 | INFO    | epoch   1/60 | train 0.9897 | val 0.9809 (ema 0.9871) | lr 3.41e-06 | best 0.9809@1 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 20:18:40,496 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:19:22,409 | INFO    | epoch   2/60 | train 0.8386 | val 0.9583 (ema 0.9632) | lr 6.81e-06 | best 0.9583@2 | wait 0/20 | 39s | peak 8.4 GiB
+2026-09-19 20:19:24,754 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:20:07,072 | INFO    | epoch   3/60 | train 0.8519 | val 0.9457 (ema 0.9504) | lr 9.99e-06 | best 0.9457@3 | wait 0/20 | 39s | peak 8.8 GiB
+2026-09-19 20:20:09,858 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:20:52,249 | INFO    | epoch   4/60 | train 0.7568 | val 0.9382 (ema 0.9406) | lr 9.84e-06 | best 0.9382@4 | wait 0/20 | 40s | peak 8.2 GiB
+2026-09-19 20:20:54,700 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:21:37,269 | INFO    | epoch   5/60 | train 0.7372 | val 0.9334 (ema 0.9342) | lr 9.68e-06 | best 0.9334@5 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 20:21:39,960 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:22:22,663 | INFO    | epoch   6/60 | train 0.7356 | val 0.9311 (ema 0.9304) | lr 9.52e-06 | best 0.9311@6 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 20:22:25,179 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:23:07,699 | INFO    | epoch   7/60 | train 0.8398 | val 0.9287 (ema 0.9276) | lr 9.36e-06 | best 0.9287@7 | wait 0/20 | 40s | peak 8.7 GiB
+2026-09-19 20:23:10,177 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:23:53,033 | INFO    | epoch   8/60 | train 0.8472 | val 0.9242 (ema 0.9253) | lr 9.20e-06 | best 0.9242@8 | wait 0/20 | 40s | peak 8.3 GiB
+2026-09-19 20:23:55,854 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:24:38,652 | INFO    | epoch   9/60 | train 0.8385 | val 0.9234 (ema 0.9224) | lr 9.04e-06 | best 0.9234@9 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 20:24:41,045 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:25:23,591 | INFO    | epoch  10/60 | train 0.8227 | val 0.9221 (ema 0.9209) | lr 8.88e-06 | best 0.9221@10 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 20:25:26,491 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:26:09,354 | INFO    | epoch  11/60 | train 0.8986 | val 0.9216 (ema 0.9201) | lr 8.73e-06 | best 0.9216@11 | wait 0/20 | 40s | peak 8.5 GiB
+2026-09-19 20:26:11,808 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:26:54,361 | INFO    | epoch  12/60 | train 0.7809 | val 0.9204 (ema 0.9191) | lr 8.57e-06 | best 0.9204@12 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 20:26:56,623 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:27:39,258 | INFO    | epoch  13/60 | train 0.7641 | val 0.9190 (ema 0.9178) | lr 8.41e-06 | best 0.9190@13 | wait 0/20 | 40s | peak 8.3 GiB
+2026-09-19 20:27:42,113 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:28:24,919 | INFO    | epoch  14/60 | train 0.9682 | val 0.9186 (ema 0.9170) | lr 8.25e-06 | best 0.9186@14 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 20:28:27,433 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:29:10,113 | INFO    | epoch  15/60 | train 0.8467 | val 0.9121 (ema 0.9148) | lr 8.09e-06 | best 0.9121@15 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 20:29:12,633 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:29:55,586 | INFO    | epoch  16/60 | train 0.7846 | val 0.9094 (ema 0.9115) | lr 7.93e-06 | best 0.9094@16 | wait 0/20 | 40s | peak 8.6 GiB
+2026-09-19 20:29:58,431 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:30:40,923 | INFO    | epoch  17/60 | train 0.8256 | val 0.9107 (ema 0.9095) | lr 7.77e-06 | best 0.9094@16 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-19 20:31:24,135 | INFO    | epoch  18/60 | train 0.8313 | val 0.9073 (ema 0.9081) | lr 7.61e-06 | best 0.9073@18 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 20:31:26,620 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:32:09,000 | INFO    | epoch  19/60 | train 0.8238 | val 0.9057 (ema 0.9063) | lr 7.45e-06 | best 0.9057@19 | wait 0/20 | 40s | peak 8.0 GiB
+2026-09-19 20:32:11,889 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:32:54,656 | INFO    | epoch  20/60 | train 0.7516 | val 0.9060 (ema 0.9053) | lr 7.29e-06 | best 0.9057@19 | wait 1/20 | 40s | peak 8.0 GiB
+2026-09-19 20:33:37,688 | INFO    | epoch  21/60 | train 0.6998 | val 0.9076 (ema 0.9049) | lr 7.13e-06 | best 0.9057@19 | wait 2/20 | 40s | peak 8.1 GiB
+2026-09-19 20:34:20,810 | INFO    | epoch  22/60 | train 0.8293 | val 0.9066 (ema 0.9046) | lr 6.97e-06 | best 0.9057@19 | wait 3/20 | 40s | peak 8.2 GiB
+2026-09-19 20:35:03,767 | INFO    | epoch  23/60 | train 0.7278 | val 0.9049 (ema 0.9040) | lr 6.81e-06 | best 0.9049@23 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 20:35:06,271 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:35:48,964 | INFO    | epoch  24/60 | train 0.7661 | val 0.9054 (ema 0.9036) | lr 6.65e-06 | best 0.9049@23 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-19 20:36:32,467 | INFO    | epoch  25/60 | train 0.7575 | val 0.9040 (ema 0.9034) | lr 6.49e-06 | best 0.9040@25 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 20:36:35,077 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:37:17,832 | INFO    | epoch  26/60 | train 0.8515 | val 0.9032 (ema 0.9027) | lr 6.33e-06 | best 0.9032@26 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 20:37:20,301 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:38:03,230 | INFO    | epoch  27/60 | train 0.7817 | val 0.9030 (ema 0.9017) | lr 6.17e-06 | best 0.9030@27 | wait 0/20 | 40s | peak 8.4 GiB
+2026-09-19 20:38:05,728 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:38:50,679 | INFO    | epoch  28/60 | train 0.7775 | val 0.9027 (ema 0.9013) | lr 6.01e-06 | best 0.9027@28 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 20:38:53,446 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:39:36,396 | INFO    | epoch  29/60 | train 0.8908 | val 0.9038 (ema 0.9014) | lr 5.85e-06 | best 0.9027@28 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-19 20:40:19,455 | INFO    | epoch  30/60 | train 0.7242 | val 0.9015 (ema 0.9012) | lr 5.69e-06 | best 0.9015@30 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 20:40:21,978 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:41:04,824 | INFO    | epoch  31/60 | train 0.8250 | val 0.9007 (ema 0.9003) | lr 5.53e-06 | best 0.9007@31 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 20:41:07,325 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:41:50,555 | INFO    | epoch  32/60 | train 0.7584 | val 0.9000 (ema 0.8999) | lr 5.37e-06 | best 0.9000@32 | wait 0/20 | 40s | peak 8.3 GiB
+2026-09-19 20:41:53,668 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:42:36,501 | INFO    | epoch  33/60 | train 0.8507 | val 0.9017 (ema 0.8999) | lr 5.21e-06 | best 0.9000@32 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-19 20:43:19,527 | INFO    | epoch  34/60 | train 0.7929 | val 0.9005 (ema 0.8998) | lr 5.05e-06 | best 0.9000@32 | wait 2/20 | 40s | peak 8.8 GiB
+2026-09-19 20:44:02,816 | INFO    | epoch  35/60 | train 0.7962 | val 0.8993 (ema 0.8993) | lr 4.90e-06 | best 0.8993@35 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 20:44:05,330 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:44:48,582 | INFO    | epoch  36/60 | train 0.8286 | val 0.8995 (ema 0.8988) | lr 4.74e-06 | best 0.8993@35 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-19 20:45:31,907 | INFO    | epoch  37/60 | train 0.7965 | val 0.8997 (ema 0.8987) | lr 4.58e-06 | best 0.8993@35 | wait 2/20 | 40s | peak 8.1 GiB
+2026-09-19 20:46:15,151 | INFO    | epoch  38/60 | train 0.7689 | val 0.8991 (ema 0.8986) | lr 4.42e-06 | best 0.8991@38 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 20:46:17,679 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:47:01,293 | INFO    | epoch  39/60 | train 0.8091 | val 0.8993 (ema 0.8982) | lr 4.26e-06 | best 0.8991@38 | wait 1/20 | 40s | peak 8.4 GiB
+2026-09-19 20:47:44,634 | INFO    | epoch  40/60 | train 0.7617 | val 0.8993 (ema 0.8983) | lr 4.10e-06 | best 0.8991@38 | wait 2/20 | 40s | peak 8.5 GiB
+2026-09-19 20:48:27,527 | INFO    | epoch  41/60 | train 0.8475 | val 0.8971 (ema 0.8979) | lr 3.94e-06 | best 0.8971@41 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-19 20:48:30,056 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:49:13,410 | INFO    | epoch  42/60 | train 0.7549 | val 0.8978 (ema 0.8973) | lr 3.78e-06 | best 0.8971@41 | wait 1/20 | 41s | peak 8.9 GiB
+2026-09-19 20:49:57,260 | INFO    | epoch  43/60 | train 0.8351 | val 0.8970 (ema 0.8970) | lr 3.62e-06 | best 0.8970@43 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-19 20:49:59,910 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:50:43,078 | INFO    | epoch  44/60 | train 0.7899 | val 0.8969 (ema 0.8965) | lr 3.46e-06 | best 0.8970@43 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-19 20:51:26,450 | INFO    | epoch  45/60 | train 0.7481 | val 0.8970 (ema 0.8962) | lr 3.31e-06 | best 0.8970@43 | wait 2/20 | 40s | peak 8.8 GiB
+2026-09-19 20:52:09,645 | INFO    | epoch  46/60 | train 0.7732 | val 0.8971 (ema 0.8963) | lr 3.15e-06 | best 0.8970@43 | wait 3/20 | 40s | peak 8.8 GiB
+2026-09-19 20:52:53,063 | INFO    | epoch  47/60 | train 0.8123 | val 0.8962 (ema 0.8963) | lr 2.99e-06 | best 0.8962@47 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-19 20:52:55,494 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:53:38,458 | INFO    | epoch  48/60 | train 0.7478 | val 0.8962 (ema 0.8959) | lr 2.83e-06 | best 0.8962@47 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-19 20:54:21,856 | INFO    | epoch  49/60 | train 0.8303 | val 0.8957 (ema 0.8957) | lr 2.67e-06 | best 0.8957@49 | wait 0/20 | 40s | peak 8.7 GiB
+2026-09-19 20:54:24,439 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:55:07,585 | INFO    | epoch  50/60 | train 0.7629 | val 0.8950 (ema 0.8953) | lr 2.51e-06 | best 0.8950@50 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 20:55:10,073 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:55:53,185 | INFO    | epoch  51/60 | train 0.7604 | val 0.8945 (ema 0.8950) | lr 2.35e-06 | best 0.8945@51 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 20:55:55,683 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:56:38,649 | INFO    | epoch  52/60 | train 0.8072 | val 0.8945 (ema 0.8946) | lr 2.19e-06 | best 0.8945@51 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-19 20:57:22,466 | INFO    | epoch  53/60 | train 0.8666 | val 0.8948 (ema 0.8945) | lr 2.03e-06 | best 0.8945@51 | wait 2/20 | 41s | peak 8.1 GiB
+2026-09-19 20:58:06,157 | INFO    | epoch  54/60 | train 0.8603 | val 0.8945 (ema 0.8944) | lr 1.87e-06 | best 0.8945@51 | wait 3/20 | 41s | peak 8.1 GiB
+2026-09-19 20:58:49,220 | INFO    | epoch  55/60 | train 0.8760 | val 0.8940 (ema 0.8941) | lr 1.71e-06 | best 0.8940@55 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 20:58:51,691 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 20:59:34,570 | INFO    | epoch  56/60 | train 0.7334 | val 0.8940 (ema 0.8940) | lr 1.55e-06 | best 0.8940@55 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-19 21:00:17,994 | INFO    | epoch  57/60 | train 0.8293 | val 0.8939 (ema 0.8938) | lr 1.39e-06 | best 0.8939@57 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 21:00:20,629 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 21:01:03,948 | INFO    | epoch  58/60 | train 0.7956 | val 0.8934 (ema 0.8936) | lr 1.24e-06 | best 0.8934@58 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-19 21:01:06,403 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 21:01:49,647 | INFO    | epoch  59/60 | train 0.7501 | val 0.8932 (ema 0.8934) | lr 1.08e-06 | best 0.8932@59 | wait 0/20 | 40s | peak 8.2 GiB
+2026-09-19 21:01:52,513 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 21:02:35,731 | INFO    | epoch  60/60 | train 0.7294 | val 0.8931 (ema 0.8932) | lr 1.00e-06 | best 0.8932@59 | wait 1/20 | 40s | peak 8.6 GiB
+2026-09-19 21:02:38,616 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 70 epochs
+2026-09-19 21:03:19,107 | INFO    | epoch  61/70 | train 0.7892 | val 0.8928 (ema 0.8931) | lr 1.00e-06 | best 0.8928@61 | wait 0/20 | 40s | peak 8.4 GiB
+2026-09-19 21:03:21,458 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 21:04:04,953 | INFO    | epoch  62/70 | train 0.8303 | val 0.8929 (ema 0.8929) | lr 1.00e-06 | best 0.8928@61 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-19 21:04:47,925 | INFO    | epoch  63/70 | train 0.8128 | val 0.8926 (ema 0.8929) | lr 1.00e-06 | best 0.8926@63 | wait 0/20 | 40s | peak 8.0 GiB
+2026-09-19 21:04:50,396 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 21:05:33,150 | INFO    | epoch  64/70 | train 0.7660 | val 0.8923 (ema 0.8927) | lr 1.00e-06 | best 0.8923@64 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 21:05:35,581 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 21:06:19,041 | INFO    | epoch  65/70 | train 0.8175 | val 0.8917 (ema 0.8924) | lr 1.00e-06 | best 0.8917@65 | wait 0/20 | 41s | peak 8.2 GiB
+2026-09-19 21:06:21,819 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 21:07:05,112 | INFO    | epoch  66/70 | train 0.7991 | val 0.8922 (ema 0.8922) | lr 1.00e-06 | best 0.8917@65 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-19 21:07:48,355 | INFO    | epoch  67/70 | train 0.7855 | val 0.8921 (ema 0.8922) | lr 1.00e-06 | best 0.8917@65 | wait 2/20 | 41s | peak 9.4 GiB
+2026-09-19 21:08:31,720 | INFO    | epoch  68/70 | train 0.8054 | val 0.8925 (ema 0.8922) | lr 1.00e-06 | best 0.8917@65 | wait 3/20 | 40s | peak 8.9 GiB
+2026-09-19 21:09:15,461 | INFO    | epoch  69/70 | train 0.7973 | val 0.8927 (ema 0.8923) | lr 1.00e-06 | best 0.8917@65 | wait 4/20 | 41s | peak 8.7 GiB
+2026-09-19 21:09:58,501 | INFO    | epoch  70/70 | train 0.7247 | val 0.8922 (ema 0.8923) | lr 1.00e-06 | best 0.8917@65 | wait 5/20 | 40s | peak 8.1 GiB
+2026-09-19 21:10:01,353 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 80 epochs
+2026-09-19 21:10:42,001 | INFO    | epoch  71/80 | train 0.7452 | val 0.8924 (ema 0.8923) | lr 1.00e-06 | best 0.8917@65 | wait 6/20 | 41s | peak 8.1 GiB
+2026-09-19 21:11:25,643 | INFO    | epoch  72/80 | train 0.7032 | val 0.8920 (ema 0.8922) | lr 1.00e-06 | best 0.8917@65 | wait 7/20 | 41s | peak 8.4 GiB
+2026-09-19 21:12:08,854 | INFO    | epoch  73/80 | train 0.7444 | val 0.8917 (ema 0.8920) | lr 1.00e-06 | best 0.8917@65 | wait 8/20 | 40s | peak 8.1 GiB
+2026-09-19 21:12:52,369 | INFO    | epoch  74/80 | train 0.7572 | val 0.8917 (ema 0.8918) | lr 1.00e-06 | best 0.8917@65 | wait 9/20 | 41s | peak 8.1 GiB
+2026-09-19 21:13:35,642 | INFO    | epoch  75/80 | train 0.7188 | val 0.8914 (ema 0.8917) | lr 1.00e-06 | best 0.8914@75 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 21:13:38,147 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 21:14:21,340 | INFO    | epoch  76/80 | train 0.7767 | val 0.8920 (ema 0.8916) | lr 1.00e-06 | best 0.8914@75 | wait 1/20 | 40s | peak 8.2 GiB
+2026-09-19 21:15:04,537 | INFO    | epoch  77/80 | train 0.8022 | val 0.8926 (ema 0.8917) | lr 1.00e-06 | best 0.8914@75 | wait 2/20 | 40s | peak 8.7 GiB
+2026-09-19 21:15:48,004 | INFO    | epoch  78/80 | train 0.7470 | val 0.8924 (ema 0.8920) | lr 1.00e-06 | best 0.8914@75 | wait 3/20 | 41s | peak 8.5 GiB
+2026-09-19 21:16:31,164 | INFO    | epoch  79/80 | train 0.8605 | val 0.8922 (ema 0.8922) | lr 1.00e-06 | best 0.8914@75 | wait 4/20 | 40s | peak 8.2 GiB
+2026-09-19 21:17:14,173 | INFO    | epoch  80/80 | train 0.8255 | val 0.8917 (ema 0.8920) | lr 1.00e-06 | best 0.8914@75 | wait 5/20 | 40s | peak 8.1 GiB
+2026-09-19 21:17:17,115 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 90 epochs
+2026-09-19 21:17:56,986 | INFO    | epoch  81/90 | train 0.7434 | val 0.8914 (ema 0.8917) | lr 1.00e-06 | best 0.8914@75 | wait 6/20 | 40s | peak 8.1 GiB
+2026-09-19 21:18:40,286 | INFO    | epoch  82/90 | train 0.8589 | val 0.8907 (ema 0.8913) | lr 1.00e-06 | best 0.8907@82 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-19 21:18:42,824 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 21:19:25,958 | INFO    | epoch  83/90 | train 0.7328 | val 0.8907 (ema 0.8911) | lr 1.00e-06 | best 0.8907@82 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-19 21:20:09,504 | INFO    | epoch  84/90 | train 0.7944 | val 0.8908 (ema 0.8909) | lr 1.00e-06 | best 0.8907@82 | wait 2/20 | 40s | peak 8.2 GiB
+2026-09-19 21:20:53,386 | INFO    | epoch  85/90 | train 0.7729 | val 0.8912 (ema 0.8907) | lr 1.00e-06 | best 0.8907@82 | wait 3/20 | 41s | peak 8.1 GiB
+2026-09-19 21:21:36,720 | INFO    | epoch  86/90 | train 0.7869 | val 0.8914 (ema 0.8909) | lr 1.00e-06 | best 0.8907@82 | wait 4/20 | 40s | peak 8.8 GiB
+2026-09-19 21:22:20,089 | INFO    | epoch  87/90 | train 0.7964 | val 0.8911 (ema 0.8910) | lr 1.00e-06 | best 0.8907@82 | wait 5/20 | 41s | peak 9.2 GiB
+2026-09-19 21:23:03,143 | INFO    | epoch  88/90 | train 0.7586 | val 0.8910 (ema 0.8910) | lr 1.00e-06 | best 0.8907@82 | wait 6/20 | 40s | peak 8.1 GiB
+2026-09-19 21:23:46,846 | INFO    | epoch  89/90 | train 0.7443 | val 0.8904 (ema 0.8909) | lr 1.00e-06 | best 0.8904@89 | wait 0/20 | 41s | peak 8.9 GiB
+2026-09-19 21:23:49,356 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 21:24:32,811 | INFO    | epoch  90/90 | train 0.7512 | val 0.8902 (ema 0.8906) | lr 1.00e-06 | best 0.8902@90 | wait 0/20 | 41s | peak 9.1 GiB
+2026-09-19 21:24:35,633 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-19 21:24:38,527 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 100 epochs
+2026-09-19 21:25:18,928 | INFO    | epoch  91/100 | train 0.7992 | val 0.8901 (ema 0.8904) | lr 1.00e-06 | best 0.8902@90 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-19 21:26:02,238 | INFO    | epoch  92/100 | train 0.7838 | val 0.8902 (ema 0.8902) | lr 1.00e-06 | best 0.8902@90 | wait 2/20 | 40s | peak 8.1 GiB
+2026-09-19 21:26:45,285 | INFO    | epoch  93/100 | train 0.8160 | val 0.8902 (ema 0.8900) | lr 1.00e-06 | best 0.8902@90 | wait 3/20 | 40s | peak 8.2 GiB
+2026-09-19 21:27:28,551 | INFO    | epoch  94/100 | train 0.8859 | val 0.8903 (ema 0.8901) | lr 1.00e-06 | best 0.8902@90 | wait 4/20 | 40s | peak 8.1 GiB
+2026-09-19 21:28:11,528 | INFO    | epoch  95/100 | train 0.7295 | val 0.8905 (ema 0.8901) | lr 1.00e-06 | best 0.8902@90 | wait 5/20 | 40s | peak 8.1 GiB
+2026-09-19 21:28:54,983 | INFO    | epoch  96/100 | train 0.7021 | val 0.8908 (ema 0.8903) | lr 1.00e-06 | best 0.8902@90 | wait 6/20 | 41s | peak 8.1 GiB
+2026-09-19 21:29:37,898 | INFO    | epoch  97/100 | train 0.7806 | val 0.8905 (ema 0.8904) | lr 1.00e-06 | best 0.8902@90 | wait 7/20 | 40s | peak 8.8 GiB
+2026-09-19 21:30:21,126 | INFO    | epoch  98/100 | train 0.6982 | val 0.8907 (ema 0.8903) | lr 1.00e-06 | best 0.8902@90 | wait 8/20 | 40s | peak 8.8 GiB
+2026-09-19 21:31:04,418 | INFO    | epoch  99/100 | train 0.7194 | val 0.8905 (ema 0.8904) | lr 1.00e-06 | best 0.8902@90 | wait 9/20 | 40s | peak 8.1 GiB
+2026-09-19 21:31:48,051 | INFO    | epoch 100/100 | train 0.7789 | val 0.8905 (ema 0.8904) | lr 1.00e-06 | best 0.8902@90 | wait 10/20 | 40s | peak 8.2 GiB
+2026-09-19 21:31:50,940 | INFO    | Training finished (reached planned epochs). best val 0.8902 at epoch 90. best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt | last -> /home/farig/Rezuwan_TTS/checkpoints/last_model.pt | metrics -> /home/farig/Rezuwan_TTS/logs/training_metrics.csv / /home/farig/Rezuwan_TTS/logs/training_metrics.xlsx | curves -> /home/farig/Rezuwan_TTS/logs/training_convergence.png | log -> /home/farig/Rezuwan_TTS/logs/finetune_tts.log
+2026-09-20 13:06:36,975 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.07 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-20 13:06:41,493 | INFO    | All transcript characters are covered by the pretrained vocabulary
+2026-09-20 13:06:41,510 | INFO    | train: 169 clips (67.1 min) | valid: 21 clips (8.1 min)
+2026-09-20 13:06:41,511 | INFO    | 46 micro-batches/epoch (<= 4 clips, <= 150 s each)
+2026-09-20 13:06:43,573 | INFO    | Loading pretrained weights: /home/farig/.cache/huggingface/hub/models--SWivid--F5-TTS/snapshots/84e5a410d9cead4de2f847e7c9369a6440bdfaca/F5TTS_Base/model_1200000.pt
+2026-09-20 13:06:44,348 | INFO    | F5TTS_Base: 337.1 M parameters | activation checkpointing=True | mixed precision=fp16
+2026-09-20 13:06:44,390 | INFO    | updates/epoch=46 planned updates=2760 warm-up=138 (effective batch = 4 x 1 = 4 clips)
+2026-09-20 13:07:24,191 | INFO    | epoch   1/60 | train 0.9897 | val 0.9808 (ema 0.9870) | lr 3.41e-06 | best 0.9808@1 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 13:07:26,382 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:08:08,025 | INFO    | epoch   2/60 | train 0.8385 | val 0.9584 (ema 0.9633) | lr 6.81e-06 | best 0.9584@2 | wait 0/20 | 39s | peak 8.4 GiB
+2026-09-20 13:08:10,478 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:08:52,726 | INFO    | epoch   3/60 | train 0.8519 | val 0.9441 (ema 0.9496) | lr 9.99e-06 | best 0.9441@3 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-20 13:08:55,198 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:09:37,800 | INFO    | epoch   4/60 | train 0.7564 | val 0.9381 (ema 0.9402) | lr 9.84e-06 | best 0.9381@4 | wait 0/20 | 40s | peak 8.2 GiB
+2026-09-20 13:09:40,644 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:10:23,083 | INFO    | epoch   5/60 | train 0.7374 | val 0.9332 (ema 0.9342) | lr 9.68e-06 | best 0.9332@5 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-20 13:10:25,517 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:11:07,860 | INFO    | epoch   6/60 | train 0.7358 | val 0.9290 (ema 0.9295) | lr 9.52e-06 | best 0.9290@6 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 13:11:10,695 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:11:53,368 | INFO    | epoch   7/60 | train 0.8387 | val 0.9275 (ema 0.9267) | lr 9.36e-06 | best 0.9275@7 | wait 0/20 | 40s | peak 8.7 GiB
+2026-09-20 13:11:55,833 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:12:38,653 | INFO    | epoch   8/60 | train 0.8447 | val 0.9232 (ema 0.9246) | lr 9.20e-06 | best 0.9232@8 | wait 0/20 | 40s | peak 8.3 GiB
+2026-09-20 13:12:41,521 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:13:24,204 | INFO    | epoch   9/60 | train 0.8377 | val 0.9213 (ema 0.9212) | lr 9.04e-06 | best 0.9213@9 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-20 13:13:26,633 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:14:08,980 | INFO    | epoch  10/60 | train 0.8244 | val 0.9195 (ema 0.9188) | lr 8.88e-06 | best 0.9195@10 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 13:14:11,822 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:14:54,630 | INFO    | epoch  11/60 | train 0.8983 | val 0.9189 (ema 0.9176) | lr 8.73e-06 | best 0.9189@11 | wait 0/20 | 40s | peak 8.5 GiB
+2026-09-20 13:14:57,095 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:15:39,625 | INFO    | epoch  12/60 | train 0.7809 | val 0.9171 (ema 0.9162) | lr 8.57e-06 | best 0.9171@12 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 13:15:42,446 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:16:25,047 | INFO    | epoch  13/60 | train 0.7629 | val 0.9166 (ema 0.9151) | lr 8.41e-06 | best 0.9166@13 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 13:16:27,566 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:17:10,430 | INFO    | epoch  14/60 | train 0.9679 | val 0.9168 (ema 0.9145) | lr 8.25e-06 | best 0.9166@13 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-20 13:17:53,730 | INFO    | epoch  15/60 | train 0.8452 | val 0.9111 (ema 0.9129) | lr 8.09e-06 | best 0.9111@15 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 13:17:56,332 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:18:38,868 | INFO    | epoch  16/60 | train 0.7853 | val 0.9084 (ema 0.9100) | lr 7.93e-06 | best 0.9084@16 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 13:18:41,312 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:19:23,774 | INFO    | epoch  17/60 | train 0.8258 | val 0.9099 (ema 0.9084) | lr 7.77e-06 | best 0.9084@16 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-20 13:20:07,245 | INFO    | epoch  18/60 | train 0.8297 | val 0.9083 (ema 0.9071) | lr 7.61e-06 | best 0.9084@16 | wait 2/20 | 40s | peak 8.1 GiB
+2026-09-20 13:20:49,764 | INFO    | epoch  19/60 | train 0.8231 | val 0.9062 (ema 0.9062) | lr 7.45e-06 | best 0.9062@19 | wait 0/20 | 40s | peak 8.0 GiB
+2026-09-20 13:20:52,287 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:21:35,209 | INFO    | epoch  20/60 | train 0.7503 | val 0.9063 (ema 0.9052) | lr 7.29e-06 | best 0.9062@19 | wait 1/20 | 40s | peak 8.0 GiB
+2026-09-20 13:22:18,605 | INFO    | epoch  21/60 | train 0.6998 | val 0.9073 (ema 0.9051) | lr 7.13e-06 | best 0.9062@19 | wait 2/20 | 40s | peak 8.1 GiB
+2026-09-20 13:23:01,730 | INFO    | epoch  22/60 | train 0.8297 | val 0.9060 (ema 0.9047) | lr 6.97e-06 | best 0.9060@22 | wait 0/20 | 40s | peak 8.2 GiB
+2026-09-20 13:23:04,244 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:23:47,051 | INFO    | epoch  23/60 | train 0.7273 | val 0.9053 (ema 0.9038) | lr 6.81e-06 | best 0.9053@23 | wait 0/20 | 40s | peak 8.6 GiB
+2026-09-20 13:23:49,877 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:24:32,859 | INFO    | epoch  24/60 | train 0.7650 | val 0.9065 (ema 0.9038) | lr 6.65e-06 | best 0.9053@23 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-20 13:25:15,741 | INFO    | epoch  25/60 | train 0.7580 | val 0.9043 (ema 0.9037) | lr 6.49e-06 | best 0.9043@25 | wait 0/20 | 40s | peak 9.1 GiB
+2026-09-20 13:25:18,245 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:26:01,067 | INFO    | epoch  26/60 | train 0.8508 | val 0.9038 (ema 0.9029) | lr 6.33e-06 | best 0.9038@26 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-20 13:26:03,932 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:26:47,043 | INFO    | epoch  27/60 | train 0.7809 | val 0.9032 (ema 0.9025) | lr 6.17e-06 | best 0.9032@27 | wait 0/20 | 40s | peak 9.1 GiB
+2026-09-20 13:26:49,538 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:27:32,655 | INFO    | epoch  28/60 | train 0.7772 | val 0.9027 (ema 0.9019) | lr 6.01e-06 | best 0.9027@28 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-20 13:27:35,506 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:28:18,345 | INFO    | epoch  29/60 | train 0.8890 | val 0.9036 (ema 0.9016) | lr 5.85e-06 | best 0.9027@28 | wait 1/20 | 40s | peak 9.2 GiB
+2026-09-20 13:29:01,556 | INFO    | epoch  30/60 | train 0.7237 | val 0.9018 (ema 0.9012) | lr 5.69e-06 | best 0.9018@30 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 13:29:04,017 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:29:46,942 | INFO    | epoch  31/60 | train 0.8264 | val 0.9013 (ema 0.9007) | lr 5.53e-06 | best 0.9013@31 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 13:29:49,788 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:30:33,233 | INFO    | epoch  32/60 | train 0.7600 | val 0.9014 (ema 0.9005) | lr 5.37e-06 | best 0.9013@31 | wait 1/20 | 40s | peak 8.3 GiB
+2026-09-20 13:31:16,030 | INFO    | epoch  33/60 | train 0.8499 | val 0.9022 (ema 0.9006) | lr 5.21e-06 | best 0.9013@31 | wait 2/20 | 40s | peak 8.1 GiB
+2026-09-20 13:31:59,135 | INFO    | epoch  34/60 | train 0.7926 | val 0.8999 (ema 0.9000) | lr 5.05e-06 | best 0.8999@34 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-20 13:32:01,617 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:32:44,989 | INFO    | epoch  35/60 | train 0.7952 | val 0.8990 (ema 0.8994) | lr 4.90e-06 | best 0.8990@35 | wait 0/20 | 40s | peak 8.2 GiB
+2026-09-20 13:32:47,749 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:33:30,638 | INFO    | epoch  36/60 | train 0.8287 | val 0.8988 (ema 0.8988) | lr 4.74e-06 | best 0.8988@36 | wait 0/20 | 40s | peak 8.5 GiB
+2026-09-20 13:33:33,104 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:34:15,742 | INFO    | epoch  37/60 | train 0.7962 | val 0.8989 (ema 0.8985) | lr 4.58e-06 | best 0.8988@36 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-20 13:34:58,742 | INFO    | epoch  38/60 | train 0.7690 | val 0.8986 (ema 0.8983) | lr 4.42e-06 | best 0.8986@38 | wait 0/20 | 40s | peak 8.5 GiB
+2026-09-20 13:35:01,227 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:35:44,546 | INFO    | epoch  39/60 | train 0.8090 | val 0.8989 (ema 0.8980) | lr 4.26e-06 | best 0.8986@38 | wait 1/20 | 40s | peak 8.4 GiB
+2026-09-20 13:36:27,920 | INFO    | epoch  40/60 | train 0.7619 | val 0.8989 (ema 0.8979) | lr 4.10e-06 | best 0.8986@38 | wait 2/20 | 40s | peak 8.1 GiB
+2026-09-20 13:37:10,910 | INFO    | epoch  41/60 | train 0.8464 | val 0.8973 (ema 0.8974) | lr 3.94e-06 | best 0.8973@41 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 13:37:13,406 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:37:56,376 | INFO    | epoch  42/60 | train 0.7540 | val 0.8973 (ema 0.8970) | lr 3.78e-06 | best 0.8973@41 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-20 13:38:39,797 | INFO    | epoch  43/60 | train 0.8353 | val 0.8967 (ema 0.8967) | lr 3.62e-06 | best 0.8967@43 | wait 0/20 | 40s | peak 8.7 GiB
+2026-09-20 13:38:42,452 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:39:25,278 | INFO    | epoch  44/60 | train 0.7902 | val 0.8970 (ema 0.8964) | lr 3.46e-06 | best 0.8967@43 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-20 13:40:08,487 | INFO    | epoch  45/60 | train 0.7481 | val 0.8978 (ema 0.8964) | lr 3.31e-06 | best 0.8967@43 | wait 2/20 | 40s | peak 8.1 GiB
+2026-09-20 13:40:51,700 | INFO    | epoch  46/60 | train 0.7731 | val 0.8975 (ema 0.8966) | lr 3.15e-06 | best 0.8967@43 | wait 3/20 | 40s | peak 8.1 GiB
+2026-09-20 13:41:35,041 | INFO    | epoch  47/60 | train 0.8130 | val 0.8969 (ema 0.8967) | lr 2.99e-06 | best 0.8967@43 | wait 4/20 | 40s | peak 8.3 GiB
+2026-09-20 13:42:18,195 | INFO    | epoch  48/60 | train 0.7482 | val 0.8967 (ema 0.8964) | lr 2.83e-06 | best 0.8967@43 | wait 5/20 | 40s | peak 8.1 GiB
+2026-09-20 13:43:01,192 | INFO    | epoch  49/60 | train 0.8306 | val 0.8961 (ema 0.8963) | lr 2.67e-06 | best 0.8961@49 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 13:43:03,686 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:43:46,686 | INFO    | epoch  50/60 | train 0.7629 | val 0.8957 (ema 0.8961) | lr 2.51e-06 | best 0.8957@50 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 13:43:49,167 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:44:32,317 | INFO    | epoch  51/60 | train 0.7605 | val 0.8952 (ema 0.8958) | lr 2.35e-06 | best 0.8952@51 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 13:44:35,165 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:45:18,185 | INFO    | epoch  52/60 | train 0.8079 | val 0.8951 (ema 0.8954) | lr 2.19e-06 | best 0.8952@51 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-20 13:46:01,221 | INFO    | epoch  53/60 | train 0.8712 | val 0.8946 (ema 0.8949) | lr 2.03e-06 | best 0.8946@53 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-20 13:46:03,739 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:46:46,903 | INFO    | epoch  54/60 | train 0.8588 | val 0.8949 (ema 0.8946) | lr 1.87e-06 | best 0.8946@53 | wait 1/20 | 40s | peak 9.4 GiB
+2026-09-20 13:47:29,953 | INFO    | epoch  55/60 | train 0.8750 | val 0.8943 (ema 0.8945) | lr 1.71e-06 | best 0.8943@55 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 13:47:32,453 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:48:15,515 | INFO    | epoch  56/60 | train 0.7331 | val 0.8944 (ema 0.8945) | lr 1.55e-06 | best 0.8943@55 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-20 13:48:58,516 | INFO    | epoch  57/60 | train 0.8296 | val 0.8943 (ema 0.8943) | lr 1.39e-06 | best 0.8943@55 | wait 2/20 | 40s | peak 8.8 GiB
+2026-09-20 13:49:41,936 | INFO    | epoch  58/60 | train 0.7948 | val 0.8939 (ema 0.8942) | lr 1.24e-06 | best 0.8939@58 | wait 0/20 | 40s | peak 8.5 GiB
+2026-09-20 13:49:44,387 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:50:27,367 | INFO    | epoch  59/60 | train 0.7500 | val 0.8936 (ema 0.8939) | lr 1.08e-06 | best 0.8936@59 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-20 13:50:30,240 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:51:13,518 | INFO    | epoch  60/60 | train 0.7299 | val 0.8938 (ema 0.8937) | lr 1.00e-06 | best 0.8936@59 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-20 13:51:16,419 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 70 epochs
+2026-09-20 13:51:57,121 | INFO    | epoch  61/70 | train 0.7885 | val 0.8938 (ema 0.8937) | lr 1.00e-06 | best 0.8936@59 | wait 2/20 | 41s | peak 8.4 GiB
+2026-09-20 13:52:40,591 | INFO    | epoch  62/70 | train 0.8292 | val 0.8934 (ema 0.8936) | lr 1.00e-06 | best 0.8934@62 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-20 13:52:43,099 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:53:25,728 | INFO    | epoch  63/70 | train 0.8134 | val 0.8931 (ema 0.8934) | lr 1.00e-06 | best 0.8931@63 | wait 0/20 | 40s | peak 8.0 GiB
+2026-09-20 13:53:28,559 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:54:11,516 | INFO    | epoch  64/70 | train 0.7660 | val 0.8932 (ema 0.8932) | lr 1.00e-06 | best 0.8931@63 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-20 13:54:54,905 | INFO    | epoch  65/70 | train 0.8180 | val 0.8926 (ema 0.8930) | lr 1.00e-06 | best 0.8926@65 | wait 0/20 | 40s | peak 8.2 GiB
+2026-09-20 13:54:57,395 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 13:55:40,231 | INFO    | epoch  66/70 | train 0.7998 | val 0.8928 (ema 0.8929) | lr 1.00e-06 | best 0.8926@65 | wait 1/20 | 40s | peak 8.8 GiB
+2026-09-20 13:56:23,053 | INFO    | epoch  67/70 | train 0.7869 | val 0.8930 (ema 0.8928) | lr 1.00e-06 | best 0.8926@65 | wait 2/20 | 40s | peak 8.8 GiB
+2026-09-20 13:57:06,387 | INFO    | epoch  68/70 | train 0.8047 | val 0.8931 (ema 0.8928) | lr 1.00e-06 | best 0.8926@65 | wait 3/20 | 40s | peak 8.3 GiB
+2026-09-20 13:57:49,979 | INFO    | epoch  69/70 | train 0.7980 | val 0.8933 (ema 0.8929) | lr 1.00e-06 | best 0.8926@65 | wait 4/20 | 41s | peak 8.1 GiB
+2026-09-20 13:58:32,969 | INFO    | epoch  70/70 | train 0.7245 | val 0.8929 (ema 0.8929) | lr 1.00e-06 | best 0.8926@65 | wait 5/20 | 40s | peak 8.1 GiB
+2026-09-20 13:58:35,865 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 80 epochs
+2026-09-20 13:59:16,293 | INFO    | epoch  71/80 | train 0.7459 | val 0.8930 (ema 0.8929) | lr 1.00e-06 | best 0.8926@65 | wait 6/20 | 40s | peak 8.1 GiB
+2026-09-20 14:00:00,013 | INFO    | epoch  72/80 | train 0.7033 | val 0.8929 (ema 0.8929) | lr 1.00e-06 | best 0.8926@65 | wait 7/20 | 41s | peak 8.4 GiB
+2026-09-20 14:00:43,044 | INFO    | epoch  73/80 | train 0.7448 | val 0.8927 (ema 0.8928) | lr 1.00e-06 | best 0.8926@65 | wait 8/20 | 40s | peak 8.8 GiB
+2026-09-20 14:01:26,278 | INFO    | epoch  74/80 | train 0.7571 | val 0.8927 (ema 0.8928) | lr 1.00e-06 | best 0.8926@65 | wait 9/20 | 40s | peak 8.8 GiB
+2026-09-20 14:02:09,469 | INFO    | epoch  75/80 | train 0.7187 | val 0.8924 (ema 0.8926) | lr 1.00e-06 | best 0.8924@75 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 14:02:11,933 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 14:02:54,967 | INFO    | epoch  76/80 | train 0.7777 | val 0.8927 (ema 0.8925) | lr 1.00e-06 | best 0.8924@75 | wait 1/20 | 40s | peak 8.2 GiB
+2026-09-20 14:03:38,211 | INFO    | epoch  77/80 | train 0.8022 | val 0.8932 (ema 0.8926) | lr 1.00e-06 | best 0.8924@75 | wait 2/20 | 40s | peak 8.0 GiB
+2026-09-20 14:04:21,754 | INFO    | epoch  78/80 | train 0.7468 | val 0.8928 (ema 0.8927) | lr 1.00e-06 | best 0.8924@75 | wait 3/20 | 41s | peak 8.2 GiB
+2026-09-20 14:05:04,766 | INFO    | epoch  79/80 | train 0.8599 | val 0.8926 (ema 0.8926) | lr 1.00e-06 | best 0.8924@75 | wait 4/20 | 40s | peak 8.2 GiB
+2026-09-20 14:05:47,888 | INFO    | epoch  80/80 | train 0.8252 | val 0.8923 (ema 0.8925) | lr 1.00e-06 | best 0.8924@75 | wait 5/20 | 40s | peak 8.1 GiB
+2026-09-20 14:05:50,774 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 90 epochs
+2026-09-20 14:06:30,774 | INFO    | epoch  81/90 | train 0.7430 | val 0.8919 (ema 0.8923) | lr 1.00e-06 | best 0.8919@81 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-20 14:06:33,242 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 14:07:16,273 | INFO    | epoch  82/90 | train 0.8623 | val 0.8915 (ema 0.8919) | lr 1.00e-06 | best 0.8915@82 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-20 14:07:19,129 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 14:08:02,034 | INFO    | epoch  83/90 | train 0.7325 | val 0.8915 (ema 0.8917) | lr 1.00e-06 | best 0.8915@82 | wait 1/20 | 40s | peak 8.7 GiB
+2026-09-20 14:08:44,950 | INFO    | epoch  84/90 | train 0.7940 | val 0.8915 (ema 0.8915) | lr 1.00e-06 | best 0.8915@82 | wait 2/20 | 40s | peak 8.8 GiB
+2026-09-20 14:09:28,305 | INFO    | epoch  85/90 | train 0.7729 | val 0.8917 (ema 0.8915) | lr 1.00e-06 | best 0.8915@82 | wait 3/20 | 40s | peak 8.5 GiB
+2026-09-20 14:10:11,648 | INFO    | epoch  86/90 | train 0.7877 | val 0.8921 (ema 0.8916) | lr 1.00e-06 | best 0.8915@82 | wait 4/20 | 40s | peak 8.1 GiB
+2026-09-20 14:10:54,876 | INFO    | epoch  87/90 | train 0.7966 | val 0.8915 (ema 0.8916) | lr 1.00e-06 | best 0.8915@82 | wait 5/20 | 40s | peak 8.1 GiB
+2026-09-20 14:11:37,866 | INFO    | epoch  88/90 | train 0.7586 | val 0.8914 (ema 0.8915) | lr 1.00e-06 | best 0.8915@82 | wait 6/20 | 40s | peak 8.1 GiB
+2026-09-20 14:12:21,375 | INFO    | epoch  89/90 | train 0.7443 | val 0.8910 (ema 0.8913) | lr 1.00e-06 | best 0.8910@89 | wait 0/20 | 41s | peak 8.3 GiB
+2026-09-20 14:12:23,855 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 14:13:06,916 | INFO    | epoch  90/90 | train 0.7508 | val 0.8907 (ema 0.8910) | lr 1.00e-06 | best 0.8907@90 | wait 0/20 | 40s | peak 8.4 GiB
+2026-09-20 14:13:09,768 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 14:13:12,911 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 100 epochs
+2026-09-20 14:13:53,076 | INFO    | epoch  91/100 | train 0.7996 | val 0.8905 (ema 0.8908) | lr 1.00e-06 | best 0.8905@91 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-20 14:13:55,587 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-20 14:14:38,587 | INFO    | epoch  92/100 | train 0.7836 | val 0.8908 (ema 0.8906) | lr 1.00e-06 | best 0.8905@91 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-20 14:15:21,594 | INFO    | epoch  93/100 | train 0.8162 | val 0.8910 (ema 0.8906) | lr 1.00e-06 | best 0.8905@91 | wait 2/20 | 40s | peak 8.2 GiB
+2026-09-20 14:16:04,659 | INFO    | epoch  94/100 | train 0.8847 | val 0.8909 (ema 0.8907) | lr 1.00e-06 | best 0.8905@91 | wait 3/20 | 40s | peak 8.1 GiB
+2026-09-20 14:16:47,436 | INFO    | epoch  95/100 | train 0.7294 | val 0.8910 (ema 0.8907) | lr 1.00e-06 | best 0.8905@91 | wait 4/20 | 40s | peak 8.1 GiB
+2026-09-20 14:17:30,681 | INFO    | epoch  96/100 | train 0.7016 | val 0.8912 (ema 0.8908) | lr 1.00e-06 | best 0.8905@91 | wait 5/20 | 40s | peak 8.1 GiB
+2026-09-20 14:18:13,361 | INFO    | epoch  97/100 | train 0.7801 | val 0.8913 (ema 0.8909) | lr 1.00e-06 | best 0.8905@91 | wait 6/20 | 40s | peak 8.1 GiB
+2026-09-20 14:18:56,325 | INFO    | epoch  98/100 | train 0.6979 | val 0.8914 (ema 0.8910) | lr 1.00e-06 | best 0.8905@91 | wait 7/20 | 40s | peak 8.1 GiB
+2026-09-20 14:19:39,383 | INFO    | epoch  99/100 | train 0.7189 | val 0.8911 (ema 0.8910) | lr 1.00e-06 | best 0.8905@91 | wait 8/20 | 40s | peak 8.1 GiB
+2026-09-20 14:20:22,719 | INFO    | epoch 100/100 | train 0.7787 | val 0.8913 (ema 0.8910) | lr 1.00e-06 | best 0.8905@91 | wait 9/20 | 40s | peak 8.2 GiB
+2026-09-20 14:20:25,516 | INFO    | Training finished (reached planned epochs). best val 0.8905 at epoch 91. best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt | last -> /home/farig/Rezuwan_TTS/checkpoints/last_model.pt | metrics -> /home/farig/Rezuwan_TTS/logs/training_metrics.csv / /home/farig/Rezuwan_TTS/logs/training_metrics.xlsx | curves -> /home/farig/Rezuwan_TTS/logs/training_convergence.png | log -> /home/farig/Rezuwan_TTS/logs/finetune_tts.log
+2026-09-21 04:48:19,378 | INFO    | cleanup | === disk before: 175 GB free ===
+2026-09-21 04:48:19,378 | INFO    | cleanup | --- candidates ---
+2026-09-21 04:48:19,378 | INFO    | cleanup |        0.2 MB  ./scripts/__pycache__
+2026-09-21 04:48:19,378 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-21 04:48:19,378 | INFO    | cleanup | === disk after: 175 GB free (reclaimed 0.00 GB) ===
+2026-09-21 04:48:19,378 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-21 04:48:19,378 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-21 04:48:19,699 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.98 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 04:48:24,519 | INFO    | All transcript characters are covered by the pretrained vocabulary
+2026-09-21 04:48:24,527 | INFO    | train: 169 clips (67.1 min) | valid: 21 clips (8.1 min)
+2026-09-21 04:48:24,527 | INFO    | 46 micro-batches/epoch (<= 4 clips, <= 150 s each)
+2026-09-21 04:48:26,751 | INFO    | Loading pretrained weights: /home/farig/.cache/huggingface/hub/models--SWivid--F5-TTS/snapshots/84e5a410d9cead4de2f847e7c9369a6440bdfaca/F5TTS_Base/model_1200000.pt
+2026-09-21 04:48:27,103 | INFO    | F5TTS_Base: 337.1 M parameters | activation checkpointing=True | mixed precision=fp16
+2026-09-21 04:48:27,149 | INFO    | updates/epoch=46 planned updates=2760 warm-up=138 (effective batch = 4 x 1 = 4 clips)
+2026-09-21 04:49:06,780 | INFO    | epoch   1/60 | train 0.9897 | val 0.9809 (ema 0.9871) | lr 3.41e-06 | best 0.9809@1 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-21 04:49:08,458 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 04:49:50,241 | INFO    | epoch   2/60 | train 0.8385 | val 0.9579 (ema 0.9632) | lr 6.81e-06 | best 0.9579@2 | wait 0/20 | 40s | peak 8.4 GiB
+2026-09-21 04:49:52,712 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 04:50:35,734 | INFO    | epoch   3/60 | train 0.8519 | val 0.9444 (ema 0.9493) | lr 9.99e-06 | best 0.9444@3 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-21 04:50:38,469 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 04:51:22,374 | INFO    | epoch   4/60 | train 0.7563 | val 0.9376 (ema 0.9406) | lr 9.84e-06 | best 0.9376@4 | wait 0/20 | 41s | peak 8.2 GiB
+2026-09-21 04:51:24,950 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 04:52:08,366 | INFO    | epoch   5/60 | train 0.7372 | val 0.9339 (ema 0.9341) | lr 9.68e-06 | best 0.9339@5 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-21 04:52:10,893 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 04:52:54,190 | INFO    | epoch   6/60 | train 0.7362 | val 0.9293 (ema 0.9299) | lr 9.52e-06 | best 0.9293@6 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 04:52:56,744 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 04:53:40,256 | INFO    | epoch   7/60 | train 0.8398 | val 0.9294 (ema 0.9275) | lr 9.36e-06 | best 0.9293@6 | wait 1/20 | 41s | peak 8.7 GiB
+2026-09-21 04:54:24,393 | INFO    | epoch   8/60 | train 0.8445 | val 0.9246 (ema 0.9255) | lr 9.20e-06 | best 0.9246@8 | wait 0/20 | 41s | peak 8.3 GiB
+2026-09-21 04:54:26,941 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 04:55:10,497 | INFO    | epoch   9/60 | train 0.8379 | val 0.9246 (ema 0.9231) | lr 9.04e-06 | best 0.9246@8 | wait 1/20 | 41s | peak 8.1 GiB
+2026-09-21 04:55:54,055 | INFO    | epoch  10/60 | train 0.8234 | val 0.9226 (ema 0.9218) | lr 8.88e-06 | best 0.9226@10 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 04:55:56,577 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 04:56:39,981 | INFO    | epoch  11/60 | train 0.8984 | val 0.9212 (ema 0.9202) | lr 8.73e-06 | best 0.9212@11 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 04:56:42,493 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 04:57:25,953 | INFO    | epoch  12/60 | train 0.7809 | val 0.9195 (ema 0.9190) | lr 8.57e-06 | best 0.9195@12 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-21 04:57:28,314 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 04:58:11,693 | INFO    | epoch  13/60 | train 0.7644 | val 0.9178 (ema 0.9176) | lr 8.41e-06 | best 0.9178@13 | wait 0/20 | 41s | peak 8.3 GiB
+2026-09-21 04:58:14,252 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 04:58:57,905 | INFO    | epoch  14/60 | train 0.9657 | val 0.9193 (ema 0.9168) | lr 8.25e-06 | best 0.9178@13 | wait 1/20 | 41s | peak 8.8 GiB
+2026-09-21 04:59:41,931 | INFO    | epoch  15/60 | train 0.8468 | val 0.9133 (ema 0.9153) | lr 8.09e-06 | best 0.9133@15 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 04:59:44,501 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:00:28,303 | INFO    | epoch  16/60 | train 0.7851 | val 0.9094 (ema 0.9121) | lr 7.93e-06 | best 0.9094@16 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 05:00:30,822 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:01:14,411 | INFO    | epoch  17/60 | train 0.8260 | val 0.9116 (ema 0.9101) | lr 7.77e-06 | best 0.9094@16 | wait 1/20 | 41s | peak 8.8 GiB
+2026-09-21 05:01:58,863 | INFO    | epoch  18/60 | train 0.8308 | val 0.9093 (ema 0.9087) | lr 7.61e-06 | best 0.9093@18 | wait 0/20 | 42s | peak 8.8 GiB
+2026-09-21 05:02:01,377 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:02:44,837 | INFO    | epoch  19/60 | train 0.8239 | val 0.9069 (ema 0.9070) | lr 7.45e-06 | best 0.9069@19 | wait 0/20 | 41s | peak 8.0 GiB
+2026-09-21 05:02:47,768 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:03:31,899 | INFO    | epoch  20/60 | train 0.7524 | val 0.9062 (ema 0.9057) | lr 7.29e-06 | best 0.9062@20 | wait 0/20 | 41s | peak 8.0 GiB
+2026-09-21 05:03:34,392 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:04:18,106 | INFO    | epoch  21/60 | train 0.6999 | val 0.9072 (ema 0.9053) | lr 7.13e-06 | best 0.9062@20 | wait 1/20 | 41s | peak 8.1 GiB
+2026-09-21 05:05:02,397 | INFO    | epoch  22/60 | train 0.8293 | val 0.9049 (ema 0.9047) | lr 6.97e-06 | best 0.9049@22 | wait 0/20 | 41s | peak 8.2 GiB
+2026-09-21 05:05:04,898 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:05:48,312 | INFO    | epoch  23/60 | train 0.7275 | val 0.9036 (ema 0.9032) | lr 6.81e-06 | best 0.9036@23 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 05:05:50,813 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:06:34,669 | INFO    | epoch  24/60 | train 0.7664 | val 0.9044 (ema 0.9026) | lr 6.65e-06 | best 0.9036@23 | wait 1/20 | 41s | peak 8.1 GiB
+2026-09-21 05:07:18,805 | INFO    | epoch  25/60 | train 0.7581 | val 0.9023 (ema 0.9022) | lr 6.49e-06 | best 0.9023@25 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 05:07:21,296 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:08:05,024 | INFO    | epoch  26/60 | train 0.8508 | val 0.9023 (ema 0.9013) | lr 6.33e-06 | best 0.9023@25 | wait 1/20 | 41s | peak 8.1 GiB
+2026-09-21 05:08:49,259 | INFO    | epoch  27/60 | train 0.7812 | val 0.9024 (ema 0.9006) | lr 6.17e-06 | best 0.9023@25 | wait 2/20 | 41s | peak 9.1 GiB
+2026-09-21 05:09:33,777 | INFO    | epoch  28/60 | train 0.7781 | val 0.9017 (ema 0.9003) | lr 6.01e-06 | best 0.9017@28 | wait 0/20 | 42s | peak 8.8 GiB
+2026-09-21 05:09:36,141 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:10:20,305 | INFO    | epoch  29/60 | train 0.8912 | val 0.9028 (ema 0.9003) | lr 5.85e-06 | best 0.9017@28 | wait 1/20 | 41s | peak 8.8 GiB
+2026-09-21 05:11:04,563 | INFO    | epoch  30/60 | train 0.7239 | val 0.9016 (ema 0.9003) | lr 5.69e-06 | best 0.9016@30 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 05:11:07,097 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:11:51,023 | INFO    | epoch  31/60 | train 0.8263 | val 0.9009 (ema 0.8997) | lr 5.53e-06 | best 0.9009@31 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 05:11:53,322 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:12:37,309 | INFO    | epoch  32/60 | train 0.7570 | val 0.9010 (ema 0.8996) | lr 5.37e-06 | best 0.9009@31 | wait 1/20 | 41s | peak 8.9 GiB
+2026-09-21 05:13:21,139 | INFO    | epoch  33/60 | train 0.8506 | val 0.9014 (ema 0.8998) | lr 5.21e-06 | best 0.9009@31 | wait 2/20 | 41s | peak 8.5 GiB
+2026-09-21 05:14:05,538 | INFO    | epoch  34/60 | train 0.7904 | val 0.8999 (ema 0.8996) | lr 5.05e-06 | best 0.8999@34 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 05:14:08,063 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:14:52,081 | INFO    | epoch  35/60 | train 0.7953 | val 0.8987 (ema 0.8990) | lr 4.90e-06 | best 0.8987@35 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-21 05:14:54,628 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:15:38,756 | INFO    | epoch  36/60 | train 0.8293 | val 0.8988 (ema 0.8985) | lr 4.74e-06 | best 0.8987@35 | wait 1/20 | 41s | peak 9.4 GiB
+2026-09-21 05:16:22,586 | INFO    | epoch  37/60 | train 0.7980 | val 0.8990 (ema 0.8982) | lr 4.58e-06 | best 0.8987@35 | wait 2/20 | 41s | peak 8.1 GiB
+2026-09-21 05:17:06,612 | INFO    | epoch  38/60 | train 0.7702 | val 0.8985 (ema 0.8979) | lr 4.42e-06 | best 0.8985@38 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 05:17:09,095 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:17:53,309 | INFO    | epoch  39/60 | train 0.8085 | val 0.8981 (ema 0.8975) | lr 4.26e-06 | best 0.8981@39 | wait 0/20 | 41s | peak 8.4 GiB
+2026-09-21 05:17:55,826 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:18:39,725 | INFO    | epoch  40/60 | train 0.7618 | val 0.8983 (ema 0.8973) | lr 4.10e-06 | best 0.8981@39 | wait 1/20 | 41s | peak 8.1 GiB
+2026-09-21 05:19:23,427 | INFO    | epoch  41/60 | train 0.8474 | val 0.8971 (ema 0.8971) | lr 3.94e-06 | best 0.8971@41 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-21 05:19:25,919 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:20:09,912 | INFO    | epoch  42/60 | train 0.7539 | val 0.8971 (ema 0.8965) | lr 3.78e-06 | best 0.8971@41 | wait 1/20 | 41s | peak 8.2 GiB
+2026-09-21 05:20:54,153 | INFO    | epoch  43/60 | train 0.8351 | val 0.8967 (ema 0.8963) | lr 3.62e-06 | best 0.8967@43 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 05:20:56,679 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:21:40,636 | INFO    | epoch  44/60 | train 0.7908 | val 0.8962 (ema 0.8960) | lr 3.46e-06 | best 0.8962@44 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-21 05:21:43,133 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:22:27,151 | INFO    | epoch  45/60 | train 0.7476 | val 0.8966 (ema 0.8959) | lr 3.31e-06 | best 0.8962@44 | wait 1/20 | 41s | peak 8.8 GiB
+2026-09-21 05:23:11,372 | INFO    | epoch  46/60 | train 0.7743 | val 0.8966 (ema 0.8958) | lr 3.15e-06 | best 0.8962@44 | wait 2/20 | 41s | peak 8.1 GiB
+2026-09-21 05:23:55,815 | INFO    | epoch  47/60 | train 0.8125 | val 0.8955 (ema 0.8959) | lr 2.99e-06 | best 0.8955@47 | wait 0/20 | 41s | peak 8.3 GiB
+2026-09-21 05:23:58,317 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:24:42,479 | INFO    | epoch  48/60 | train 0.7484 | val 0.8952 (ema 0.8955) | lr 2.83e-06 | best 0.8952@48 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-21 05:24:45,004 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:25:28,708 | INFO    | epoch  49/60 | train 0.8310 | val 0.8948 (ema 0.8949) | lr 2.67e-06 | best 0.8948@49 | wait 0/20 | 41s | peak 9.1 GiB
+2026-09-21 05:25:31,129 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:26:15,078 | INFO    | epoch  50/60 | train 0.7632 | val 0.8944 (ema 0.8946) | lr 2.51e-06 | best 0.8944@50 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-21 05:26:17,437 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:27:01,558 | INFO    | epoch  51/60 | train 0.7621 | val 0.8938 (ema 0.8943) | lr 2.35e-06 | best 0.8938@51 | wait 0/20 | 41s | peak 8.9 GiB
+2026-09-21 05:27:04,058 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:27:48,222 | INFO    | epoch  52/60 | train 0.8087 | val 0.8934 (ema 0.8938) | lr 2.19e-06 | best 0.8934@52 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-21 05:27:50,711 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:28:34,752 | INFO    | epoch  53/60 | train 0.8718 | val 0.8935 (ema 0.8935) | lr 2.03e-06 | best 0.8934@52 | wait 1/20 | 41s | peak 8.8 GiB
+2026-09-21 05:29:19,389 | INFO    | epoch  54/60 | train 0.8595 | val 0.8937 (ema 0.8933) | lr 1.87e-06 | best 0.8934@52 | wait 2/20 | 42s | peak 8.8 GiB
+2026-09-21 05:30:03,813 | INFO    | epoch  55/60 | train 0.8773 | val 0.8933 (ema 0.8933) | lr 1.71e-06 | best 0.8933@55 | wait 0/20 | 42s | peak 8.1 GiB
+2026-09-21 05:30:06,268 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:30:50,242 | INFO    | epoch  56/60 | train 0.7336 | val 0.8932 (ema 0.8932) | lr 1.55e-06 | best 0.8933@55 | wait 1/20 | 41s | peak 8.8 GiB
+2026-09-21 05:31:34,352 | INFO    | epoch  57/60 | train 0.8299 | val 0.8932 (ema 0.8931) | lr 1.39e-06 | best 0.8932@57 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 05:31:36,902 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:32:21,182 | INFO    | epoch  58/60 | train 0.7960 | val 0.8927 (ema 0.8929) | lr 1.24e-06 | best 0.8927@58 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 05:32:23,684 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:33:07,677 | INFO    | epoch  59/60 | train 0.7502 | val 0.8925 (ema 0.8926) | lr 1.08e-06 | best 0.8925@59 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-21 05:33:10,160 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:33:54,199 | INFO    | epoch  60/60 | train 0.7291 | val 0.8926 (ema 0.8925) | lr 1.00e-06 | best 0.8925@59 | wait 1/20 | 41s | peak 8.6 GiB
+2026-09-21 05:33:57,140 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 70 epochs
+2026-09-21 05:34:38,697 | INFO    | epoch  61/70 | train 0.7894 | val 0.8924 (ema 0.8924) | lr 1.00e-06 | best 0.8925@59 | wait 2/20 | 42s | peak 8.4 GiB
+2026-09-21 05:35:23,127 | INFO    | epoch  62/70 | train 0.8310 | val 0.8921 (ema 0.8923) | lr 1.00e-06 | best 0.8921@62 | wait 0/20 | 42s | peak 8.1 GiB
+2026-09-21 05:35:25,564 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:36:09,506 | INFO    | epoch  63/70 | train 0.8147 | val 0.8920 (ema 0.8922) | lr 1.00e-06 | best 0.8921@62 | wait 1/20 | 41s | peak 8.6 GiB
+2026-09-21 05:36:54,387 | INFO    | epoch  64/70 | train 0.7661 | val 0.8922 (ema 0.8920) | lr 1.00e-06 | best 0.8921@62 | wait 2/20 | 42s | peak 8.1 GiB
+2026-09-21 05:37:39,356 | INFO    | epoch  65/70 | train 0.8177 | val 0.8919 (ema 0.8920) | lr 1.00e-06 | best 0.8919@65 | wait 0/20 | 42s | peak 8.2 GiB
+2026-09-21 05:37:41,901 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:38:26,290 | INFO    | epoch  66/70 | train 0.7996 | val 0.8921 (ema 0.8920) | lr 1.00e-06 | best 0.8919@65 | wait 1/20 | 41s | peak 8.8 GiB
+2026-09-21 05:39:11,066 | INFO    | epoch  67/70 | train 0.7867 | val 0.8921 (ema 0.8921) | lr 1.00e-06 | best 0.8919@65 | wait 2/20 | 42s | peak 8.8 GiB
+2026-09-21 05:39:55,605 | INFO    | epoch  68/70 | train 0.8049 | val 0.8925 (ema 0.8922) | lr 1.00e-06 | best 0.8919@65 | wait 3/20 | 42s | peak 8.3 GiB
+2026-09-21 05:40:40,604 | INFO    | epoch  69/70 | train 0.7987 | val 0.8927 (ema 0.8923) | lr 1.00e-06 | best 0.8919@65 | wait 4/20 | 42s | peak 8.1 GiB
+2026-09-21 05:41:24,997 | INFO    | epoch  70/70 | train 0.7247 | val 0.8923 (ema 0.8923) | lr 1.00e-06 | best 0.8919@65 | wait 5/20 | 41s | peak 8.1 GiB
+2026-09-21 05:41:27,902 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 80 epochs
+2026-09-21 05:42:09,732 | INFO    | epoch  71/80 | train 0.7446 | val 0.8924 (ema 0.8923) | lr 1.00e-06 | best 0.8919@65 | wait 6/20 | 42s | peak 8.1 GiB
+2026-09-21 05:42:54,423 | INFO    | epoch  72/80 | train 0.7030 | val 0.8923 (ema 0.8922) | lr 1.00e-06 | best 0.8919@65 | wait 7/20 | 42s | peak 8.4 GiB
+2026-09-21 05:43:39,084 | INFO    | epoch  73/80 | train 0.7448 | val 0.8922 (ema 0.8922) | lr 1.00e-06 | best 0.8919@65 | wait 8/20 | 41s | peak 8.1 GiB
+2026-09-21 05:44:23,784 | INFO    | epoch  74/80 | train 0.7581 | val 0.8920 (ema 0.8922) | lr 1.00e-06 | best 0.8919@65 | wait 9/20 | 42s | peak 8.8 GiB
+2026-09-21 05:45:08,248 | INFO    | epoch  75/80 | train 0.7190 | val 0.8917 (ema 0.8920) | lr 1.00e-06 | best 0.8917@75 | wait 0/20 | 42s | peak 8.8 GiB
+2026-09-21 05:45:10,812 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:45:55,558 | INFO    | epoch  76/80 | train 0.7775 | val 0.8921 (ema 0.8919) | lr 1.00e-06 | best 0.8917@75 | wait 1/20 | 42s | peak 9.4 GiB
+2026-09-21 05:46:40,197 | INFO    | epoch  77/80 | train 0.8031 | val 0.8925 (ema 0.8920) | lr 1.00e-06 | best 0.8917@75 | wait 2/20 | 41s | peak 8.0 GiB
+2026-09-21 05:47:24,942 | INFO    | epoch  78/80 | train 0.7475 | val 0.8921 (ema 0.8921) | lr 1.00e-06 | best 0.8917@75 | wait 3/20 | 42s | peak 8.2 GiB
+2026-09-21 05:48:09,106 | INFO    | epoch  79/80 | train 0.8613 | val 0.8922 (ema 0.8920) | lr 1.00e-06 | best 0.8917@75 | wait 4/20 | 41s | peak 8.2 GiB
+2026-09-21 05:48:53,448 | INFO    | epoch  80/80 | train 0.8247 | val 0.8916 (ema 0.8919) | lr 1.00e-06 | best 0.8917@75 | wait 5/20 | 41s | peak 8.1 GiB
+2026-09-21 05:48:56,336 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 90 epochs
+2026-09-21 05:49:37,371 | INFO    | epoch  81/90 | train 0.7437 | val 0.8913 (ema 0.8916) | lr 1.00e-06 | best 0.8913@81 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 05:49:39,932 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 05:50:39,329 | INFO    | cleanup | === disk before: 171 GB free ===
+2026-09-21 05:50:39,329 | INFO    | cleanup | --- candidates ---
+2026-09-21 05:50:39,329 | INFO    | cleanup |        0.0 MB  ./scripts/__pycache__
+2026-09-21 05:50:39,329 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-21 05:50:39,329 | INFO    | cleanup | === disk after: 171 GB free (reclaimed 0.00 GB) ===
+2026-09-21 05:50:39,329 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-21 05:50:39,329 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-21 05:50:39,644 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 05:50:44,448 | INFO    | All transcript characters are covered by the pretrained vocabulary
+2026-09-21 05:50:44,456 | INFO    | train: 169 clips (67.1 min) | valid: 21 clips (8.1 min)
+2026-09-21 05:50:44,456 | INFO    | 46 micro-batches/epoch (<= 4 clips, <= 150 s each)
+2026-09-21 05:50:46,632 | INFO    | Loading pretrained weights: /home/farig/.cache/huggingface/hub/models--SWivid--F5-TTS/snapshots/84e5a410d9cead4de2f847e7c9369a6440bdfaca/F5TTS_Base/model_1200000.pt
+2026-09-21 05:50:46,992 | INFO    | F5TTS_Base: 337.1 M parameters | activation checkpointing=True | mixed precision=fp16
+2026-09-21 05:50:47,037 | INFO    | updates/epoch=46 planned updates=2760 warm-up=138 (effective batch = 4 x 1 = 4 clips)
+2026-09-21 05:50:47,429 | WARNING | checkpoint has no optimizer state (saved without --save_optimizer); AdamW moments restart
+2026-09-21 05:50:47,429 | INFO    | Resumed from epoch 81 (best val 0.8913 @ 81, planned 90)
+2026-09-21 05:51:28,541 | INFO    | epoch  82/90 | train 0.8749 | val 0.8916 (ema 0.8916) | lr 1.00e-06 | best 0.8913@81 | wait 1/20 | 41s | peak 10.0 GiB
+2026-09-21 05:52:13,218 | INFO    | epoch  83/90 | train 0.7589 | val 0.8914 (ema 0.8915) | lr 1.00e-06 | best 0.8913@81 | wait 2/20 | 41s | peak 9.9 GiB
+2026-09-21 05:52:57,730 | INFO    | epoch  84/90 | train 0.7866 | val 0.8916 (ema 0.8914) | lr 1.00e-06 | best 0.8913@81 | wait 3/20 | 42s | peak 10.0 GiB
+2026-09-21 05:53:42,089 | INFO    | epoch  85/90 | train 0.7072 | val 0.8916 (ema 0.8914) | lr 1.00e-06 | best 0.8913@81 | wait 4/20 | 41s | peak 10.0 GiB
+2026-09-21 05:54:26,597 | INFO    | epoch  86/90 | train 0.6949 | val 0.8914 (ema 0.8914) | lr 1.00e-06 | best 0.8913@81 | wait 5/20 | 42s | peak 10.6 GiB
+2026-09-21 05:55:11,008 | INFO    | epoch  87/90 | train 0.7021 | val 0.8912 (ema 0.8913) | lr 1.00e-06 | best 0.8913@81 | wait 6/20 | 42s | peak 10.6 GiB
+2026-09-21 05:55:55,209 | INFO    | epoch  88/90 | train 0.7872 | val 0.8914 (ema 0.8912) | lr 1.00e-06 | best 0.8913@81 | wait 7/20 | 41s | peak 10.6 GiB
+2026-09-21 05:56:39,821 | INFO    | epoch  89/90 | train 0.7940 | val 0.8915 (ema 0.8913) | lr 1.00e-06 | best 0.8913@81 | wait 8/20 | 42s | peak 10.2 GiB
+2026-09-21 05:57:24,288 | INFO    | epoch  90/90 | train 0.7906 | val 0.8913 (ema 0.8913) | lr 1.00e-06 | best 0.8913@81 | wait 9/20 | 42s | peak 10.6 GiB
+2026-09-21 05:57:27,164 | INFO    | Training finished (reached planned epochs). best val 0.8913 at epoch 81. best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt | last -> /home/farig/Rezuwan_TTS/checkpoints/last_model.pt | metrics -> /home/farig/Rezuwan_TTS/logs/training_metrics.csv / /home/farig/Rezuwan_TTS/logs/training_metrics.xlsx | curves -> /home/farig/Rezuwan_TTS/logs/training_convergence.png | log -> /home/farig/Rezuwan_TTS/logs/finetune_tts.log
+2026-09-21 07:27:12,925 | INFO    | cleanup | === disk before: 169 GB free ===
+2026-09-21 07:27:12,925 | INFO    | cleanup | --- candidates ---
+2026-09-21 07:27:12,925 | INFO    | cleanup |        0.2 MB  ./scripts/__pycache__
+2026-09-21 07:27:12,925 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-21 07:27:12,925 | INFO    | cleanup | === disk after: 169 GB free (reclaimed 0.00 GB) ===
+2026-09-21 07:27:12,925 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/best_model.pt, logs/run*/ archives,
+2026-09-21 07:27:12,925 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs, ~/.cache/audio-separator-models
+2026-09-21 07:27:13,330 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 07:27:17,892 | INFO    | All transcript characters are covered by the pretrained vocabulary
+2026-09-21 07:27:17,899 | INFO    | train: 169 clips (67.1 min) | valid: 21 clips (8.1 min)
+2026-09-21 07:27:17,899 | INFO    | 46 micro-batches/epoch (<= 4 clips, <= 150 s each)
+2026-09-21 07:27:19,925 | INFO    | Loading pretrained weights: /home/farig/.cache/huggingface/hub/models--SWivid--F5-TTS/snapshots/84e5a410d9cead4de2f847e7c9369a6440bdfaca/F5TTS_Base/model_1200000.pt
+2026-09-21 07:27:20,259 | INFO    | F5TTS_Base: 337.1 M parameters | activation checkpointing=True | mixed precision=fp16
+2026-09-21 07:27:20,301 | INFO    | updates/epoch=46 planned updates=2760 warm-up=138 (effective batch = 4 x 1 = 4 clips)
+2026-09-21 07:28:00,412 | INFO    | epoch   1/60 | train 0.9897 | val 0.9810 (ema 0.9871) | lr 3.41e-06 | best 0.9810@1 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-21 07:28:02,887 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:28:45,385 | INFO    | epoch   2/60 | train 0.8386 | val 0.9583 (ema 0.9633) | lr 6.81e-06 | best 0.9583@2 | wait 0/20 | 40s | peak 8.4 GiB
+2026-09-21 07:28:47,882 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:29:31,006 | INFO    | epoch   3/60 | train 0.8517 | val 0.9454 (ema 0.9501) | lr 9.99e-06 | best 0.9454@3 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-21 07:29:33,854 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:30:17,027 | INFO    | epoch   4/60 | train 0.7570 | val 0.9407 (ema 0.9421) | lr 9.84e-06 | best 0.9407@4 | wait 0/20 | 40s | peak 8.2 GiB
+2026-09-21 07:30:19,506 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:31:02,751 | INFO    | epoch   5/60 | train 0.7374 | val 0.9362 (ema 0.9375) | lr 9.68e-06 | best 0.9362@5 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-21 07:31:05,604 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:31:49,117 | INFO    | epoch   6/60 | train 0.7361 | val 0.9316 (ema 0.9329) | lr 9.52e-06 | best 0.9316@6 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 07:31:51,553 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:32:34,670 | INFO    | epoch   7/60 | train 0.8396 | val 0.9291 (ema 0.9282) | lr 9.36e-06 | best 0.9291@7 | wait 0/20 | 40s | peak 8.7 GiB
+2026-09-21 07:32:37,164 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:33:20,606 | INFO    | epoch   8/60 | train 0.8464 | val 0.9253 (ema 0.9260) | lr 9.20e-06 | best 0.9253@8 | wait 0/20 | 40s | peak 8.3 GiB
+2026-09-21 07:33:23,479 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:34:06,822 | INFO    | epoch   9/60 | train 0.8383 | val 0.9241 (ema 0.9230) | lr 9.04e-06 | best 0.9241@9 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-21 07:34:09,344 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:34:52,435 | INFO    | epoch  10/60 | train 0.8235 | val 0.9218 (ema 0.9215) | lr 8.88e-06 | best 0.9218@10 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-21 07:34:55,313 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:35:38,652 | INFO    | epoch  11/60 | train 0.8994 | val 0.9203 (ema 0.9195) | lr 8.73e-06 | best 0.9203@11 | wait 0/20 | 40s | peak 8.5 GiB
+2026-09-21 07:35:41,138 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:36:24,090 | INFO    | epoch  12/60 | train 0.7806 | val 0.9179 (ema 0.9180) | lr 8.57e-06 | best 0.9179@12 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-21 07:36:26,585 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:37:10,198 | INFO    | epoch  13/60 | train 0.7640 | val 0.9162 (ema 0.9160) | lr 8.41e-06 | best 0.9162@13 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-21 07:37:12,915 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:37:56,261 | INFO    | epoch  14/60 | train 0.9672 | val 0.9172 (ema 0.9154) | lr 8.25e-06 | best 0.9162@13 | wait 1/20 | 41s | peak 8.1 GiB
+2026-09-21 07:38:39,690 | INFO    | epoch  15/60 | train 0.8471 | val 0.9115 (ema 0.9132) | lr 8.09e-06 | best 0.9115@15 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 07:38:42,198 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:39:25,596 | INFO    | epoch  16/60 | train 0.7851 | val 0.9082 (ema 0.9101) | lr 7.93e-06 | best 0.9082@16 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-21 07:39:28,428 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:40:11,235 | INFO    | epoch  17/60 | train 0.8258 | val 0.9114 (ema 0.9090) | lr 7.77e-06 | best 0.9082@16 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-21 07:40:54,934 | INFO    | epoch  18/60 | train 0.8312 | val 0.9094 (ema 0.9084) | lr 7.61e-06 | best 0.9082@16 | wait 2/20 | 41s | peak 8.1 GiB
+2026-09-21 07:41:38,067 | INFO    | epoch  19/60 | train 0.8242 | val 0.9076 (ema 0.9073) | lr 7.45e-06 | best 0.9076@19 | wait 0/20 | 40s | peak 8.0 GiB
+2026-09-21 07:41:40,596 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:42:23,966 | INFO    | epoch  20/60 | train 0.7530 | val 0.9059 (ema 0.9059) | lr 7.29e-06 | best 0.9059@20 | wait 0/20 | 40s | peak 8.0 GiB
+2026-09-21 07:42:26,827 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:43:10,360 | INFO    | epoch  21/60 | train 0.6995 | val 0.9072 (ema 0.9056) | lr 7.13e-06 | best 0.9059@20 | wait 1/20 | 41s | peak 8.1 GiB
+2026-09-21 07:43:54,125 | INFO    | epoch  22/60 | train 0.8289 | val 0.9056 (ema 0.9050) | lr 6.97e-06 | best 0.9056@22 | wait 0/20 | 41s | peak 8.2 GiB
+2026-09-21 07:43:56,638 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:44:40,041 | INFO    | epoch  23/60 | train 0.7276 | val 0.9043 (ema 0.9039) | lr 6.81e-06 | best 0.9043@23 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-21 07:44:42,539 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:45:26,002 | INFO    | epoch  24/60 | train 0.7665 | val 0.9051 (ema 0.9031) | lr 6.65e-06 | best 0.9043@23 | wait 1/20 | 41s | peak 8.8 GiB
+2026-09-21 07:46:10,048 | INFO    | epoch  25/60 | train 0.7577 | val 0.9043 (ema 0.9032) | lr 6.49e-06 | best 0.9043@23 | wait 2/20 | 41s | peak 8.6 GiB
+2026-09-21 07:46:54,100 | INFO    | epoch  26/60 | train 0.8502 | val 0.9035 (ema 0.9024) | lr 6.33e-06 | best 0.9035@26 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-21 07:46:56,563 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:47:40,275 | INFO    | epoch  27/60 | train 0.7813 | val 0.9030 (ema 0.9019) | lr 6.17e-06 | best 0.9030@27 | wait 0/20 | 41s | peak 8.5 GiB
+2026-09-21 07:47:43,150 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:48:27,005 | INFO    | epoch  28/60 | train 0.7772 | val 0.9020 (ema 0.9013) | lr 6.01e-06 | best 0.9020@28 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-21 07:48:29,463 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:49:13,150 | INFO    | epoch  29/60 | train 0.8901 | val 0.9032 (ema 0.9009) | lr 5.85e-06 | best 0.9020@28 | wait 1/20 | 41s | peak 8.5 GiB
+2026-09-21 07:49:57,142 | INFO    | epoch  30/60 | train 0.7242 | val 0.9014 (ema 0.9008) | lr 5.69e-06 | best 0.9014@30 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-21 07:49:59,629 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:50:43,097 | INFO    | epoch  31/60 | train 0.8264 | val 0.9008 (ema 0.9000) | lr 5.53e-06 | best 0.9008@31 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 07:50:45,372 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:51:29,194 | INFO    | epoch  32/60 | train 0.7589 | val 0.9006 (ema 0.8997) | lr 5.37e-06 | best 0.9006@32 | wait 0/20 | 41s | peak 8.9 GiB
+2026-09-21 07:51:32,030 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:52:15,544 | INFO    | epoch  33/60 | train 0.8511 | val 0.9023 (ema 0.8999) | lr 5.21e-06 | best 0.9006@32 | wait 1/20 | 41s | peak 8.1 GiB
+2026-09-21 07:52:59,288 | INFO    | epoch  34/60 | train 0.7915 | val 0.9001 (ema 0.8996) | lr 5.05e-06 | best 0.9001@34 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 07:53:01,752 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:53:45,546 | INFO    | epoch  35/60 | train 0.7954 | val 0.8993 (ema 0.8992) | lr 4.90e-06 | best 0.8993@35 | wait 0/20 | 41s | peak 8.2 GiB
+2026-09-21 07:53:48,427 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:54:32,733 | INFO    | epoch  36/60 | train 0.8281 | val 0.8993 (ema 0.8989) | lr 4.74e-06 | best 0.8993@35 | wait 1/20 | 41s | peak 8.2 GiB
+2026-09-21 07:55:20,432 | INFO    | epoch  37/60 | train 0.7962 | val 0.9000 (ema 0.8988) | lr 4.58e-06 | best 0.8993@35 | wait 2/20 | 45s | peak 8.8 GiB
+2026-09-21 07:56:09,365 | INFO    | epoch  38/60 | train 0.7691 | val 0.8992 (ema 0.8987) | lr 4.42e-06 | best 0.8993@35 | wait 3/20 | 44s | peak 8.5 GiB
+2026-09-21 07:56:59,797 | INFO    | epoch  39/60 | train 0.8088 | val 0.8996 (ema 0.8985) | lr 4.26e-06 | best 0.8993@35 | wait 4/20 | 46s | peak 8.4 GiB
+2026-09-21 07:57:49,882 | INFO    | epoch  40/60 | train 0.7616 | val 0.8998 (ema 0.8987) | lr 4.10e-06 | best 0.8993@35 | wait 5/20 | 45s | peak 8.1 GiB
+2026-09-21 07:58:38,589 | INFO    | epoch  41/60 | train 0.8473 | val 0.8982 (ema 0.8986) | lr 3.94e-06 | best 0.8982@41 | wait 0/20 | 44s | peak 8.8 GiB
+2026-09-21 07:58:42,596 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 07:59:30,622 | INFO    | epoch  42/60 | train 0.7558 | val 0.8986 (ema 0.8980) | lr 3.78e-06 | best 0.8982@41 | wait 1/20 | 44s | peak 8.1 GiB
+2026-09-21 08:00:19,513 | INFO    | epoch  43/60 | train 0.8363 | val 0.8977 (ema 0.8977) | lr 3.62e-06 | best 0.8977@43 | wait 0/20 | 44s | peak 8.1 GiB
+2026-09-21 08:00:24,078 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:01:13,270 | INFO    | epoch  44/60 | train 0.7908 | val 0.8972 (ema 0.8972) | lr 3.46e-06 | best 0.8972@44 | wait 0/20 | 44s | peak 8.8 GiB
+2026-09-21 08:01:17,318 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:02:05,390 | INFO    | epoch  45/60 | train 0.7484 | val 0.8970 (ema 0.8968) | lr 3.31e-06 | best 0.8970@45 | wait 0/20 | 44s | peak 8.8 GiB
+2026-09-21 08:02:09,375 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:02:56,545 | INFO    | epoch  46/60 | train 0.7740 | val 0.8968 (ema 0.8964) | lr 3.15e-06 | best 0.8968@46 | wait 0/20 | 43s | peak 8.1 GiB
+2026-09-21 08:03:00,331 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:03:47,757 | INFO    | epoch  47/60 | train 0.8134 | val 0.8967 (ema 0.8963) | lr 2.99e-06 | best 0.8967@47 | wait 0/20 | 43s | peak 8.3 GiB
+2026-09-21 08:03:51,446 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:04:37,408 | INFO    | epoch  48/60 | train 0.7477 | val 0.8968 (ema 0.8963) | lr 2.83e-06 | best 0.8967@47 | wait 1/20 | 42s | peak 8.8 GiB
+2026-09-21 08:05:21,095 | INFO    | epoch  49/60 | train 0.8303 | val 0.8962 (ema 0.8961) | lr 2.67e-06 | best 0.8962@49 | wait 0/20 | 41s | peak 8.3 GiB
+2026-09-21 08:05:23,642 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:06:07,211 | INFO    | epoch  50/60 | train 0.7628 | val 0.8956 (ema 0.8959) | lr 2.51e-06 | best 0.8956@50 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-21 08:06:10,335 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:06:53,803 | INFO    | epoch  51/60 | train 0.7602 | val 0.8950 (ema 0.8955) | lr 2.35e-06 | best 0.8950@51 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-21 08:06:56,318 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:07:40,058 | INFO    | epoch  52/60 | train 0.8084 | val 0.8948 (ema 0.8951) | lr 2.19e-06 | best 0.8948@52 | wait 0/20 | 41s | peak 9.4 GiB
+2026-09-21 08:07:42,960 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:08:26,508 | INFO    | epoch  53/60 | train 0.8712 | val 0.8946 (ema 0.8949) | lr 2.03e-06 | best 0.8946@53 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 08:08:29,071 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:09:12,745 | INFO    | epoch  54/60 | train 0.8594 | val 0.8945 (ema 0.8946) | lr 1.87e-06 | best 0.8946@53 | wait 1/20 | 41s | peak 8.1 GiB
+2026-09-21 08:09:56,478 | INFO    | epoch  55/60 | train 0.8769 | val 0.8941 (ema 0.8943) | lr 1.71e-06 | best 0.8941@55 | wait 0/20 | 40s | peak 8.1 GiB
+2026-09-21 08:09:59,091 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:10:42,355 | INFO    | epoch  56/60 | train 0.7330 | val 0.8942 (ema 0.8941) | lr 1.55e-06 | best 0.8941@55 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-21 08:11:25,572 | INFO    | epoch  57/60 | train 0.8304 | val 0.8940 (ema 0.8940) | lr 1.39e-06 | best 0.8940@57 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-21 08:11:27,946 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:12:11,546 | INFO    | epoch  58/60 | train 0.7957 | val 0.8938 (ema 0.8939) | lr 1.24e-06 | best 0.8938@58 | wait 0/20 | 41s | peak 8.5 GiB
+2026-09-21 08:12:14,362 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:12:57,718 | INFO    | epoch  59/60 | train 0.7506 | val 0.8933 (ema 0.8936) | lr 1.08e-06 | best 0.8933@59 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-21 08:13:00,181 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:13:43,574 | INFO    | epoch  60/60 | train 0.7305 | val 0.8934 (ema 0.8935) | lr 1.00e-06 | best 0.8933@59 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-21 08:13:46,787 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 70 epochs
+2026-09-21 08:14:27,632 | INFO    | epoch  61/70 | train 0.7891 | val 0.8934 (ema 0.8934) | lr 1.00e-06 | best 0.8933@59 | wait 2/20 | 41s | peak 8.4 GiB
+2026-09-21 08:15:11,677 | INFO    | epoch  62/70 | train 0.8301 | val 0.8931 (ema 0.8932) | lr 1.00e-06 | best 0.8931@62 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 08:15:14,231 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:15:57,356 | INFO    | epoch  63/70 | train 0.8138 | val 0.8929 (ema 0.8931) | lr 1.00e-06 | best 0.8929@63 | wait 0/20 | 40s | peak 8.6 GiB
+2026-09-21 08:16:00,243 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:16:43,517 | INFO    | epoch  64/70 | train 0.7657 | val 0.8930 (ema 0.8929) | lr 1.00e-06 | best 0.8929@63 | wait 1/20 | 40s | peak 8.1 GiB
+2026-09-21 08:17:26,978 | INFO    | epoch  65/70 | train 0.8186 | val 0.8926 (ema 0.8928) | lr 1.00e-06 | best 0.8926@65 | wait 0/20 | 41s | peak 8.2 GiB
+2026-09-21 08:17:29,471 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:18:12,742 | INFO    | epoch  66/70 | train 0.7998 | val 0.8928 (ema 0.8928) | lr 1.00e-06 | best 0.8926@65 | wait 1/20 | 41s | peak 8.8 GiB
+2026-09-21 08:18:56,633 | INFO    | epoch  67/70 | train 0.7849 | val 0.8931 (ema 0.8928) | lr 1.00e-06 | best 0.8926@65 | wait 2/20 | 41s | peak 8.8 GiB
+2026-09-21 08:19:40,368 | INFO    | epoch  68/70 | train 0.8050 | val 0.8932 (ema 0.8929) | lr 1.00e-06 | best 0.8926@65 | wait 3/20 | 41s | peak 8.9 GiB
+2026-09-21 08:20:24,207 | INFO    | epoch  69/70 | train 0.7981 | val 0.8935 (ema 0.8930) | lr 1.00e-06 | best 0.8926@65 | wait 4/20 | 41s | peak 8.7 GiB
+2026-09-21 08:21:07,448 | INFO    | epoch  70/70 | train 0.7249 | val 0.8931 (ema 0.8931) | lr 1.00e-06 | best 0.8926@65 | wait 5/20 | 40s | peak 8.1 GiB
+2026-09-21 08:21:10,552 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 80 epochs
+2026-09-21 08:21:51,001 | INFO    | epoch  71/80 | train 0.7453 | val 0.8932 (ema 0.8931) | lr 1.00e-06 | best 0.8926@65 | wait 6/20 | 40s | peak 8.1 GiB
+2026-09-21 08:22:34,863 | INFO    | epoch  72/80 | train 0.7026 | val 0.8930 (ema 0.8931) | lr 1.00e-06 | best 0.8926@65 | wait 7/20 | 41s | peak 8.4 GiB
+2026-09-21 08:23:18,113 | INFO    | epoch  73/80 | train 0.7446 | val 0.8928 (ema 0.8930) | lr 1.00e-06 | best 0.8926@65 | wait 8/20 | 40s | peak 8.1 GiB
+2026-09-21 08:24:01,670 | INFO    | epoch  74/80 | train 0.7575 | val 0.8927 (ema 0.8930) | lr 1.00e-06 | best 0.8926@65 | wait 9/20 | 41s | peak 8.8 GiB
+2026-09-21 08:24:45,106 | INFO    | epoch  75/80 | train 0.7185 | val 0.8923 (ema 0.8928) | lr 1.00e-06 | best 0.8923@75 | wait 0/20 | 41s | peak 8.8 GiB
+2026-09-21 08:24:47,627 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:25:30,986 | INFO    | epoch  76/80 | train 0.7771 | val 0.8928 (ema 0.8926) | lr 1.00e-06 | best 0.8923@75 | wait 1/20 | 41s | peak 8.8 GiB
+2026-09-21 08:26:14,443 | INFO    | epoch  77/80 | train 0.8023 | val 0.8934 (ema 0.8927) | lr 1.00e-06 | best 0.8923@75 | wait 2/20 | 41s | peak 8.0 GiB
+2026-09-21 08:26:58,164 | INFO    | epoch  78/80 | train 0.7471 | val 0.8930 (ema 0.8929) | lr 1.00e-06 | best 0.8923@75 | wait 3/20 | 41s | peak 8.2 GiB
+2026-09-21 08:27:41,128 | INFO    | epoch  79/80 | train 0.8602 | val 0.8931 (ema 0.8929) | lr 1.00e-06 | best 0.8923@75 | wait 4/20 | 40s | peak 8.2 GiB
+2026-09-21 08:28:24,404 | INFO    | epoch  80/80 | train 0.8254 | val 0.8927 (ema 0.8928) | lr 1.00e-06 | best 0.8923@75 | wait 5/20 | 40s | peak 8.1 GiB
+2026-09-21 08:28:27,285 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 90 epochs
+2026-09-21 08:29:07,472 | INFO    | epoch  81/90 | train 0.7435 | val 0.8922 (ema 0.8926) | lr 1.00e-06 | best 0.8923@75 | wait 6/20 | 40s | peak 8.8 GiB
+2026-09-21 08:29:50,785 | INFO    | epoch  82/90 | train 0.8603 | val 0.8918 (ema 0.8923) | lr 1.00e-06 | best 0.8918@82 | wait 0/20 | 40s | peak 8.8 GiB
+2026-09-21 08:29:53,300 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:30:36,269 | INFO    | epoch  83/90 | train 0.7329 | val 0.8919 (ema 0.8921) | lr 1.00e-06 | best 0.8918@82 | wait 1/20 | 40s | peak 8.7 GiB
+2026-09-21 08:31:19,217 | INFO    | epoch  84/90 | train 0.7943 | val 0.8921 (ema 0.8920) | lr 1.00e-06 | best 0.8918@82 | wait 2/20 | 40s | peak 8.2 GiB
+2026-09-21 08:32:02,673 | INFO    | epoch  85/90 | train 0.7728 | val 0.8924 (ema 0.8920) | lr 1.00e-06 | best 0.8918@82 | wait 3/20 | 41s | peak 8.1 GiB
+2026-09-21 08:32:45,950 | INFO    | epoch  86/90 | train 0.7881 | val 0.8926 (ema 0.8921) | lr 1.00e-06 | best 0.8918@82 | wait 4/20 | 40s | peak 8.1 GiB
+2026-09-21 08:33:29,169 | INFO    | epoch  87/90 | train 0.7964 | val 0.8919 (ema 0.8922) | lr 1.00e-06 | best 0.8918@82 | wait 5/20 | 40s | peak 8.1 GiB
+2026-09-21 08:34:12,353 | INFO    | epoch  88/90 | train 0.7589 | val 0.8919 (ema 0.8921) | lr 1.00e-06 | best 0.8918@82 | wait 6/20 | 40s | peak 8.1 GiB
+2026-09-21 08:34:56,163 | INFO    | epoch  89/90 | train 0.7443 | val 0.8916 (ema 0.8919) | lr 1.00e-06 | best 0.8916@89 | wait 0/20 | 41s | peak 8.3 GiB
+2026-09-21 08:34:58,670 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:35:42,078 | INFO    | epoch  90/90 | train 0.7512 | val 0.8915 (ema 0.8917) | lr 1.00e-06 | best 0.8915@90 | wait 0/20 | 40s | peak 9.1 GiB
+2026-09-21 08:35:44,866 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:35:47,920 | INFO    |   validation loss still declining (best 5 epochs ago or less) -> extending training to 100 epochs
+2026-09-21 08:36:28,470 | INFO    | epoch  91/100 | train 0.7993 | val 0.8913 (ema 0.8915) | lr 1.00e-06 | best 0.8913@91 | wait 0/20 | 41s | peak 8.1 GiB
+2026-09-21 08:36:30,920 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-21 08:37:14,633 | INFO    | epoch  92/100 | train 0.7845 | val 0.8916 (ema 0.8914) | lr 1.00e-06 | best 0.8913@91 | wait 1/20 | 41s | peak 8.1 GiB
+2026-09-21 08:37:58,095 | INFO    | epoch  93/100 | train 0.8156 | val 0.8916 (ema 0.8914) | lr 1.00e-06 | best 0.8913@91 | wait 2/20 | 40s | peak 8.8 GiB
+2026-09-21 08:38:41,320 | INFO    | epoch  94/100 | train 0.8861 | val 0.8915 (ema 0.8914) | lr 1.00e-06 | best 0.8913@91 | wait 3/20 | 40s | peak 8.6 GiB
+2026-09-21 08:39:24,441 | INFO    | epoch  95/100 | train 0.7299 | val 0.8914 (ema 0.8913) | lr 1.00e-06 | best 0.8913@91 | wait 4/20 | 40s | peak 8.8 GiB
+2026-09-21 08:40:08,075 | INFO    | epoch  96/100 | train 0.7022 | val 0.8915 (ema 0.8913) | lr 1.00e-06 | best 0.8913@91 | wait 5/20 | 41s | peak 8.8 GiB
+2026-09-21 08:40:51,031 | INFO    | epoch  97/100 | train 0.7810 | val 0.8916 (ema 0.8914) | lr 1.00e-06 | best 0.8913@91 | wait 6/20 | 40s | peak 8.1 GiB
+2026-09-21 08:41:34,154 | INFO    | epoch  98/100 | train 0.6980 | val 0.8918 (ema 0.8915) | lr 1.00e-06 | best 0.8913@91 | wait 7/20 | 40s | peak 8.1 GiB
+2026-09-21 08:42:17,541 | INFO    | epoch  99/100 | train 0.7191 | val 0.8915 (ema 0.8915) | lr 1.00e-06 | best 0.8913@91 | wait 8/20 | 40s | peak 8.1 GiB
+2026-09-21 08:43:01,606 | INFO    | epoch 100/100 | train 0.7785 | val 0.8916 (ema 0.8915) | lr 1.00e-06 | best 0.8913@91 | wait 9/20 | 41s | peak 8.2 GiB
+2026-09-21 08:43:04,400 | INFO    | Training finished (reached planned epochs). best val 0.8913 at epoch 91. best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt | last -> /home/farig/Rezuwan_TTS/checkpoints/last_model.pt | metrics -> /home/farig/Rezuwan_TTS/logs/training_metrics.csv / /home/farig/Rezuwan_TTS/logs/training_metrics.xlsx | curves -> /home/farig/Rezuwan_TTS/logs/training_convergence.png | log -> /home/farig/Rezuwan_TTS/logs/finetune_tts.log
+2026-09-28 10:16:41,206 | INFO    | cleanup | === disk before: 145 GB free ===
+2026-09-28 10:16:41,206 | INFO    | cleanup | --- candidates ---
+2026-09-28 10:16:41,206 | INFO    | cleanup |        0.1 MB  scripts/__pycache__
+2026-09-28 10:16:41,206 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-28 10:16:41,206 | INFO    | cleanup | === disk after: 145 GB free (reclaimed 0.00 GB) ===
+2026-09-28 10:16:41,206 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/*.pt, logs/run*/ archives,
+2026-09-28 10:16:41,206 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs
+2026-09-28 10:16:41,498 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-28 10:16:45,989 | INFO    | All transcript characters are covered by the pretrained vocabulary
+2026-09-28 10:16:45,996 | INFO    | dry run: single micro-batch of the longest clips: [82.2, 63.624, 59.07, 55.73]
+2026-09-28 10:16:45,996 | INFO    | train: 4 clips (4.3 min) | valid: 21 clips (8.1 min)
+2026-09-28 10:16:45,996 | INFO    | 2 micro-batches/epoch (<= 4 clips, <= 150 s each)
+2026-09-28 10:16:48,589 | INFO    | Loading pretrained weights: /home/farig/.cache/huggingface/hub/models--SWivid--F5-TTS/snapshots/84e5a410d9cead4de2f847e7c9369a6440bdfaca/F5TTS_Base/model_1200000.pt
+2026-09-28 10:16:49,307 | INFO    | F5TTS_Base: 337.1 M parameters | activation checkpointing=True | mixed precision=fp16
+2026-09-28 10:16:49,349 | INFO    | updates/epoch=2 planned updates=120 warm-up=6 (effective batch = 4 x 1 = 4 clips)
+2026-09-28 10:16:59,656 | INFO    | epoch   1/60 | train 0.8644 | val 1.0147 (ema 1.0147) | lr 3.33e-06 | best 1.0147@1 | wait 0/20 | 10s | peak 7.6 GiB
+2026-09-28 10:17:01,935 | INFO    |   new best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt (1.88 GB)
+2026-09-28 10:17:04,098 | INFO    | Training finished (dry run). best val 1.0147 at epoch 1. best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt | last -> /home/farig/Rezuwan_TTS/checkpoints/last_model.pt | metrics -> /home/farig/Rezuwan_TTS/logs/training_metrics.csv / /home/farig/Rezuwan_TTS/logs/training_metrics.xlsx | curves -> /home/farig/Rezuwan_TTS/logs/training_convergence.png | log -> /home/farig/Rezuwan_TTS/logs/finetune_tts.log
+2026-09-28 10:20:36,611 | INFO    | cleanup | === disk before: 146 GB free ===
+2026-09-28 10:20:36,611 | INFO    | cleanup | --- candidates ---
+2026-09-28 10:20:36,611 | INFO    | cleanup |        0.2 MB  scripts/__pycache__
+2026-09-28 10:20:36,611 | INFO    | cleanup | --- total: 0.00 GB ---
+2026-09-28 10:20:36,612 | INFO    | cleanup | === disk after: 146 GB free (reclaimed 0.00 GB) ===
+2026-09-28 10:20:36,612 | INFO    | cleanup | kept: data/ (raw, clean_audios, splits), checkpoints/*.pt, logs/run*/ archives,
+2026-09-28 10:20:36,612 | INFO    | cleanup |       unarchived evaluation audio, ~/.cache/huggingface model blobs
+2026-09-28 10:20:36,911 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 11.00 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-28 10:20:41,433 | INFO    | All transcript characters are covered by the pretrained vocabulary
+2026-09-28 10:20:41,440 | INFO    | dry run: single micro-batch of the longest clips: [82.2, 63.624, 59.07, 55.73]
+2026-09-28 10:20:41,440 | INFO    | train: 4 clips (4.3 min) | valid: 21 clips (8.1 min)
+2026-09-28 10:20:41,441 | INFO    | 2 micro-batches/epoch (<= 4 clips, <= 150 s each)
+2026-09-28 10:20:43,690 | INFO    | Loading pretrained weights: /home/farig/.cache/huggingface/hub/models--SWivid--F5-TTS/snapshots/84e5a410d9cead4de2f847e7c9369a6440bdfaca/F5TTS_Base/model_1200000.pt
+2026-09-28 10:20:43,999 | INFO    | F5TTS_Base: 337.1 M parameters | activation checkpointing=True | mixed precision=fp16
+2026-09-28 10:20:44,042 | INFO    | updates/epoch=2 planned updates=120 warm-up=6 (effective batch = 4 x 1 = 4 clips)
+2026-09-28 10:20:54,269 | INFO    | epoch   1/60 | train 0.8644 | val 1.0147 (ema 1.0147) | lr 3.33e-06 | best 1.0147@1 | wait 0/20 | 10s | peak 7.6 GiB
+2026-09-28 10:20:54,270 | INFO    |   dry run: NOT writing best_model.pt / last_model.pt (a 1-epoch dry-run loss is not a real checkpoint)
+2026-09-28 10:20:54,270 | INFO    | Training finished (dry run). best val 1.0147 at epoch 1. best -> /home/farig/Rezuwan_TTS/checkpoints/best_model.pt | last -> /home/farig/Rezuwan_TTS/checkpoints/last_model.pt | metrics -> /home/farig/Rezuwan_TTS/logs/training_metrics.csv / /home/farig/Rezuwan_TTS/logs/training_metrics.xlsx | curves -> /home/farig/Rezuwan_TTS/logs/training_convergence.png | log -> /home/farig/Rezuwan_TTS/logs/finetune_tts.log

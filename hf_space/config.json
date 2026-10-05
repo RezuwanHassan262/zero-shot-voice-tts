@@ -1,0 +1,22 @@
+{
+  "architecture": {
+    "dim": 1024, "depth": 22, "heads": 16, "ff_mult": 2,
+    "text_dim": 512, "text_mask_padding": false, "conv_layers": 4, "pe_attn_head": 1,
+    "mel_dim": 100
+  },
+  "mel_spec_kwargs": {
+    "n_fft": 1024, "hop_length": 256, "win_length": 1024,
+    "n_mel_channels": 100, "target_sample_rate": 24000, "mel_spec_type": "vocos"
+  },
+  "tokenizer": "custom",
+  "vocab_file": "vocab.txt",
+  "sample_rate": 24000,
+  "base_model": "SWivid/F5-TTS F5TTS_Base (model_1200000.pt)",
+  "weights": {
+    "alpha_1.0": {"file": "f5tts_finetuned_alpha1.0.safetensors",
+                  "description": "Recommended default. WER matches the real speaker's own WER; SIM-o at the natural same-speaker ceiling."},
+    "alpha_1.2": {"file": "f5tts_finetuned_alpha1.2.safetensors",
+                  "description": "More idiosyncratic-pronunciation retention (+8.9pp on a validated phone-level metric), at a real, CI-confirmed WER cost."}
+  },
+  "recommended_decoding": {"nfe_step": 32, "cfg_strength": 2.0, "sway_sampling_coef": -1.0}
+}

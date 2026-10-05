@@ -1,0 +1,10 @@
+23:49:07 | INFO    | GPU: NVIDIA GeForce RTX 3060 | total VRAM 12.00 GiB | free 10.98 GiB | torch 2.7.1+cu118 | CUDA 11.8
+23:49:30 | INFO    | All transcript characters are covered by the pretrained vocabulary
+23:49:30 | INFO    | train: 169 clips (67.1 min) | valid: 21 clips (8.1 min)
+23:49:30 | INFO    | 46 micro-batches/epoch (<= 4 clips, <= 150 s each)
+23:49:52 | INFO    | Loading pretrained weights: C:\Users\MD. REZUWAN HASAN\.cache\huggingface\hub\models--SWivid--F5-TTS\snapshots\84e5a410d9cead4de2f847e7c9369a6440bdfaca\F5TTS_Base\model_1200000.pt
+23:49:55 | INFO    | F5TTS_Base: 337.1 M parameters | activation checkpointing=True | mixed precision=fp16
+23:49:56 | INFO    | updates/epoch=12 planned updates=1200 warm-up=60 (effective batch = 4 x 4 = 16 clips)
+23:51:57 | INFO    | epoch   1/100 | train 0.8616 | val 0.7770 (ema 0.7812) | lr 2.17e-06 | best 0.7770@1 | wait 0/10 | 122s | peak 8.9 GiB
+23:52:15 | INFO    |   new best -> G:\akhtar_khan\checkpoints\best_model.pt (1.88 GB)
+23:54:07 | INFO    | epoch   2/100 | train 0.7976 | val 0.7633 (ema 0.7683) | lr 4.17e-06 | best 0.7633@2 | wait 0/10 | 91s | peak 9.2 GiB

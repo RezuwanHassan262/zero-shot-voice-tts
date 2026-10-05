@@ -1,0 +1,5 @@
+2026-09-21 04:05:40,466 | INFO    | GPU: NVIDIA GeForce RTX 3080 Ti | total VRAM 11.62 GiB | free 10.82 GiB | torch 2.7.1+cu118 | CUDA 11.8
+2026-09-21 04:07:01,997 | INFO    | finetuned seed1: 21 utts in 78s -> output/evaluation/finetuned_seed1/fixed
+2026-09-21 04:08:22,424 | INFO    | finetuned seed2: 21 utts in 80s -> output/evaluation/finetuned_seed2/fixed
+2026-09-21 04:09:47,213 | INFO    | alpha_1.20 seed1: 21 utts in 81s -> output/evaluation/alpha_1.20_seed1/fixed
+2026-09-21 04:11:08,819 | INFO    | alpha_1.20 seed2: 21 utts in 82s -> output/evaluation/alpha_1.20_seed2/fixed

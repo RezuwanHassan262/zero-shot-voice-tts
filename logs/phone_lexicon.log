@@ -1,0 +1,10 @@
+2026-09-21 08:45:19,058 | INFO    |   25 files, 291 word types, 1153 tokens
+2026-09-21 08:47:09,619 | INFO    |   50 files, 518 word types, 2149 tokens
+2026-09-21 08:49:02,856 | INFO    |   75 files, 698 word types, 3146 tokens
+2026-09-21 08:50:19,610 | INFO    |   100 files, 805 word types, 3927 tokens
+2026-09-21 08:51:54,180 | INFO    |   125 files, 925 word types, 4881 tokens
+2026-09-21 08:53:22,785 | INFO    |   150 files, 1043 word types, 5868 tokens
+2026-09-21 08:55:02,184 | INFO    |   175 files, 1180 word types, 6930 tokens
+2026-09-21 08:55:53,534 | INFO    |   200 files, 1284 word types, 7863 tokens
+2026-09-21 08:55:53,865 | INFO    | lexicon: 1311 word types from 8243 tokens in 211 files ({'train': 6658, 'valid': 807, 'test': 778}); 467 types with >= 3 tokens
+2026-09-21 08:55:53,873 | INFO    | -> /home/farig/Rezuwan_TTS/checkpoints/speaker_lexicon.json (766s)
