@@ -266,7 +266,7 @@ checkpoint), per-run log archives (`logs/run*/`), the venv, and caches.
 The final model weights were deployed in HuggingFace Spaces. The implementation can be found in deployment [here](https://huggingface.co/spaces/Rezuwan/Aktar_Khan_TTS)
 
 
-![Model deployment on huggingface spaces screenshot](https://raw.githubusercontent.com/zero-shot-voice-tts/main/checkpoints/hf_space.PNG) 
+![Model deployment on huggingface spaces screenshot](hf_space/hfs_ss.PNG)
 
 
 
